@@ -1,0 +1,42 @@
+name: Build Course & Deploy to Vercel
+
+on: [push]
+
+jobs:
+  buildAndDeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Install mdBook
+        uses: extractions/setup-crate@v1
+        with:
+          owner: rust-lang
+          name: mdBook
+
+      - name: Generate static content for the course
+        run: mdbook build
+
+      - name: Setup Node.js (required to install Vercel CLI)
+        uses: actions/setup-node@v3
+
+      - name: Install Vercel CLI
+        run: npm install --location=global vercel@26.0.0
+
+      - name: Deploy static content to Vercel
+        run: |
+          if [[ ${GITHUB_REF} == "refs/heads/main" ]]; then
+            export VERCEL_PROJECT_ID=${MAIN_PROJECT_ID} 
+            vercel output --token ${VERCEL_TOKEN} --prod
+          fi
+
+          if [[ ${GITHUB_REF} == "refs/heads/draft" ]]; then
+            export VERCEL_PROJECT_ID=${DRAFT_PROJECT_ID} 
+            vercel output --token ${VERCEL_TOKEN} --prod
+          fi
+        env:
+          VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
+          VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
+          MAIN_PROJECT_ID: ${{ secrets.MAIN_PROJECT_ID }}
+          DRAFT_PROJECT_ID: ${{ secrets.DRAFT_PROJECT_ID }}
