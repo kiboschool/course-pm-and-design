@@ -8,3 +8,8 @@
 
 - [Overview Page](lessons/overview.md)
   - [Subchapter](lessons/overview/subchapter.md)
+
+### Week 2
+
+- [Design Basics](#)
+  - [Subchapter](lessons/overview/subchapter.md)
