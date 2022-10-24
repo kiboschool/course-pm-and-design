@@ -1,15 +1,29 @@
-# Programming 1
+# Overview
 
 [Course Overview](project-management-and-design.md)
+[Expectations](project-management-and-design.md)
+[Assessments](project-management-and-design.md)
 
 ## Lessons
 
 ### Week 1
 
-- [Overview Page](lessons/overview.md)
+- [Software development teams](lessons/overview.md)
   - [Subchapter](lessons/overview/subchapter.md)
 
 ### Week 2
 
-- [Design Basics](#)
-  - [Subchapter](lessons/overview/subchapter.md)
+- [The Design Process](/)
+  - [Subchapter](/)
+
+### Week 3
+
+- [UI Design Basics](/)
+  - [Subchapter](/)
+
+
+### Week 4
+
+- [UI Design More Topics](/)
+  - [Subchapter](/)
+
