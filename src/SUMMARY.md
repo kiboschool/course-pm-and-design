@@ -19,11 +19,18 @@
 ### Week 3
 
 - [UI Design Basics](/)
-  - [Subchapter](/)
+  - [3.1 Typography](/)
+  - [3.2 Color](/)
+  - [3.3 Basic principles of UI Design](/)
+  - [3.4 Assignment](/)
 
 
 ### Week 4
 
 - [UI Design More Topics](/)
-  - [Subchapter](/)
+  - [4.1 Design for Mobile (iOS & Android)](/)
+  - [4.2 Design for Web](/)
+  - [4.3 Introduction to Design Systems](/)
+  - [4.4 Introduction to Accessibility](/)
+  - [4.5 Assignment](/)
 
