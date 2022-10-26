@@ -7,8 +7,13 @@
 
 ### Week 1
 
-- [Software development teams](lessons/overview.md)
-  - [Subchapter](lessons/overview/subchapter.md)
+- [Software development teams](lessons/software-dev-teams.md)
+  - [Software is a team sport](lessons/software-team/basics.md)
+  - [What is product management?](lessons/software-team/what-is-pm.md)
+  - [Design Thinking](lessons/software-team/design-thinking.md)
+  - [How Might We](lessons/software-team/how-might-we.md)
+  - [Idea to Product](lessons/software-team/idea-to-product.md)
+  - [Assignment](lessons/software-team/assignment.md)
 
 ### Week 2
 
