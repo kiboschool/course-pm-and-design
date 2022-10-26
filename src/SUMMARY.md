@@ -1,6 +1,6 @@
 # Overview
 
-[Course Overview](project-management-and-design.md)
+[Course Overview](pm-and-design.md)
 
 
 ## Lessons
