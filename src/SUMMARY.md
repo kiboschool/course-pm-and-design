@@ -13,7 +13,7 @@
 
 ### Week 3
 
-- [UI Design Basics](ui-design-basics.md)
+- [UI Design Basics](lessons/ui-design-basics.md)
   - [3.1 Typography](lessons/ui-design-basics/typography)
   - [3.2 Color](lessons/ui-design-basics/color)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles)
