@@ -1,5 +1,5 @@
-# Project Management and Design
-
+# Product Management and Design
+- Course design plan: https://docs.google.com/document/d/1T-FAyk28ct9ck16EW9bNMp69tSNCDQJLSBhUdFyvof4/edit
 - See course info: https://degree-planner.programming.africa/?f=CS104
 - See info about Kibo's BSc. Computer Science: https://kibo.school/degree/
 
