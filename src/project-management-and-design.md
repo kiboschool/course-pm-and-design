@@ -1,10 +1,10 @@
-# Project Management and Design
+# Product Management and Design
 
 **CSF004**
 
 _6 ECTS Credits_
 
-## Welcome to Project Management and Design
+## Welcome to Product Management and Design
 
 <!-- Welcome Video -->
 
