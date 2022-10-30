@@ -13,10 +13,10 @@ Popular culture and social media has a certain image for what building a great p
 
 
 📺 Watch the following video on how software engineers work in teams
-  (note: I don't actually like this video -- too negative in my view but looking for some other similar videos)
+  (note: I want to re-record this video to simplify but this is ok for now
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=DYLSkySSF0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=hpn8MPHOpDo&t=19s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 <aside>
@@ -49,6 +49,9 @@ Popular culture and social media has a certain image for what building a great p
 ## The best team structure
 Lots of companies do it differently. Even within the same team it might look different. Often about resources and what's available. 
 Ultimately usually wyou have sme people writing the doce, some people interfacing with users/customers/edfining requirements, some people doing the mocks/designs. If it's a 2-person project, same people might do all of it. But broadly these are the three categories we want to focus on 
+
+## To delete: resources
+- [5 Traits of great sofware development teams](https://www.worklytics.co/blog/5-traits-of-great-software-development-teams)
 
 ---
 
