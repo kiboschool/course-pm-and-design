@@ -10,10 +10,7 @@
 ## What do product managers do?
 Product managers are sometimes called "CEOs of the Product." They sit at the intersection of a bunch of 
 <aside>
-
-
-📺 Watch the following video on.... 
-  Find video from Shalewa 
+📺 Watch this video by Shalewa Odusanya, a Product Manager at Instagram who studied computer science on what PMs do
 </aside>
 
 
@@ -23,6 +20,18 @@ Product managers are sometimes called "CEOs of the Product." They sit at the int
 📖 Read this article on **[What, exactly, is a Product Manager?](https://www.mindtheproduct.com/what-exactly-is-a-product-manager/)**
 
 </aside>
+
+## Product Managment for Computer Scientists
+<aside>
+📺 Watch this video by Shalewa Odusanya, a Product Manager at Instagram who studied computer science on what PMs do
+</aside>
+
+
+<aside>
+📺 Watch this video with Adesola Sanusi, a Product Manager at Okra who studied computer science on how CS prepared her to be a PM
+</aside>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-RmrHkTA0Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 ## Describing the job of a PM
