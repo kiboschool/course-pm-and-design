@@ -6,7 +6,8 @@
 
 Throghout the course, you work to develop an idea into a work-ready software product. The majority of your weekly assignments will be milestones toward your final project.
 
-## **Final Assessment (25%) - Product Design and Presentation**
+## Final Assessment (25%) 
+### Product Design and Presentation
 
 In collaboration with 1-2 team members, you will design a solution to a given user problem.  will work on the solution throughout the course and will need to submit three artifacts for your final project:
 
@@ -16,59 +17,48 @@ In collaboration with 1-2 team members, you will design a solution to a given us
 
 The final assessment will count for 25% of your final grade for this course. 
 
-## **Weekly Assignments (50%)**
+## Weekly Assignments (50%)
 
 
 The weekly assignments are:
 
-**Week 1 - Concept Creation**
-Choose an "How Might We" problem and create concepts for user testing
-Total points: 10
+**Week 1 - Concept Creation**(10 points)<br> 
+Choose an "How Might We" problem and create concepts for user testing<br> 
 Due Date: MMM DD, YYYY
 
-**Week 2 - Concept Testing**
-Refine yourconcpets, then conduct user tests with 3-5 users in the target audience. 
-Total points: 15
+**Week 2 - Concept Testing**(10 points)<br> 
+Refine your product concepts, then conduct user tests with 3-5 users in the target audience<br>
+Due Date: MMM DD, YYYY<br> 
+
+**Week 3 - Wireframing**(5 points)<br> 
+Create a low-fidelity wireframe with Figma<br>
 Due Date: MMM DD, YYYY
 
-**Week 3 - Wireframing**
-Create a low-fidelity wireframe with Figma
-Total points: 5
+**Week 4 - Design**(5 points)<br> 
+Replicate the design of one screen of a mobile app<br>
 Due Date: MMM DD, YYYY
 
-**Week 4 - Design**
-Replicate the design of one screen of a mobile app
-Total points: 5
+**Week 5 - Product Staging**(5 points)<br> 
+Break your product idea into milestones, and define your MVP and MLP<br>
 Due Date: MMM DD, YYYY
 
-**Week 5 - Product Staging**
-Break your product idea into milestones, and define your MVP and MLP
-Total points: 5
+**Week 6 - Final project milestone 1**(10 points)<br> 
+Design one screen of your product from scratch, and submit a draft PRD with general overview and key features of your product<br>
 Due Date: MMM DD, YYYY
 
-**Week 6 - Final project milestone 1**
-Design one screen of your product from scratch, and submit a draft PRD with general overview and key features of your prodcut
-Total points: 5
+**Week 7 - Final project milestone 2**(5 points)<br> 
+Create the information architecture for your product, and begin recruiting participants for your usability test<br>
 Due Date: MMM DD, YYYY
 
-**Week 7 - Final project milestone 2**
-Create the information architecture for your product, and begin recruiting participants for your usability test
-Total points: 5
-Due Date: MMM DD, YYYY
-
-**Weeks 8 & 9 - No assignments**
-There is no assignments due this week but you are expected to make substantial progress toward your final project. You should conduct usability tests in Week 9, so that you are ready to spend the last week of class finalizing your PRD and designs, and creating your presentation. 
+_Note: there are no graded assignments in Weeks 8 and 9, but you are expected to make substantial progress toward your final project. You should conduct usability tests in Week 9, so that you are ready to spend the last week of class finalizing your PRD and designs, and creating your presentation._
 
 
 ---
 
 
-## **Class participation (25%) **
+## Class participation (25%)
 
-<aside>
-"People learn the most when teaching others." - Peter F. Drucker
-</aside>
-
+ToDo: add some information about how we'll evaluate class participation
 
 ---
 
