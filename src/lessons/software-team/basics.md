@@ -13,7 +13,6 @@ Popular culture and social media has a certain image for what building a great p
 
 
 📺 Watch the following video on how software engineers work in teams
-  (note: I want to re-record this video to simplify but this is ok for now)
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
