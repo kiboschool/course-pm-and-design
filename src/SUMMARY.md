@@ -2,7 +2,7 @@
 
 [Course Overview](pm-and-design.md)
 [Expectations]
-[Assessments]
+[Assessments](assessments.md)
 [Live Classes]
 
 
