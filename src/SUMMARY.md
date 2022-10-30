@@ -1,6 +1,9 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
+[Expectations]
+[Assessments]
+[Live Classes]
 
 
 ## Lessons
