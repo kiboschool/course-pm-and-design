@@ -3,11 +3,9 @@
 *Estimated Time: XX hours*
 
 ---
+Product management is an often misunderstood role....it has a long and complex history, and it varies between companies and even within the same large company.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-<img width="756" alt="image" src="https://user-images.githubusercontent.com/1774663/198885557-7b79b0d7-5535-462c-88a7-c5b07fd1a0da.png">
-
-
-## What do product managers do?
 
 <aside>
 📺 Watch this video explaining the role of a product manager
@@ -25,6 +23,12 @@
 <aside>
   "CEOs of the Product." 
  </aside>
+ 
+ <aside>
+  The intersection between UX, Tech and Business
+  </aside>
+ <img width="756" alt="image" src="https://user-images.githubusercontent.com/1774663/198885557-7b79b0d7-5535-462c-88a7-c5b07fd1a0da.png">
+
 <aside>
   "to discover a product that is valuable, usable and feasible” - Marty Cagan, [Inspired](https://www.amazon.co.uk/gp/product/0981690408)
 </aside>
@@ -79,8 +83,8 @@ Traditionally, becoming a PM has been a bit of an unknown. Now, big tech compani
 Good software product development is about building the right thing _and_ building the thing right, and it's the PM's job to shepherd the team toward identifying the right thing to build and building it the right way for the business. As we've learned, this is a collaborative task that involves many stakeholders. One of the PM's key collaborators in building the right thing is the designer. 
 
 Software product designers come in many flavors, but generally focus in one of two areas. In a small team, the same individual will likely play both roles. The roles are:
-- UI designer
-- UX designer 
+- UI designer: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- UX designer: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 Sometimes they're different people, but for now we'll call them design. For the rest of this course, when we use "Designer," know that the designer may be involved in a combination of UX and UI work. 
 
