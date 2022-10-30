@@ -12,7 +12,7 @@
 
 - [Software development teams](lessons/software-dev-teams.md)
   - [Software is a team sport](lessons/software-team/basics.md)
-  - [The PM and Design roles](lessons/software-team/what-is-pm.md)
+  - [What is Product Management?](lessons/software-team/what-is-pm.md)
   - [Design Thinking](lessons/software-team/design-thinking.md)
   - [How Might We](lessons/software-team/how-might-we.md)
   - [Idea to Product](lessons/software-team/idea-to-product.md)
