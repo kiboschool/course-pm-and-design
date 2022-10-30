@@ -16,18 +16,14 @@ Popular culture and social media has a certain image for what building a great p
   (note: I want to re-record this video to simplify but this is ok for now)
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=hpn8MPHOpDo&t=19s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-## another video
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hpn8MPHOpDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hpn8MPHOpDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <aside>
-
-
-📖 Read this article on how .... **[Topic TBD](https://example.com)**.
-
+  
+📖 Read this article on **[Roles and responsibiliites in software development teams](https://this.isfluent.com/blog/2018/roles-and-responsibilities-in-a-software-development-team)**
+  
 </aside>
 
 
@@ -46,7 +42,7 @@ Popular culture and social media has a certain image for what building a great p
   - QA Engineers
   - Business analyst 
   
-**Post your answer in the padlet bellow.**
+**Post your answer in the padlet below.**
 
 </aside>
 
@@ -56,6 +52,8 @@ Ultimately usually wyou have sme people writing the doce, some people interfacin
 
 ## To delete: resources
 - [5 Traits of great sofware development teams](https://www.worklytics.co/blog/5-traits-of-great-software-development-teams)
+- [Software Development Life Cycle](https://raygun.com/blog/software-development-life-cycle/)
+- 
 
 ---
 
