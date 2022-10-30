@@ -49,8 +49,3 @@ Popular culture and social media has a certain image for what building a great p
 ## The best team structure
 Lots of companies do it differently. Even within the same team it might look different. Often about resources and what's available. 
 Ultimately usually wyou have sme people writing the doce, some people interfacing with users/customers/edfining requirements, some people doing the mocks/designs. If it's a 2-person project, same people might do all of it. But broadly these are the three categories we want to focus on 
-
-
----
-
-
