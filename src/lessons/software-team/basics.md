@@ -12,10 +12,11 @@ Popular culture and social media has a certain image for what building a great p
 <aside>
 
 
-📺 Watch the following video on software development team structure 
+📺 Watch the following video on how software engineers work in teams
+  (note: I don't actually like this video -- too negative in my view but looking for some other similar videos)
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XSzsI5aGcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=DYLSkySSF0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 <aside>
