@@ -1,43 +1,60 @@
-# Page Title
+# Product Managers and designers
 
 *Estimated Time: XX hours*
 
 ---
 
-## Section
+<img width="756" alt="image" src="https://user-images.githubusercontent.com/1774663/198885557-7b79b0d7-5535-462c-88a7-c5b07fd1a0da.png">
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor in massa vitae ornare. Curabitur sapien massa, commodo ut rutrum et, efficitur ut neque. Suspendisse laoreet dolor egestas eros suscipit, vel congue diam auctor. Nulla sit amet eros nec quam rhoncus facilisis ac ut odio. Sed interdum, enim a scelerisque laoreet, purus metus vulputate erat, vel rutrum augue neque nec elit. Nam varius, elit a vehicula placerat, lacus odio posuere odio, eu porttitor augue nisi vel lectus. Mauris at aliquam est, ut efficitur urna. Vestibulum vel vestibulum quam. Morbi iaculis vehicula purus, quis egestas urna pulvinar vel. Nam fermentum accumsan nibh eu consequat. Etiam blandit eu risus congue vulputate. Vivamus vehicula sapien nec venenatis egestas.
 
+## What do product managers do?
+Product managers are sometimes called "CEOs of the Product." They sit at the intersection of a bunch of 
 <aside>
 
 
 📺 Watch the following video on.... 
+  Find video from Shalewa 
 </aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/XSzsI5aGcK4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 <aside>
 
 
-📖 Read this article on how .... **[Topic TBD](https://example.com)**.
+📖 Read this article on **[What, exactly, is a Product Manager?](https://www.mindtheproduct.com/what-exactly-is-a-product-manager/)**
 
 </aside>
 
 
-## Section
+## Describing the job of a PM
+<aside>
+  "to discover a product that is valuable, usable and feasible” - Marty Cagan, [Inspired](https://www.amazon.co.uk/gp/product/0981690408)
+</aside>
+<aside>
+  Your job as a PM is to deliver business impact by marshaling the resources of your team to identify and solve the most impactful customer problems. In other words, shape the product, ship the product and sync the people.- Lenny Rachitsky, [Lenny's Newseletter](https://www.lennysnewsletter.com/p/what-is-product-management)
+</aside>
 
 <aside>
+  Build something users want. - Ope Bukola
+ </aside>
+
+## PM as "CEO of the Product"
+<img width="715" alt="image" src="https://user-images.githubusercontent.com/1774663/198885595-97d16f2d-bc03-4f69-957f-e94bbf5052f0.png">
+PM is a very intersectional role, it requires a lot of the same skills that CEO does, i.e., undersanding different domains, being able to pinch hit for a lot of things, but not necessarily being the expert.
+Influence people -- often this influence is soft
+Lead people
+Earn people's respect
+Collaborate well 
 
 
-🪞 This is an aside 
-  
-**Post your answer in the padlet below.**
+## PM and Design collaboration
+UI designers
 
-</aside>
+UX designers 
 
-## Section
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor in massa vitae ornare. Curabitur sapien massa, commodo ut rutrum et, efficitur ut neque. Suspendisse laoreet dolor egestas eros suscipit, vel congue diam auctor. Nulla sit amet eros nec quam rhoncus facilisis ac ut odio. Sed interdum, enim a scelerisque laoreet, purus metus vulputate erat, vel rutrum augue neque nec elit. Nam varius, elit a vehicula placerat, lacus odio posuere odio, eu porttitor augue nisi vel lectus. Mauris at aliquam est, ut efficitur urna. Vestibulum vel vestibulum quam. Morbi iaculis vehicula purus, quis egestas urna pulvinar vel. Nam fermentum accumsan nibh eu consequat. Etiam blandit eu risus congue vulputate. Vivamus vehicula sapien nec venenatis egestas. 
+Sometimes they're different people, but for now we'll call them design. 
+PMs and Designers work together to build the right things, using some common framework known as the design process
+
+Good PMs **fall in love with your customer problem, not your solution**
 
 ---
 
