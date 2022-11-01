@@ -65,6 +65,6 @@ By the end of the course, you will be able to:
 
 Your overall course grade is made up of:
 
-- Class participation (25%) 
-- Weekly assignments (50%) 
-- Final project and presentation (25%) 
+- Class participation (10%) 
+- Weekly assignments (60%) 
+- Final project and presentation (30%) 
