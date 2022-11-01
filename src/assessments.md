@@ -6,7 +6,7 @@
 
 Throghout the course, you work to develop an idea into a work-ready software product. The majority of your weekly assignments will be milestones toward your final project.
 
-## Final Assessment (25%) 
+## Final Assessment (30%) 
 ### Product Design and Presentation
 
 In collaboration with 1-2 team members, you will design a solution to a given user problem.  will work on the solution throughout the course and will need to submit three artifacts for your final project:
@@ -17,7 +17,7 @@ In collaboration with 1-2 team members, you will design a solution to a given us
 
 The final assessment will count for 25% of your final grade for this course. 
 
-## Weekly Assignments (50%)
+## Weekly Assignments (60%)
 
 
 The weekly assignments are:
@@ -27,7 +27,7 @@ Choose an "How Might We" problem and create concepts for user testing<br>
 Due Date: MMM DD, YYYY
 
 **Week 2 - Concept Testing**(10 points)<br> 
-Refine your product concepts, then conduct user tests with 3-5 users in the target audience<br>
+Refine your product concepts, then conduct user tests with 3-5 users in the target audience. Submit a research report summarizing the results of your concept tests and planned changes to your product vision.<br>
 Due Date: MMM DD, YYYY<br> 
 
 **Week 3 - Wireframing**(5 points)<br> 
@@ -43,22 +43,22 @@ Break your product idea into milestones, and define your MVP and MLP<br>
 Due Date: MMM DD, YYYY
 
 **Week 6 - Final project milestone 1**(10 points)<br> 
-Design one screen of your product from scratch, and submit a draft PRD with general overview and key features of your product<br>
+Design one screen of your product from scratch, and submit in Figma. <br>
 Due Date: MMM DD, YYYY
 
-**Week 7 - Final project milestone 2**(5 points)<br> 
-Create the information architecture for your product, and begin recruiting participants for your usability test<br>
+**Week 7 - Final project milestone 2**(10 points)<br> 
+Create the information architecture for your product. Draft a product requirements document (PRD) with a general overview, summary of key features, and  key metrics you will use to measure its success. Begin recruiting participants for your usability test<br>
 Due Date: MMM DD, YYYY
 
-_Note: there are no graded assignments in Weeks 8 and 9, but you are expected to make substantial progress toward your final project. You should conduct usability tests in Week 9, so that you are ready to spend the last week of class finalizing your PRD and designs, and creating your presentation._
-
+**Week 8 - Final project milestone 3**(10 points)<br> 
+Conduct usability tests of your product prototype with 3-5 users in your target audience.<br>
+Due Date: MMM DD, YYYY
 
 ---
 
 
-## Class participation (25%)
-
-ToDo: add some information about how we'll evaluate class participation
+## Class participation (10%)
+You are expected to attend and participate in class each week. Classes will be a chance for you to practice what you learn in the lesson content, and to give and receive peer feedback. We will have a live class each week from Week 1 through 9. A point will be deducted from your final grade for each class missed. 
 
 ---
 
