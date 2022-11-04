@@ -8,7 +8,8 @@
 
 Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/ experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
   
-
+ ---
+ 
   ## Useful Typography Terms
   
   ### Typeface
@@ -60,7 +61,7 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   Weight refers to the thickness of a font, height is the vertical space the font occupies and size is how big the font is. These three aspects of a font can be manipulated to show hierarchy within your UI or to bring/reduce focus on certain bodies of text in your UI. We’ll touch more on font heirarchy below. 
   
   
-  
+   ---
   
    ## Principles of Typography
   
@@ -139,8 +140,11 @@ P.S Common practice is to use a font size of no less than 16px for body content.
  <img width="1462" alt="Typography-in-UI-Design-10 1" src="https://user-images.githubusercontent.com/28001435/200088642-207fbef4-5183-4c1f-93d3-c05ab145db21.png">
 Another image showing how white space can improve text scannability
 
-
+ ---
+ 
+ 
  ## Typography in Development
+
   
   When designing UI’s you may want to download typefaces (font families) that aren’t stored locally on your computer or the design tool you’re using. You will also need to share the typefaces you use in your designs with your development team. It’s important to know what kind of font file formats work with your design tools and in development.
   
@@ -151,7 +155,9 @@ Another image showing how white space can improve text scannability
 
 Its important to ensure when you download and share font files that they are either .OTF or .TTF. .WOFF is sometimes used as well, but .OTF and .TTF are the most versatile and common formats. 
 
-
+ ---
+ 
+ 
  ## Summary/Takeaways
   
 - Serif and sans-serif typefaces are the two main types of typefaces used in UI design and development.
@@ -166,7 +172,9 @@ Its important to ensure when you download and share font files that they are eit
 - Use white space to show which blocks of text are more related to each other and which are less.
 - When downloading fonts or sharing font files with developers ensure the files are either .OTF or .TTF. 
 
-
+ ---
+ 
+ 
  ## Useful Links on Typography
   
 - [https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography](https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography)
