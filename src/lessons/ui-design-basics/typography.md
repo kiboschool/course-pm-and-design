@@ -7,9 +7,6 @@
 ## What is Typography?
 
 Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/ experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
-
-
-<aside>
   
 
   ## Useful Typography Terms
@@ -17,9 +14,6 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   ### Typeface
   
   Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/ experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
-
-
-<aside>
   
   There are many types of typefaces but for this course we’ll focus on the two which are most prevalent in UI design which are Serif and San Serif. 
  
