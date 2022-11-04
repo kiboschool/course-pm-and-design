@@ -60,6 +60,8 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   Weight refers to the thickness of a font, height is the vertical space the font occupies and size is how big the font is. These three aspects of a font can be manipulated to show hierarchy within your UI or to bring/reduce focus on certain bodies of text in your UI. We’ll touch more on font heirarchy below. 
   
   
+  
+  
    ## Principles of Typography
   
   Typography plays an important role in UI/UX design. How typefaces are styled, structured and laid out can make navigating your designs either pleasurable or uncomfortable. Most people do not fully read text while navigating digital products rather they scan through. Reflect back on your experiences while using websites and apps, you may find that you also scan through bodies of text rather than reading them. Based on this, its important that the typfaces we use are styled, structured and laid out in ways that make navigating text in our designs as easy and seamless as possible. Below are guidelines that will help improve typography in your UI design. 
@@ -71,13 +73,27 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   
   
 ![Type Hierarchy](https://user-images.githubusercontent.com/28001435/200084813-1f464093-999e-46e6-974d-32edcbfe7777.png)
-Image showing heirarchy in a body of text
+Image showing heirarchy in a body of text - [source - ]
+  
   
   
 ![1*NUOeExtZwIhxQ4EMjaUTiQ](https://user-images.githubusercontent.com/28001435/200085037-46a84dcf-380f-49d7-bfca-c3e497678ad7.png)
 Image showing how heirarchy directs in what order users read text
   
-  
+
+
+![Type Hierarchy 2](https://user-images.githubusercontent.com/28001435/200087608-46af5906-7934-45c8-949d-2a9bc567a444.png)
+Image showing the font size and weight guidelines for Mailchimp's typescale [Source](https://ux.mailchimp.com/patterns/typography)
+
+
+![1*s6OqC7mSHfIaHLQHvlYUGw](https://user-images.githubusercontent.com/28001435/200087629-8231653b-56b7-4a1c-9ebc-c534c7accf10.png)
+Image showing a typescale with defined sizes and weights
+
+
+![1*K6BEZdzioUHitIJVeC5VWA](https://user-images.githubusercontent.com/28001435/200087639-20d354db-715a-4002-94c7-3eac64565d52.png)
+Image showing typical weights for different typescales
+
+
 We’ll discuss how color can be used to show hierarchy below.
 
 <aside>
@@ -85,3 +101,77 @@ We’ll discuss how color can be used to show hierarchy below.
 P.S Common practice is to use a font size of no less than 16px for body content. This is a guide though and can change depending on the typeface. 
   
 </aside>
+
+
+### Alignment
+  
+  Text alignment is how text is positioned on the page. There are four types of text alignment; left, right, centered and justified. The most common text alignemnts used in UI design are left, right and centered. Justified text alignment is not used in UI design because it forces text to fit into a container which leads to words having unequal spaces between each other. An example of each of these text alignment styles is below. 
+  
+  ![3083678_orig](https://user-images.githubusercontent.com/28001435/200086651-639be3d5-fb7d-4fcc-a38a-67c8d4db67d0.jpeg)
+  
+  Another thing to remember is that depending on what audience you are designing for, different types of alignment may be exepected. For example, while English speakers expect text to be left aligned since we read from left to right, Arabic speakers may expect text to be right aligned since they read from right to left. 
+  
+  
+  ### Color & Contrast
+  
+  Color and contrast are good way to further show the hierarchy and importance of text on a page. Full color (dark grey or black) is usually used for important text on a page (titles, headings and body content). Colored text is usually used for links and buttons. Greyed out text is usually used for footnotes or less importance content on a page. Its important to note that using full black (hex code #000000) text on a full white (hex code #FFFFFF) background can be jarring/uncomfortable to the eye because the contrast it too high. Rather, use a toned down black color or a very dark grey color for body text to reduce the text contrast with the background. An example of how color and contrast can be used to show text hierarchy is shown in the image below.
+
+
+![1*AraTbRC66reLUNqxuYA8AQ](https://user-images.githubusercontent.com/28001435/200086993-820a18a6-c7f5-4174-8e31-4c7a0c5f417a.png)
+
+
+
+  ### Consitency 
+  
+ It’s important to ensure that you use consistent typefaces all through your designs. This creates a pattern which helps users instantly recognise what they’re reading. For example, if you used Poppins Bold, 32px as the page title and Poppins Regular, 16px as the body text on a page of a website you’re designing then these font weights and sizes should be maintained for all page titles and body text in your design. 
+ 
+ Some designers prefer to use more than one typeface in their designs. Often times they may combine a serif and sans-serif font. This can be a powerful way to show hierarchy and can really uplift the look and feel of your design, this should be done with caution though. The fonts from the typefaces you use need to have intention behind them, this will further help to build a recogniseable pattern for users. For example, you may decide to use a serif typeface for all page titles and section headers and, a sans-serif typeface for body content and meta content in your design. Please do not use more that two typefaces in a design. It also important to note that not all typefaces work well with each other. Some typefaces complement each other better than others. Before combining two typeface, do a quick search to see if they work well with each other. 
+
+
+
+### White Space
+  
+ White space is the space between elements or in this case bodies of text. White space, when used correctly, can be a great way to show how bodies of text are related to each other and also to give some balance to your design. It also makes text in your design less cluttered and more readable/scannable. The images below show how white space can be used to improve the balance and show relatability between text. 
+ 
+ ![1*_fQMjDqa0vXpiYugXRfshw](https://user-images.githubusercontent.com/28001435/200087453-20f7fa31-25b0-4279-8812-889ccc6c99eb.png)
+ Image showing how white space can help scannability of text and show how text blocks are related to each other.
+ 
+ <img width="1462" alt="Typography-in-UI-Design-10 1" src="https://user-images.githubusercontent.com/28001435/200088642-207fbef4-5183-4c1f-93d3-c05ab145db21.png">
+Another image showing how white space can improve text scannability
+
+
+ ## Typography in Development
+  
+  When designing UI’s you may want to download typefaces (font families) that aren’t stored locally on your computer or the design tool you’re using. You will also need to share the typefaces you use in your designs with your development team. It’s important to know what kind of font file formats work with your design tools and in development.
+  
+  The three most common font file formats for UI design and development are:
+  - **.OTF** - Open Type Format
+  - **.TTF** - True Type Format
+  - **.WOFF** - Web Open Format Font
+
+Its important to ensure when you download and share font files that they are either .OTF or .TTF. .WOFF is sometimes used as well, but .OTF and .TTF are the most versatile and common formats. 
+
+
+ ## Summary/Takeaways
+  
+- Serif and sans-serif typefaces are the two main types of typefaces used in UI design and development.
+- Serif typefaces have strokes while sans-serif typefaces have no storkes.
+- Size, weight, color and placement are great ways to show hierarchy of text in your design.
+- Body text should be no less than 16px for readability.
+- Use a line spacing between 130% - 180% depending on the typeface. When in doubt use 150%.
+- Dont not use full black (hex code #000000) on full white (hex code #FFFFFF) backgrounds.
+- Text is your UI designs should either be left, right or center aligned. 
+- Use no more than two typefaces in your designs.
+- When combining two typefaces in your design, check to make sure they complement each other.
+- Use white space to show which blocks of text are more related to each other and which are less.
+- When downloading fonts or sharing font files with developers ensure the files are either .OTF or .TTF. 
+
+
+ ## Useful Links on Typography
+  
+- https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography
+- https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce
+- https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd
+- https://ux.mailchimp.com/patterns/typography
+- [Typography - Style - Material design guidelines](https://material.io/guidelines/style/typography.html)
+
