@@ -8,7 +8,6 @@
 
 Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/ experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
   
- ---
  
   ## Useful Typography Terms
   
@@ -32,38 +31,32 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   ![types-of-serif-fonts](https://user-images.githubusercontent.com/28001435/200083676-d8870636-761e-48b2-8f23-594ee244fc57.jpeg)
 
 
-  ### Fonts
-    
+  ### Fonts 
+  
   Fonts are the different weights within a typeface (font family). If you were to choose Roboto as a typeface then Roboto regular, medium and bold would be the fonts. 
+  
     
-  ### Line Spacing
-    
-  Line spacing is the vertical height between two lines of text. Typically line spacing should be between 130% - 180% of the font height (when in doubt go for 150%). 
+  ### Line Spacing   
+  Line spacing is the vertical height between two lines of text. Typically line spacing should be between 130% - 180% of the font height (when in doubt go for 150%).   
   
   
-  ### Kerning
-    
+  ### Kerning  
+  
   Kerning is the space between each character in a word.
   
-  
+   
    ### Tracking
-    
+   
   Tracking is the uniform horizontal space between characters in words in a block of text. The main difference between tracking and kerning is that kerning refers to the space between two characters while tracking refers to the space between all characters in a word. 
-  
-  
-  ### Weight, Height and Size
-    
-  Weight refers to the thickness of a font, height is the vertical space the font occupies and size is how big the font is. These three aspects of a font can be manipulated to show hierarchy within your UI or to bring/reduce focus on certain bodies of text in your UI. We’ll touch more on font heirarchy below. 
   
   
    ### Weight, Height and Size
     
   Weight refers to the thickness of a font, height is the vertical space the font occupies and size is how big the font is. These three aspects of a font can be manipulated to show hierarchy within your UI or to bring/reduce focus on certain bodies of text in your UI. We’ll touch more on font heirarchy below. 
+ 
   
   
-   ---
-  
-   ## Principles of Typography
+  ## Principles of Typography
   
   Typography plays an important role in UI/UX design. How typefaces are styled, structured and laid out can make navigating your designs either pleasurable or uncomfortable. Most people do not fully read text while navigating digital products rather they scan through. Reflect back on your experiences while using websites and apps, you may find that you also scan through bodies of text rather than reading them. Based on this, its important that the typfaces we use are styled, structured and laid out in ways that make navigating text in our designs as easy and seamless as possible. Below are guidelines that will help improve typography in your UI design. 
   
@@ -75,13 +68,11 @@ Typography is a part of UI/UX (user interface and user experience) design that i
   
 ![Type Hierarchy](https://user-images.githubusercontent.com/28001435/200084813-1f464093-999e-46e6-974d-32edcbfe7777.png)
 Image showing heirarchy in a body of text - [source - ]
-  
-  
+   
   
 ![1*NUOeExtZwIhxQ4EMjaUTiQ](https://user-images.githubusercontent.com/28001435/200085037-46a84dcf-380f-49d7-bfca-c3e497678ad7.png)
 Image showing how heirarchy directs in what order users read text
   
-
 
 ![Type Hierarchy 2](https://user-images.githubusercontent.com/28001435/200087608-46af5906-7934-45c8-949d-2a9bc567a444.png)
 Image showing the font size and weight guidelines for Mailchimp's typescale [Source](https://ux.mailchimp.com/patterns/typography)
@@ -106,9 +97,11 @@ P.S Common practice is to use a font size of no less than 16px for body content.
 
 ### Alignment
   
-  Text alignment is how text is positioned on the page. There are four types of text alignment; left, right, centered and justified. The most common text alignemnts used in UI design are left, right and centered. Justified text alignment is not used in UI design because it forces text to fit into a container which leads to words having unequal spaces between each other. An example of each of these text alignment styles is below. 
+  Text alignment is how text is positioned on the page. There are four types of text alignment; left, right, centered and justified. The most common text alignemnts used in UI design are left, right and centered. Justified text alignment is not used in UI design because it forces text to fit into a container which leads to words having unequal spaces between each other. An example of each of these text alignment styles is below.
+  
   
   ![3083678_orig](https://user-images.githubusercontent.com/28001435/200086651-639be3d5-fb7d-4fcc-a38a-67c8d4db67d0.jpeg)
+  
   
   Another thing to remember is that depending on what audience you are designing for, different types of alignment may be exepected. For example, while English speakers expect text to be left aligned since we read from left to right, Arabic speakers may expect text to be right aligned since they read from right to left. 
   
@@ -121,7 +114,6 @@ P.S Common practice is to use a font size of no less than 16px for body content.
 ![1*AraTbRC66reLUNqxuYA8AQ](https://user-images.githubusercontent.com/28001435/200086993-820a18a6-c7f5-4174-8e31-4c7a0c5f417a.png)
 
 
-
   ### Consitency 
   
  It’s important to ensure that you use consistent typefaces all through your designs. This creates a pattern which helps users instantly recognise what they’re reading. For example, if you used Poppins Bold, 32px as the page title and Poppins Regular, 16px as the body text on a page of a website you’re designing then these font weights and sizes should be maintained for all page titles and body text in your design. 
@@ -129,22 +121,20 @@ P.S Common practice is to use a font size of no less than 16px for body content.
  Some designers prefer to use more than one typeface in their designs. Often times they may combine a serif and sans-serif font. This can be a powerful way to show hierarchy and can really uplift the look and feel of your design, this should be done with caution though. The fonts from the typefaces you use need to have intention behind them, this will further help to build a recogniseable pattern for users. For example, you may decide to use a serif typeface for all page titles and section headers and, a sans-serif typeface for body content and meta content in your design. Please do not use more that two typefaces in a design. It also important to note that not all typefaces work well with each other. Some typefaces complement each other better than others. Before combining two typeface, do a quick search to see if they work well with each other. 
 
 
-
 ### White Space
   
  White space is the space between elements or in this case bodies of text. White space, when used correctly, can be a great way to show how bodies of text are related to each other and also to give some balance to your design. It also makes text in your design less cluttered and more readable/scannable. The images below show how white space can be used to improve the balance and show relatability between text. 
- 
+
+
  ![1*_fQMjDqa0vXpiYugXRfshw](https://user-images.githubusercontent.com/28001435/200087453-20f7fa31-25b0-4279-8812-889ccc6c99eb.png)
  Image showing how white space can help scannability of text and show how text blocks are related to each other.
  
+ 
  <img width="1462" alt="Typography-in-UI-Design-10 1" src="https://user-images.githubusercontent.com/28001435/200088642-207fbef4-5183-4c1f-93d3-c05ab145db21.png">
 Another image showing how white space can improve text scannability
-
- ---
  
  
  ## Typography in Development
-
   
   When designing UI’s you may want to download typefaces (font families) that aren’t stored locally on your computer or the design tool you’re using. You will also need to share the typefaces you use in your designs with your development team. It’s important to know what kind of font file formats work with your design tools and in development.
   
@@ -154,8 +144,6 @@ Another image showing how white space can improve text scannability
   - **.WOFF** - Web Open Format Font
 
 Its important to ensure when you download and share font files that they are either .OTF or .TTF. .WOFF is sometimes used as well, but .OTF and .TTF are the most versatile and common formats. 
-
- ---
  
  
  ## Summary/Takeaways
@@ -171,8 +159,6 @@ Its important to ensure when you download and share font files that they are eit
 - When combining two typefaces in your design, check to make sure they complement each other.
 - Use white space to show which blocks of text are more related to each other and which are less.
 - When downloading fonts or sharing font files with developers ensure the files are either .OTF or .TTF. 
-
- ---
  
  
  ## Useful Links on Typography
