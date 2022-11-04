@@ -169,9 +169,9 @@ Its important to ensure when you download and share font files that they are eit
 
  ## Useful Links on Typography
   
-- https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography
-- https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce
-- https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd
-- https://ux.mailchimp.com/patterns/typography
+- [https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography](https://www.interaction-design.org/literature/article/the-ux-designer-s-guide-to-typography)
+- [https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce](https://blog.prototypr.io/8-rules-for-perfect-typography-in-ui-21b37f6f23ce)
+- [https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
+- [https://ux.mailchimp.com/patterns/typography](https://ux.mailchimp.com/patterns/typography)
 - [Typography - Style - Material design guidelines](https://material.io/guidelines/style/typography.html)
 
