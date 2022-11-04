@@ -92,9 +92,11 @@ Design thinking helps us craft impactful products that meet user and business ne
 ---
 
 # Optional Readings
+    
 <details>
-  <summary> Optional Readings</summary)
-    - Design thinking has been used in numerous applicaitons. [Read](https://designthinking.ideo.com/new-applications) some creative applications of design thinking
- </details>
+<summary>Applications of Design Thinking</summary>
+
+  [Creative Applications of Design Thinking](https://designthinking.ideo.com/new-applications)
+</details>
 
 
