@@ -37,11 +37,11 @@ Please create free accounts on each of these tools. They’ll be necessary for y
 
 </aside>
 
-[Typography](lessons/ui-design-basics/typography.md)
+[Typography](src/lessons/ui-design-basics/typography.md)
 
-[Color](lessons/ui-design-basics/color.md)
+[Color](src/lessons/ui-design-basics/color.md)
 
-[Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
+[Basic principles of UI Design](src/lessons/ui-design-basics/basic-principles.md)
 
-[Assignment](lessons/ui-design-basics/assignment.md)
+[Assignment](src/lessons/ui-design-basics/assignment.md)
 
