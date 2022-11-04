@@ -7,7 +7,7 @@
 In the previous lesson, we said that a product manager’s job is to collaborate with the team to **build the right thing _and_ build the thing right.** 
 
 But how do PMs and Designers know the right thing to build? Henry Ford, the investor of the mass automobile, allegedly said:
-<blockquote>“If I had asked people what they wanted, they would have said faster horses.”</blockquote>
+<aside>“If I had asked people what they wanted, they would have said faster horses.”</aside>
 
 Although there’s no evidence Ford actually said these words, he certainly behaved this way. He was famously tone-deaf to the. 
 
@@ -15,9 +15,9 @@ So, is the way to build great products to ideate then build yoru vision?
 NO! 
 
 
-Building something users want is extremely difficult. Some of the best companies in the world try and get it wrong. Remember Google Glass or…
+Building impactful products is extremely difficult. Even the best companies in the world often try and fail. Notable examples of technology products that failed to meet their impact include Google Glass,.... 
 
-To build products that are valuable to users, we need to focus on those users and deeply understand their needs, desires, and habits. In this lesson, we’ll learn to apply the principles of design thinking to product development. **Design thinking is an ideology and methodology for creative, human-centric problem-solving. **
+To build products that make our desired user and business impact, we need to take an approach that is deeply human-centric, i.e., understand thee needs, desires and habits of those for whom we are building. One useful tool for doing this is by applying design thinkings. In this lesson, we’ll learn to apply the principles of design thinking to product development. **Design thinking is an ideology and methodology for creative, human-centric problem-solving.**
 
 
 ## What is Design Thinking?
@@ -77,15 +77,24 @@ We teach the phases of design thinking as linear steps, but in practice, the pro
 <aside> Watch this video on the process of design thinking </aside>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+From the video, we learned a few key insights:
+
+
 ## Why Design Thinking Matters
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor in massa vitae ornare. Curabitur sapien massa, commodo ut rutrum et, efficitur ut neque. Suspendisse laoreet dolor egestas eros suscipit, vel congue diam auctor. Nulla sit amet eros nec quam rhoncus facilisis ac ut odio. Sed interdum, enim a scelerisque laoreet, purus metus vulputate erat, vel rutrum augue neque nec elit. Nam varius, elit a vehicula placerat, lacus odio posuere odio, eu porttitor augue nisi vel lectus. Mauris at aliquam est, ut efficitur urna. Vestibulum vel vestibulum quam. Morbi iaculis vehicula purus, quis egestas urna pulvinar vel. Nam fermentum accumsan nibh eu consequat. Etiam blandit eu risus congue vulputate. Vivamus vehicula sapien nec venenatis egestas. 
+Design thinking helps us craft impactful products that meet user and business needs. This methodology matters promotes:
+- Significantly reduce the time it takes to get a new product to market, which ultimately saves money
+- Improves customer retention and loyalty: by building with users, you engage them and increase their ownership and buy-in of the product
+- Fosters collaboration: design thinking encourages us to collabroate across comapny silos and with our users
+- Increases innovation: by asking us to challenge assumptions, design thinking builds our creative muscles
 
 ## Summary 
 
 ---
 
 # Optional Readings
-Design thinking has been used in numerous applicaitons. [Read](https://designthinking.ideo.com/new-applications) some creative applications of design thinking
-
+<details>
+  <summary> Optional Readings</summary)
+    - Design thinking has been used in numerous applicaitons. [Read](https://designthinking.ideo.com/new-applications) some creative applications of design thinking
+ </details>
 
 
