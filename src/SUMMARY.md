@@ -31,19 +31,19 @@
 ### Week 3
 
 - [UI Design Basics](lessons/ui-design-basics.md)
-  - [Typography](lessons/ui-design-basics/typography)
-  - [Color](lessons/ui-design-basics/color)
-  - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles)
-  - [Assignment](lessons/ui-design-basics/assignment)
+  - [Typography](lessons/ui-design-basics/typography.md)
+  - [Color](lessons/ui-design-basics/color.md)
+  - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
+  - [Assignment](lessons/ui-design-basics/assignment.md)
 
 ### Week 4
 
 - [More UI Design](lessons/more-ui-design.md)
-  - [Design for Mobile (iOS & Android)](lessons/more-ui-design/mobile)
-  - [Design for Web](lessons/more-ui-design/web)
-  - [Introduction to Design Systems](lessons/more-ui-design/design-systems)
-  - [Introduction to Accessibility](lessons/more-ui-design/accessibility)
-  - [Assignment](lessons/more-ui-design/assignment)
+  - [Design for Mobile (iOS & Android)](lessons/more-ui-design/mobile.md)
+  - [Design for Web](lessons/more-ui-design/web.md)
+  - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
+  - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
+  - [Assignment](lessons/more-ui-design/assignment.md)
 
 
 
