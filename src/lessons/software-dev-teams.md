@@ -19,6 +19,11 @@ After completing this lesson, you will be able to:
 - Learning Outcome 3
 - ....
 
+## Preparing for Class
+
+Prepare for class by completing at least the first three lessons (it's ok to go further if you have time) before we meet. 
+
+
 ## Getting Focused
 
 <aside>
@@ -37,7 +42,7 @@ After completing this lesson, you will be able to:
 
 <aside>
 
-👩🏿‍🏫 Complete this lesson by exploring each section
+👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
 
 </aside>
 
