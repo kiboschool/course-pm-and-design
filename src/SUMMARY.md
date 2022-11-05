@@ -14,8 +14,8 @@
   - [Software is a team sport](lessons/software-team/basics.md)
   - [What is Product Management?](lessons/software-team/what-is-pm.md)
   - [Design Thinking](lessons/software-team/design-thinking.md)
+  - [Problem to Product](lessons/software-team/problem-to-product.md)
   - [How Might We](lessons/software-team/how-might-we.md)
-  - [Idea to Product](lessons/software-team/idea-to-product.md)
   - [Assignment](lessons/software-team/assignment.md)
 
 ### Week 2
