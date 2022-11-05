@@ -4,6 +4,12 @@
 
 ---
 
+<aside>
+  
+  🗣 **To think like a designer requires dreaming up wild ideas, taking time to tinker and test, and being willing to fail early and often. The designer's mindset embraces empathy, optimism, iteration, creativity, and ambiguity. And most critically, design thinking keeps people at the center of every process. A human-centered designer knows that as long as you stay focused on the people you're designing for—and listen to them directly—you can arrive at optimal solutions that meet their needs.** — IDEO
+  
+</aside>
+
 In the previous lesson, we said that a product manager’s job is to collaborate with the team to **build the right thing _and_ build the thing right.** 
 
 But how do PMs and Designers know the right thing to build? Innovating on new products is an inherently creative tasks. Some people argue that creativity and innovation is driven by singularly gifted visionaries (think Steve Jobs) who see into the future and develop defying products. They might agree with Henry Ford, the developer ofthe assembly line and mass automobiles who _allegedly_ said: 
@@ -65,17 +71,16 @@ Before we learn how to apply  design thinking , it's helpful to consider some of
 
 ### Design Thinking Process
 
-<aside>
-  "Design thinking is not limited to a process. It’s an endlessly expanding investigation." —Sandy Speicher, IDEO CEO
-</aside>
 
-It's helpful to teach the phases of design thinking as linear steps, but in practice, the process is not always linear —the phases combine to form an iterative approach that you can try out and adapt to suit your specific challenge.
+
 
 <aside> Watch this video on the process of design thinking </aside>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 From the video, we learned a few key insights:
-Though it can be helpful to teach and learn the steps of design thinking, the process is rarely linear in practice. Most of the time, the design process is iterative, and you will combine the phases and adapt them to suit your specific needs. 
+- Though it can be helpful to teach and learn the steps of design thinking, the process is rarely linear in practice. Most of the time, the design process is iterative, and you will combine the phases and adapt them to suit your specific needs. 
+- It's helpful to teach the phases of design thinking as linear steps, but in practice, the process is not always linear —the phases combine to form an iterative approach that you can try out and adapt to suit your specific challenge.
+
 
 
 ## Why Design Thinking Matters
@@ -86,8 +91,11 @@ Design thinking helps us craft impactful products that meet user and business ne
 - Increases innovation: by asking us to challenge assumptions, design thinking builds our creative muscles
 
 ## Summary 
-
----
+- Building the right thing requires deep understanding of the customer
+- Design Thinking is a creative problem-solving approach that helps us find solutions to user problems
+- Design is a continous and overlapping process
+- We can embark on a human-centric design by following the steps of the design thinking process: Empathy (understanding users, defining their problems), ideation (generating lots of solutions), and refinement (building prototypes, teting withusers, and combining solutions) 
+- The steps are not linear! 
 
 ## Optional Resources
 
