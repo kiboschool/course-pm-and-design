@@ -72,19 +72,34 @@ Before we learn how to apply  design thinking , it's helpful to consider some of
 ### Design Thinking Process
 
 
-
-
 <aside> Watch this video on the process of design thinking </aside>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-From the video, we learned a few key insights:
-- Though it can be helpful to teach and learn the steps of design thinking, the process is rarely linear in practice. Most of the time, the design process is iterative, and you will combine the phases and adapt them to suit your specific needs. 
-- It's helpful to teach the phases of design thinking as linear steps, but in practice, the process is not always linear —the phases combine to form an iterative approach that you can try out and adapt to suit your specific challenge.
+<aside>
+  <iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/103471248">Empathy</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </aside>
+
+
+#### The five stages of design thinking
+- Empathize: research your user's needs to better understand the problem you are trying to solve. 
+- Define: with the information gathered from research, define or state the problem
+- Ideate: generate many potential ideas that might solve the problem, and look for altenrative or idiosyncratic solutions
+- Protoype: experiment with various solutions. Create scaled-down and inexpensive prototypes that you can share with users
+- Test: rigorously test prototypes and use the results to refine your problem statement and/or solutions
+
+#### Design is not linear 
+
+![image](https://user-images.githubusercontent.com/1774663/200111667-07031216-cb30-4561-8d37-979e73243b50.png)
+
+Though it can be helpful to teach and learn the steps of design thinking, the process is rarely linear in practice. Most of the time, the design process is iterative, and you will combine the phases and adapt them to suit your specific needs. It's helpful to teach the phases of design thinking as linear steps, but in practice, the process is not always linear —the phases combine to form an iterative approach that you can try out and adapt to suit your specific challenge.
 
 
 
 ## Why Design Thinking Matters
-Design thinking helps us craft impactful products that meet user and business needs. This methodology matters promotes:
+Design thinking helps us craft impactful products that meet user and business needs. The world is increasingly complex and intercoonnected, so we need a way to undersand and address rapid changes to user environments. 
+
+This methodology matters promotes:
 - Significantly reduce the time it takes to get a new product to market, which ultimately saves money
 - Improves customer retention and loyalty: by building with users, you engage them and increase their ownership and buy-in of the product
 - Fosters collaboration: design thinking encourages us to collabroate across comapny silos and with our users
@@ -102,9 +117,10 @@ Design thinking helps us craft impactful products that meet user and business ne
 Below are some additional resources to help clarify the topics above or for ruther reading
 <details>
 <summary>Understanding Design Thinking</summary>
-
-  [What Exactly is Design Thinking? A Comprehensive Beginner's Guide](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/), Career Foundry <br>
- Plattner, Meienel, Leifer [Design Thinking](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/papers/Book_Chapters/Front_Matter_-_Design_Thinking_Understand__Improve__Apply.pdf) <br>
+  
+IDEO's [Design Kit](http://www.designkit.org/) is an excellent repository of Design Thinking tools and case studies. <br>
+[What Exactly is Design Thinking? A Comprehensive Beginner's Guide](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/), Career Foundry <br>
+Plattner, Meienel, Leifer [Design Thinking](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/papers/Book_Chapters/Front_Matter_-_Design_Thinking_Understand__Improve__Apply.pdf) <br>
 </details>
 <details>
 <summary>Applications of Design Thinking</summary>
