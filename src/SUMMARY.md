@@ -10,7 +10,7 @@
 
 ### Week 1
 
-- [Software development teams](lessons/software-dev-teams.md)
+- [How to build impactful products](lessons/software-dev-teams.md)
   - [Software is a team sport](lessons/software-team/basics.md)
   - [What is Product Management?](lessons/software-team/what-is-pm.md)
   - [What is UI/UX Design?](lessons/software-team/what-is-design.md)
@@ -21,7 +21,7 @@
 
 ### Week 2
 
-- [Build the right thing](lessons/ux-design-process.md)
+- [User Research](lessons/ux-design-process.md)
   - [Why UX Matters](lessons/ux-design-process/why-ux-matters.md)
   - [Basic Principles of UX Design](lessons/ux-design-process/principles-ux-design.md)
   - [The Ideal UX Design Process](lessons/ux-design-process/ideal-design-process.md)
