@@ -48,16 +48,5 @@ Problem statements should not make assumptions about the users nor the optimal s
 #### Well-scoped
 Problem statements need to broad enough so that you have creative freedom and don't narrow down the solution space, but narrow enough that they are practical 
 
-In the next section, we'll learn about "How Might We," a framework for drafting good problem statemetns for design
+In the next lesson, we'll learn about "How Might We," a framework for drafting good problem statements for design. 
 
-## How Might We: turning problems into opportunities for design
-A good problem stat
-
-
-### What's the right level of scope?
-Imagine we've identified a user insight and need. For example, public toiletss... 
-<aside>
-  Watch the video below explaining how to write a HMW statement based on that user insight
-   </aside>
-  <iframe src="https://player.vimeo.com/video/102964749?h=2274197955" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/102964749">How Might We</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
