@@ -93,7 +93,7 @@ Black is great at conveying; sophistication, security, glamor, safety, substance
 
 Examples of brands that use black are; Apple, SpaceX, Nike, Adidas, Sony, Mont Blanc, Uber, TikTok, BBC, etc.
 
-## White
+### White
 
 Just as black absorbs all light, white reflects all light. Like black, it can represent barriers but not in the same way. While black can represent barriers because of its boldness, white can represent barriers because of its purity. Think about brides and religious leaders who wear white to show purity. Due to this property, pure white can be straining to look at. 
 
