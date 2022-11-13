@@ -19,7 +19,8 @@ In this lesson, we learn a framework for articulating clearly defined problems a
 <iframe src="https://player.vimeo.com/video/364634597?h=1d05eeef81" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/364634597">How Might We Notes - Explained in Under 3 Minutes</a> from <a href="https://vimeo.com/odellkeller">Odell Keller</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-<aside> Read: [How Might We Statements: A Powerful Way to Turn Insights into Opportunities](https://dscout.com/people-nerds/how-might-we-statements)
+<aside> 
+  Read: [How Might We Statements: A Powerful Way to Turn Insights into Opportunities](https://dscout.com/people-nerds/how-might-we-statements)
   </aside>
   
 ### Why create HMWs?
@@ -38,4 +39,5 @@ As explained above, one of the keys to creating a successful HMW statement is en
 <p><a href="https://vimeo.com/102964749">How Might We</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
-## Summary
+## From HMWs to Concepts
+Once we hone in on the HMW statement, the next step is creative brainstorming and ideation. There are many different ways to brainstorm. Whatever method you choose, aim to be expansive and come up with many possible ideas/solutions to the HMW. Once you've brainstormed solutions, it's time to move to the next step of the design thinking process which is prototype. 
