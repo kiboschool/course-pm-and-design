@@ -6,13 +6,16 @@
 
 ## The Myth of the Lone Coder
 
-Popular culture and social media has a certain image for what building a great product looks like. Typically a white guy, in a hoodie, hunched over a computer with coffee or diet coke. Locks himself up in a room and months later out comes your favorite app. This is a total lie....
+Popular culture and social media has a certain image for what building a great product looks like. A lone genius, typically a (white) guy in a hoodie, is hunched over a computerwith coffee or diet coke. He codes furiously and some time later, dishelved but victorious, emerges with a website or app that changes the world and makes him a billionaire....
 
+🚩🚩🚩
+
+While this might make for a dramatic montague on TV, it couldn't be further from the the truth of how successful digital products are built. In reality, designing, building and launching successful products requires the input and collaboration of many individuals that make up the product team, as well as external stakeholders. **Software product development is a team sport!**
 
 <aside>
 
 
-📺 Watch the following video on how software engineers work in teams
+📺 Watch the following video on the product development cycle, and how product teams work together
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -45,6 +48,3 @@ Popular culture and social media has a certain image for what building a great p
 
 </aside>
 
-## The best team structure
-Lots of companies do it differently. Even within the same team it might look different. Often about resources and what's available. 
-Ultimately usually wyou have sme people writing the doce, some people interfacing with users/customers/edfining requirements, some people doing the mocks/designs. If it's a 2-person project, same people might do all of it. But broadly these are the three categories we want to focus on 
