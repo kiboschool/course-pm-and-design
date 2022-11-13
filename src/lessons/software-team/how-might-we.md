@@ -38,6 +38,3 @@ As explained above, one of the keys to creating a successful HMW statement is en
   <iframe src="https://player.vimeo.com/video/102964749?h=2274197955" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/102964749">How Might We</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-
-## From HMWs to Concepts
-Once we hone in on the HMW statement, the next step is creative brainstorming and ideation. There are many different ways to brainstorm. Whatever method you choose, aim to be expansive and come up with many possible ideas/solutions to the HMW. Once you've brainstormed solutions, it's time to move to the next step of the design thinking process which is prototype. 
