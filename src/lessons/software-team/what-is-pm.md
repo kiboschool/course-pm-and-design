@@ -3,10 +3,9 @@
 *Estimated Time: XX hours*
 
 ---
-Product management is an often misunderstood role....it has a long and complex history, and it varies between companies and even within the same large company.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Product management is one of the most in-demand roles in technology companies. Yet, is an often misunderstood role. It has a long and complex history, and it varies between companies and may even vary within companies. One common abstraction of the PM role is to describe product amangers as "CEOs of the Product." This is somewhat true because PMs act as leader and connective tissue between various functions like engineering, design, sales, marketing, etc. That said, unlike a CEO, companies usually do not roll up to PMs and there will be many stakeholders with equal or greater decision-making authority than a PM. Nevertheless, PMs must provide clear direction and leadership for their products. 
 
-
+## The role of a PM
 <aside>
 📺 Watch this video explaining the role of a product manager
 </aside>
@@ -18,51 +17,31 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 </aside>
 
-**There are many different ways to describe the PM role. Below are a few useful takes:**
 
-<aside>
-  "CEOs of the Product." 
- </aside>
- 
- <aside>
-  The intersection between UX, Tech and Business
-  </aside>
  <img width="756" alt="image" src="https://user-images.githubusercontent.com/1774663/198885557-7b79b0d7-5535-462c-88a7-c5b07fd1a0da.png">
-
+ 
+Two useful definitions of the job of a product manager are below:
+ 
 <aside>
-  "to discover a product that is valuable, usable and feasible” - Marty Cagan, [Inspired](https://www.amazon.co.uk/gp/product/0981690408)
+  To discover a product that is valuable, usable and feasible - Marty Cagan
 </aside>
 
 <aside>
-  Your job as a PM is to deliver business impact by marshaling the resources of your team to identify and solve the most impactful customer problems. - Lenny Rachitsky, [Lenny's Newseletter](https://www.lennysnewsletter.com/p/what-is-product-management)
+  To deliver business impact by marshaling the resources of your team to identify and solve the most impactful customer problems. - Lenny Rachitsky
 </aside>
 
-![image](https://user-images.githubusercontent.com/1774663/198888389-d168754d-faae-4398-94f7-7bebba71a936.png)
 
-<aside>
-  Build something users want. - Ope Bukola
- </aside>
+Product managers operate at the intersection of the user/customer, the technology, and the business. A useful summary of a PM's role - and one we'll use throughout this course, is that the product manager's job is to **build the right thing and build the thing right. **
 
-#### Summary
-Product managers are sometimes called "CEOs of the Product."  They work at the intersection of users, technology, and the business
-- Build the right thing, i.e., something users want
-- Build it the right way, i.e., use the technology resources you have available
-- Build the right business, i.e., maximize your business value and chances of survival 
+### Build the right thing and build the thing right
+
+**Building the right thing** means deeply understanding the needs of the user and the market, and translating that understanding into a product that users find useful and valuable. Good PMs fall in love with their customer problem, not their solution. 
+
+**Building the thing right** means harnessing resources appropriately, and aligning various stakeholders to build the product in a way that maximizes user and business value, and increases its chances for survival. Much of the PM role is considering and making tradeoffs that shape the product in a specific direction. 
+
+When people say PMs are CEOs of the product, that's because the intersectional role requires many of the same skills that CEO does, i.e., understanding different domains, the ability to wear numerous hats and do/influence different domains without being an expert, the ability to influence people and collaborate well. 
 
 
-## Being a great PM
-<img width="715" alt="image" src="https://user-images.githubusercontent.com/1774663/198885595-97d16f2d-bc03-4f69-957f-e94bbf5052f0.png">
-PM is a very intersectional role, it requires a lot of the same skills that CEO does, i.e., undersanding different domains, being able to pinch hit for a lot of things, but not necessarily being the expert.
-Influence people -- often this influence is soft
-Lead people
-Earn people's respect
-Collaborate well 
-
-<aside>
-  📖 Read [How to Become a Product Manager (According to 3 Experts Who Are)](https://builtin.com/product/how-become-product-manager)
- </aside>
-
-Good PMs **fall in love with your customer problem, not your solution**
 
 ## Computer Science as preparation for PM
 Traditionally, becoming a PM has been a bit of an unknown. Now, big tech companies have rtoational roles for PMs. A lot of people go from studyng CS to become produt managers, either right away or after a few years in engineering or technical roles. Let's hear from a few people who've done that. 
@@ -70,6 +49,8 @@ Traditionally, becoming a PM has been a bit of an unknown. Now, big tech compani
 <aside>
 📺 Watch this video by Shalewa Odusanya, a Product Manager at Instagram who studied computer science on what PMs do
 </aside>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-RmrHkTA0Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 <aside>
@@ -79,18 +60,17 @@ Traditionally, becoming a PM has been a bit of an unknown. Now, big tech compani
 
 
 
-## PM and Design collaboration
-Good software product development is about building the right thing _and_ building the thing right, and it's the PM's job to shepherd the team toward identifying the right thing to build and building it the right way for the business. As we've learned, this is a collaborative task that involves many stakeholders. One of the PM's key collaborators in building the right thing is the designer. 
 
-Software product designers come in many flavors, but generally focus in one of two areas. In a small team, the same individual will likely play both roles. The roles are:
-- UI designer: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-- UX designer: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Optional Resources
 
-Sometimes they're different people, but for now we'll call them design. For the rest of this course, when we use "Designer," know that the designer may be involved in a combination of UX and UI work. 
-
-#### In summary
-- PMs and Designers work together to build the right things, using some common framework known as the design process
-
+<details>
+<summary>How to Become a Product Manager (According to 3 Experts Who Are)</summary>
+https://builtin.com/product/how-become-product-manager
+</details>
+<details>
+<summary>What is Product Management?</summary>
+https://www.lennysnewsletter.com/p/what-is-product-management
+</details>
 
 
 ---
