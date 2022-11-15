@@ -14,18 +14,19 @@ For this project, you will work with your squad members. If your squad has 3 or 
 ### Step 1: Choose a HMW question to focus on 
 Look through the list of HMW questions below and select on that you will focus on during the class. Note that you also have the option to create your own. If you choose this route, send a message in Discord to [Instructor 1] and [Instructor 2] with your HMW statement to obtain approval. 
 
-How Might We
-- Help  people learn and practice their native language?
-- African artisans reach and sell merchandise to global audiences?
-- Help secondary school students discover and learn about potential career paths.
-- Help young (and young at hear) people learn and practice the latest dance moves?
+#### How Might We
+- Help  people learn and practice their native language
+- Help African artisans reach and sell merchandise to global audiences
+- Help secondary school students discover and learn about potential career paths
+- Help young (and young at hear) people learn and practice the latest dance moves
+- Help religious communities engage their members digitally 
 - Help busy university students live healthier lives 
-- Widlcard: come up with your own HMW statement to work on.
+- Widlcard: come up with your own HMW statement to work on
 
 
 ### Step 2: Brainstorm some ideas
 Brainstorm potential solutions for your chosen HMW. Your solution should start with "Can We"
-You should brainstorm a minimum of 40 ideas, including at least 10 "bad ideas"
+You should brainstorm a minimum of 30 ideas, including at least 10 "bad ideas"
 
 
 
