@@ -21,7 +21,7 @@ Look through the list of HMW questions below and select on that you will focus o
 - Help young (and young at hear) people learn and practice the latest dance moves
 - Help religious communities engage their members digitally 
 - Help busy university students live healthier lives 
-- Widlcard: come up with your own HMW statement to work on
+- Wildcard: come up with your own HMW statement to work on
 
 
 ### Step 2: Brainstorm some ideas
