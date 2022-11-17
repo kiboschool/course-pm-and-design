@@ -30,7 +30,7 @@ After completing this lesson, you will be able to:
 
 [Design for Mobile (iOS & Android)](lessons/more-ui-design/mobile.md)
 
-[Design for Web](lessons/more-ui-design/web.md))
+[Design for Web](lessons/more-ui-design/web.md)
 
 [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
 
