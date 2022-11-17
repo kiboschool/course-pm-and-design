@@ -35,7 +35,7 @@
   - [Typography](lessons/ui-design-basics/typography.md)
   - [Color](lessons/ui-design-basics/color.md)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
-  - [Introduction to Figma]()
+  - [Introduction to Figma](lessons/ui-design-basics/Introduction-to-Figma.md)
   - [Assignment](lessons/ui-design-basics/assignment.md)
 
 ### Week 4
