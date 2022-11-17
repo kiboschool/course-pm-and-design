@@ -43,5 +43,7 @@ Please create free accounts on each of these tools. They’ll be necessary for y
 
 [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
 
+[Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
+
 [Assignment](lessons/ui-design-basics/assignment.md)
 
