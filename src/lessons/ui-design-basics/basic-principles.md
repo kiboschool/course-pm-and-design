@@ -7,10 +7,11 @@ When designing UI’s there are some basic principles that should be kept in min
 
 
 ## Alignment
-
 We touched on alignment briefly under typography but what does alignment mean in context of UI design as a whole? That's what we’ll discuss here. Alignment refers to how elements (images, illustrations, buttons, icons, text, etc) in a design are ordered and how they connect/relate to each other. Elements can either be left, right or center aligned. Having aligned elements gives the users a place to snap their focus to and dictates to them, in what order, they should consume the content in your design. An example of a webpage using this principle is below. 
 
 ![Alignment image](https://user-images.githubusercontent.com/28001435/202082953-d902320f-e4fc-4ac4-8291-7e98c15c83f6.png)
+###### Image 1
+
 
 In the example above, the webpage has left, right and center aligned elements. At the top of the webpage we see that the text and buttons are aligned to the left while the illustration is aligned to the right. In the second section, we see that the clients' logos are center aligned on the page. In section three, the text and button are aligned to the right while the illustration is aligned to the left (just like at the top of the webpage), this switches though in section four where the text and button are aligned to the right and the illustration is aligned to the left. This shows how all through the design elements are aligned and have order. We can also see that the designer didn’t use just one type of alignment all through the design (which there’s nothing wrong with) rather the alignment switched back and forth as the page progressed (i.e text started off left aligned, then center aligned, then left aligned again, then right aligned).
 
@@ -18,6 +19,19 @@ In the example above, the webpage has left, right and center aligned elements. A
 ## Balance
 
 Balance refers to how all the elements (images, illustrations, buttons, icons, text, etc) in a design work together in harmony. It also refers to how easy it is for users to intuitively navigate through a design. A design which has elements that aren’t balanced will be uncomfortable to look at. Examples of things that could make a design unbalanced are; using icons that are too thick compared to the font they’re paired with, using illustrations that don’t match the message your design/product is trying to convey, using a different font style somewhere in a design that has not been used anywhere else in that design, etc. Some examples of balanced designs are below.
+
+  
+![Balance img 1](https://user-images.githubusercontent.com/28001435/202326264-108a470b-32a3-43b2-90e0-167a52d47ba1.png)
+###### Image 2
+    
+
+![Balance img 2](https://user-images.githubusercontent.com/28001435/202326325-33253db2-29b0-4f7c-a126-a62ba2df10d4.png)
+###### Image 3
+
+
+![Balance img 3](https://user-images.githubusercontent.com/28001435/202326367-91b5e5ea-35d9-4fa6-bf23-25b95fedc5d4.png)
+###### Image 4
+
 
 In Image 2,  the elements circled in blue are all headings so they have the same style. The display text at the top of the page is slightly different (it's bigger) but other than that they’re all black, bold and of the same typeface. The red line shows how users will start off reading the text on the right then viewing the illustration on the left but as they move down, they’ll view the illustration on the left then read the text on the right. I guarantee that if there were more rows in that sections, they would follow the same pattern of text and illustrations switching positions.
 
@@ -38,7 +52,16 @@ One thing to keep in mind here is that contrast in design isn’t always in rela
 ## Hierarchy
 
 We’ve spoken about hierarchy under typography but it doesn’t just apply to typefaces, it applies to all elements in a design. Hierarchy involves structuring and presenting elements in a way that the information is consumed in the order you, as the designer, expect it to be. The most important information/elements should stand out the most and the least important should stand out the least. For example the major call to action (button) on an e-commerce website page might be “Add to Cart”, that same page may also contain a “View Product Details” call to action. Hierarchy can be used to show that the “Add to Cart” button is the major call to action by making “Add to Cart” a filled button and making “View Product Details” a text button (filled buttons stand out a lot more than text buttons). Examples of hierarchy can be seen below.
-
+   
+    
+<img width="667" alt="heirarchy img 1" src="https://user-images.githubusercontent.com/28001435/202327133-818f971e-4f68-4af4-ad2e-7701859add91.png">
+###### Image 5
+  
+    
+![Heirarchy img 2](https://user-images.githubusercontent.com/28001435/202327170-f46f24de-8395-416d-b06d-24bd235097ad.png)
+###### Image 6       
+  
+    
 In image 5, most of the buttons in the navigation menu at the top of the page are text buttons written in gray text but the major button - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has a higher hierarchy than the other navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
 
 In image 6, two of the icons at the bottom are gray while one is purple. The purple icon shows which page the user is currently viewing while the gray icons show the other two pages in the app. The purple icon is more noticeable than the gray ones and therefore has a higher hierarchy meaning it’s most likely the icon users will see first. 
@@ -47,7 +70,16 @@ In image 6, two of the icons at the bottom are gray while one is purple. The pur
 ## Proximity
 
 Proximity refers to how closely related two elements in a design are. As with other principles, it applies to different types of elements - bodies of text, icons, illustrations, buttons etc. How close or how far elements are from each other shows how related or unrelated they are respectively. Proximity doesn’t just apply to the space between elements though. It can also be how similar two elements look in a design. For example, if a filled, blue button with the call-to-action “Add Photos” is used for adding photos to an app, a filled, blue button could also be used for adding videos or adding friends in the same app. Due to the fact that both these buttons have similar functions - adding things - they’re closely related and therefore can/should look the same. Examples of proximity are shown below.
+ 
+    
+![Proximity img 1](https://user-images.githubusercontent.com/28001435/202327346-972a3a89-56b1-41c9-a552-1334ad36cd98.png)
+###### Image 7    
+  
+    
+![Proximity example 2](https://user-images.githubusercontent.com/28001435/202327552-f36ef34f-69a5-4055-87ac-c4bac16f8635.png)
+###### Image 8
 
+    
 In image 7, the red lines show how proximity is used to show that the overline, heading and body text are related to each other. Proximity is also used to show that even though the two paragraphs are separate, they’re still closely related. The first paragraph is the “First City to Visit” and the second paragraph is the “Second City to Visit”, both paragraphs contain overline, heading and body text. The display text on the other hand is further away from the two paragraphs but not far enough for us to assume that it's not related. This tells us that it's the overarching title for this whole body of text.  
 
 In image 8, the red line shows how bodies of text that are not related to each other are separated by quite a bit of space. The green line shows how bodies of text that are similar to each other but still separate are much closer. The blue line shows how text that are pieces of the same body of text are very close to each other. The orange rectangles show how proximity of the design of two elements shows that they have similar functions but are different. All the elements in the orange rectangles are buttons that lead to other parts of the website. The text is gray because they’re less important than the other things on the page. In one section though, a gray border is placed around the text. This shows that even though these elements are similar, the buttons with borders are still more relevant than the ones without. This is a good example of how proximity of the design of elements can show that they’re related but still slightly different.  
@@ -56,7 +88,12 @@ In image 8, the red line shows how bodies of text that are not related to each o
 ## Repetition
 
 Repetition refers to consistent use of fonts, colors, space, icon styles, illustration styles, button styles, etc in a design. Repeating elements or the styles of elements helps users build familiarity with a design and also the brand as a whole. If posts were to be pulled out from Facebook, Instagram, Twitter and TikTok feeds you’d most likely be able to tell which post is from where because of how often you’ve seen posts on these platforms and the fact that all posts within a platform have exactly the same style. The goal with repetition is to make using your design second nature to the user. When repetition of styles, functions, interactions, etc is done well in a design, users become so familiar with the design that no one needs to explain to them how to use it. Even if a new feature suddenly pops up in the app one day, they can probably figure out how to use it without any help because they’re familiar with using the older features. We see this in many apps nowadays with interactions such as; pull down to refresh, swipe left for “No” and right for “Yes”, long press for menu options, etc. These are all interactions that have been repeated across many apps so users don’t necessarily need to be told how they work. An example of repetition is below.
+    
+    
+![Repitition example ](https://user-images.githubusercontent.com/28001435/202327625-6e95a060-ccdc-4589-b7dd-02d38f88a713.png)
+###### Image 9
 
+    
 In image 9, the red lines show how the styles of posts are repeated on Medium. The design of “Trending” posts are the same but slightly different from the posts further down the page - difference being that the posts further down the page have excerpts from the actual articles. Frequent Medium users will be quite familiar with this layout of posts and will expect it all through the site.
 
 
