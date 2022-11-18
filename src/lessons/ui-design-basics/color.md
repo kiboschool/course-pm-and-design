@@ -109,7 +109,7 @@ We’ve covered the positive and negative psychological effects colors have on u
 
 #### Exercise
 
-There are 5 sectors listed below, for each of these sectors, list the colors you feel companies looking to join these sectors could use for their branding. Once you’ve put down all the colors you think these companies could use, view the answers below. 
+There are 5 sectors listed below. For each of these sectors, list the colors you feel companies looking to join these sectors could use for their branding. Once you’ve put down all the colors you think these companies could use, view the answers below. 
 
 Agriculture, Education, Climate change, Entertainment, Real Estate
 
