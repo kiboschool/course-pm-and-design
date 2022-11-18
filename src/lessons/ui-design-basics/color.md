@@ -107,6 +107,23 @@ We’ve covered the positive and negative psychological effects colors have on u
 <p><a href="https://vimeo.com/169046276">COLOR PSYCHOLOGY</a> from <a href="https://vimeo.com/lillyseara">LidiaSeara</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+#### Exercise
+
+There are 5 sectors listed below, for each of these sectors, list the colors you feel companies looking to join these sectors could use for their branding. Once you’ve put down all the colors you think these companies could use, view the answers below. 
+
+Agriculture, Education, Climate change, Entertainment, Real Estate
+
+<details>
+  <summary> Check the Answers </summary>
+  - Agriculture: green, brown, orange
+  - Education: green, yellow, black
+  - Climate change: green, brown, red
+  - Entertainment: red, yellow, orange
+  - Real Estate: brown, black, green, red, blue, violet
+
+</details>
+
+
 ## Cultural differences in Color
 
 It’s important to note that even though colors have certain psychological, physical and emotional effects on us, their meaning can differ based on things such as cultural differences and region. 
