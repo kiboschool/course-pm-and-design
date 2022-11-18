@@ -115,12 +115,14 @@ Agriculture, Education, Climate change, Entertainment, Real Estate
 
 <details>
   <summary> Check the Answers </summary>
-  - Agriculture: green, brown, orange
-  - Education: green, yellow, black
-  - Climate change: green, brown, red
-  - Entertainment: red, yellow, orange
-  - Real Estate: brown, black, green, red, blue, violet
 
+- Agriculture: green, brown, orange
+- Education: green, yellow, black
+- Education: green, yellow, black
+- Climate change: green, brown, red
+- Entertainment: red, yellow, orange
+- Real Estate: brown, black, green, red, blue, violet 
+  
 </details>
 
 
