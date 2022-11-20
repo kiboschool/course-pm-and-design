@@ -29,12 +29,11 @@ While this might make for good television, it couldn't be further from the the t
 </aside>
 
 
-## Reflect: Software Teams 
+## Research: Software Teams 
 
 <aside>
-
-
-🪞 Take a look at the list of roles below in a software team. Find a role/position you don't know much about. Spend 5-10 minutes research and write down 1-2 sentences on what this person does in a team. 
+💬 **Who is on a product team?**
+Take a look at the list of roles below in a software team. Find a role/position you don't know much about. Spend 5-10 minutes research and write down 1-2 sentences on what this person does in a team. 
   - Product manager 
   - Product Owner
   - DevOps engineer
@@ -43,8 +42,12 @@ While this might make for good television, it couldn't be further from the the t
   - Software architect
   - QA Engineers
   - Business analyst 
-  
-**Post your answer in the padlet below.**
+Post your definition in the padlet below.
+
+**Note:** In order to see and interact with the padlet, you will need to be logged in to your padlet account!
 
 </aside>
+
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/1a8wprarm320asai" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
+
 
