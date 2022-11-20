@@ -63,15 +63,8 @@ In the early to mid 2000s, the path to becoming a product manager was unclear. T
 
 ## Optional Resources
 
-
-<details>
-<summary>Articles on Product Manager</summary>
-[What is Product Management?](https://www.lennysnewsletter.com/p/what-is-product-management)
-</details>
-<details>
-<summary>Tips on becoming PMS</summary>
-[How to Become a Product Manager (According to 3 Experts Who Are)](https://builtin.com/product/how-become-product-manager)
-</details>
+- [What is Product Management?](https://www.lennysnewsletter.com/p/what-is-product-management)
+- [How to Become a Product Manager (According to 3 Experts Who Are)](https://builtin.com/product/how-become-product-manager)
 
 
 ---
