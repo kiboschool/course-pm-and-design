@@ -14,14 +14,10 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Learning Outcome 1
-- Learning Outcome 2
-- Learning Outcome 3
-- ....
-
-## Preparing for Class
-
-Prepare for class by completing at least the first three lessons (it's ok to go further if you have time) before we meet. 
+- Explain the role of product managers and product designers on digital product teams
+- Describe the design thinking process and stages, and explain the benefits of design thinking approach to problem-solving
+- Formulate problem statements using the "How Might We" framework
+- Generate varied potential solutions to a stated problem
 
 
 ## Getting Focused
