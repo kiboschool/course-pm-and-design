@@ -15,8 +15,8 @@
   - [What is Product Management?](lessons/software-team/what-is-pm.md)
   - [What is Product Design?](lessons/software-team/what-is-design.md)
   - [Design Thinking](lessons/software-team/design-thinking.md)
-  - [Problem to Product](lessons/software-team/problem-to-product.md)
-  - [How Might We](lessons/software-team/how-might-we.md)
+  - [Empathise & Define: creating problem statements](lessons/software-team/problem-to-product.md)
+  - [Ideate: How Might We](lessons/software-team/how-might-we.md)
   - [Assignment](lessons/software-team/assignment.md)
 
 ### Week 2
