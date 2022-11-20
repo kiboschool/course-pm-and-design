@@ -6,11 +6,11 @@
 
 ## The Myth of the Lone Coder
 
-Popular culture and social media has a certain image for what building a great product looks like. A lone genius, typically a (white) guy in a hoodie, is hunched over a computerwith coffee or diet coke. He codes furiously and some time later, dishelved but victorious, emerges with a website or app that changes the world and makes him a billionaire....
+Popular culture sometimes presents a certain image for the process of building a digital product: a lone genius, typically a (white) guy in a hoodie, is hunched over a computer with coffee or diet coke. He codes furiously and some time later, dishelved but victorious, emerges with a website or app that changes the world and makes him a billionaire.
 
 🚩🚩🚩
 
-While this might make for a dramatic montague on TV, it couldn't be further from the the truth of how successful digital products are built. In reality, designing, building and launching successful products requires the input and collaboration of many individuals that make up the product team, as well as external stakeholders. **Software product development is a team sport!**
+While this might make for good television, it couldn't be further from the the truth of how successful digital products are built. In reality, designing, building and launching successful products requires the input and collaboration of many individuals that make up the product team, as well as external stakeholders. **Software product development is a team sport!**
 
 <aside>
 
