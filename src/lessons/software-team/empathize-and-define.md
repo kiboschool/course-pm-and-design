@@ -22,6 +22,13 @@ In the previous lesson, we got an overview of design thinking... In this lesson,
  </aside>
  
  Throughout the rest of this course, we'll apply the principles of design thinking to go from an idea to a product. We'll engage in an iterative process of developing empathy, defining 
+ 
+ ## Empathising with users
+ 
+ <aside>
+  <iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/103471248">Empathy</a> from <a href="https://vimeo.com/ideoorg">IDEO.org</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+  </aside>
 
 
 ## Problem Statement
