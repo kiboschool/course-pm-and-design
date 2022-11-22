@@ -66,11 +66,11 @@
 - [Prototyping]()
 
 ### Final Project Milestone 2
-- [Final Project Milestone 2: App Screens](concept-testing.md)
+- [Final Project Milestone 2: App Design]()
 
 ### Week 9
 - [Continuous Design Life Cycle]()
 
 ### Week 10
-- [Final Project]()
+- [Final Project](final-project.md)
 
