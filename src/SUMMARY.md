@@ -3,7 +3,6 @@
 [Course Overview](pm-and-design.md)
 [Expectations]
 [Assessments](assessments.md)
-[Project 1: Concept Testing](concept-testing.md)
 [Live Classes]
 
 
@@ -29,6 +28,9 @@
   - [Conducting User Research](lessons/ux-design-process/conducting-user-research.md)
   - [Concept Testing](lessons/ux-design-process/concept-testing.md)
   - [Assignment](lessons/ux-design-process/assignment.md)
+
+### Final Project Milestone 1
+- [Milestone 1: Concept Testing](concept-testing.md)
 
 ### Week 3
 
