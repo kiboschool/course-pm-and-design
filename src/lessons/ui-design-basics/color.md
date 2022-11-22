@@ -12,6 +12,7 @@ Color is a major aspect of UI design. It has the ability to heavily influence ho
 
 
 For a deeper divide into the positive and negative effects of colors read the article below.
+
 [Color Psychology](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 
