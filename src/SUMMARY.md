@@ -29,9 +29,6 @@
   - [Concept Testing](lessons/ux-design-process/concept-testing.md)
   - [Assignment](lessons/ux-design-process/assignment.md)
 
-### Final Project Milestone 1
-- [Final Project Milestone 1: Concept Testing](concept-testing.md)
-
 ### Week 3
 
 - [UI Design Basics](lessons/ui-design-basics.md)
@@ -40,6 +37,10 @@
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
   - [Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
   - [Assignment](lessons/ui-design-basics/assignment.md)
+
+
+### Final Project Milestone 1
+- [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 ### Week 4
 
@@ -51,10 +52,25 @@
   - [Assignment](lessons/more-ui-design/assignment.md)
 
 ### Week 5
-- [Week 5: Review]()
+- [Review]()
 
 
 ### Week 6
-- [Week 6: Product Requirements]()
+- [Product Requirements]()
 
+
+### Week 7
+- [User Flows]()
+
+### Week 8
+- [Prototyping]()
+
+### Final Project Milestone 2
+- [Final Project Milestone 2: App Screens](concept-testing.md)
+
+### Week 9
+- [Continuous Design Life Cycle]()
+
+### Week 10
+- [Final Project]()
 
