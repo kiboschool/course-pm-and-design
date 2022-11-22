@@ -24,7 +24,7 @@ Now that you have your Figma set up, the next thing is to familiarize yourself w
 - Re-order, align and group layers
 - Import and edit images
 
-Take your time walking through the video and make sure you understand everything that's shared. This will be the foundation of the rest of the work we do in Figma during this course. Once you’ve finished creating the design in the video please drop a “view-only” link in [this form](). 
+Take your time walking through the video and make sure you understand everything that's shared. This will be the foundation of the rest of the work we do in Figma during this course. Once you’ve finished creating the design in the video, you will submit it for this week's assignment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZJOSK4gXl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
