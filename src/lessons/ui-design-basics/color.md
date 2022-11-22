@@ -3,127 +3,25 @@
 
 ---
 
-## Introduction
-
-Color is a major aspect of UI design. It has the ability to heavily influence how people view; your design, physical and digital products and brands in general. Even in our everyday lives, color is used to give signals and feedback in places where text and images are not convenient as a means of communication. It’s generally understood around the world that at a traffic light, red means stop, yellow means get ready and green means go. This is an example of how color can be used to provide certain signals without the use of words or images. In this chapter you’ll learn how different colors affect people physically and emotionally, how the meaning behind colors can change depending on culture/region and how to effectively use color in UI design. To kick things off, let’s dive into how different colors affect us psychologically, physically and emotionally.
 
 ## Color Psychology
 
-As mentioned above, different colors convey different emotions. Based on this, it's important to understand what positive and negative emotions/feelings can be associated with the colors you may use in your designs. 
+Color is a major aspect of UI design. It has the ability to heavily influence how people view; your design, physical and digital products and brands in general. Even in our everyday lives, color is used to give signals and feedback in places where text and images are not convenient as means of communication. It’s generally understood around the world that at a traffic light, red means stop, yellow means get ready and green means go. This is an example of how color can be used to provide certain signals without the use of words or images. In this chapter you’ll learn how different colors affect people physically and emotionally, how the meaning behind colors can change depending on culture/region and how to effectively use color in UI design. To kick things off, watch the video below about the psychological effects of colors. 
 
-### Red
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8J0nbuunDXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Red has the longest wavelength meaning it's the first color to catch your attention amongst other colors. Looking at the color red increases our heart rate and activates our fight or flight response which makes us more alert and anxious. 
 
-Due to these properties, red is often used to convey; courage, strength, warmth, love, energy, masculinity, etc. Be careful when using red though because it can also convey aggression, extreme caution, stress and a few other negative feelings. 
-
-Brands that use red are often trying to communicate a sense of strength, passion, excitement, professionalism, etc. Due to the nature of the color though, they're careful not to overuse it in their branding. 
-
-Examples of brands that use red are; Coca-Cola, CNN, Youtube, Bank of America, Virgin, Red Cross, Netflix, Marvel, etc.
-
-### Pink
-
-Pink is a tint of red therefore it affects us in a similar way. The major difference between the two is that while red stimulates us, pink soothes us. A great example of this is Valentine's Day. As we approach Valentine's Day, it’s very common to see images and illustrations with red and pink themes. This raises our heart rates and soothes us simultaneously, making us anxious for passionate and comforting expressions of love. As you can imagine, many brands leverage our heightened senses during this period to encourage us to buy things to express love to our loved ones.  
-
-Pink is great for conveying; nurture, warmth, femininity, love, sexuality and passion. On the other hand it can also be used to convey; physical weakness, claustrophobia, shyness, discomfort, etc. 
-
-Examples of brands that use pink are; Airbnb, Lyft, Victoria's Secret, Tinder, T-Mobile, etc.
-
-### Blue
-
-Blue is a soothing color, unlike red it affects us mentally rather than physically. Looking at blue calms people down and gives off a feeling of trust, clarity and intelligence. Due to these properties, It’s probably the most common color used by brands. 
-
-Blue is great for conveying; trust, intelligence, calmness, security, logic, serenity, efficiency, etc. On the other hand it can also show; lack of emotion, coldness, unfriendliness, etc. 
-
-Examples of brands that use blue are; Meta, Twitter, LinkedIn, Chase Bank, PayPal, IBM, Samsung, Gap, etc.
-
-### Green
-
-Green is a color of balance. It’s right in the middle of the visible light spectrum meaning our eyes are very comfortable looking at it. This nature of green makes it give off a feeling of peace and rest as well. Think about the trees, plants, vegetation you see around you. On a primal level, these are reassuring signs of life, food and health. 
-
-Green is great at conveying; harmony, balance, environmental awareness, education, growth, rest, peace, health, etc. On the other hand it can also come off as boring, fatigued, bland, slow, tired, etc.
-
-Examples of brands that use green are; Starbucks Coffee, Spotify, Animal Planet, Android, Khan Academy, Duolingo, WhatsApp, Hulu, Heineken, etc. 
-
-### Brown
-
-Brown is a serious color and represents support, reliability and nature. Think about tree trunks, wood and earth (soil). These are all things that we rely on and trust to carry weight and nurture us. Tree trunks and branches hold leaves and fruits that provide us food. Wood is used for furniture and is the primary building material for homes in some parts of the world. We plant seeds in the earth (soil) and trust it to provide a good environment for our seed to grow into food and flowers. The earth (soil) is also home to many animals, bacteria and microorganisms that are essential in keeping our ecosystem healthy. 
-
-Brown is great at conveying; seriousness, nature, reliability, support, nature, etc. On the other hand it can also come off as heavy, clunky, dry, boring and unsophisticated. 
-
-Examples of brand that use brown are; UPS, Louis Vuiton, M&M, Nespresso, etc 
-
-### Orange
-
-Orange is a stimulating color and brings about both physical and emotional reactions. It's generally seen as a fun color and represents playfulness, warmth and boldness. Think of our sun and the many other stars that are orange when seen in space. Many planets depend on them for warmth. They represent a source of heat which is necessary for life and the gravitational pull of these stars also keep their planets in place. 
-
-Orange is great at conveying; passion, abundance, fun, security, warmth, physical comfort, sensuality, food, etc. On the other hand it can also show; deprivation, immaturity, silliness, etc.
-
-Examples of brands that use orange are; Nickelodeon, Soundcloud, Mastercard, Amazon, Rockstar Entertainment, Headspace, Harley Davidson, etc.
-
-### Yellow
-
-Yellow has a relatively long wavelength which makes it a stimulating color as well. Unlike red it’s emotionally stimulating rather than physically, this makes it the strongest color psychologically. Looking at yellow lifts our spirits and makes us confident and optimistic. Think about how every morning we rise to the view of our bright yellow sun. It kicks us into action and as the sun gradually fades so does our energy throughout the day. 
-
-Yellow is great at conveying; confidence, optimism, emotional strength, friendliness, creativity, self-esteem, etc. On the other hand because of its strong connection to our psychology it can also represent; depression, fear, anxiety, emotional fragility, suicide, etc. 
-
-Examples of brands that use yellow are; Snapchat, McDonalds, Bumble, Nikon, Ikea, Walmart, Ferrari, etc
-
-### Violet (Purple)
-
-Violet is the shortest wavelength and elevates our awareness. It's an introvertive color and encourages deep thought and meditation. It can also represent royalty and the finer thing of life. Roman emperors starting with Julius Caesar wore purple garments to show their royal status. Purple is also the last color in the visible light spectrum so it can also be used to represent space and the cosmos. 
-
-Purple is great at conveying; spiritual awareness, luxury, truth, quality, vision, authenticity, etc. On the other hand it can also represent introversion, suppression, inferiority, cheapness, etc.
-
-Examples of brands that use purple are; Yahoo, Roku, Taco Bell, Syfy, Twitch, Cadbury, Hallmark, etc.
-
-### Gray
-
-Gray is the only color that has no direct psychological properties or physical properties. It is a suppressive and can often be seen as a depressing color. Think about terms like “the world turning gray” or “gray skies on a rainy day”. In UI design we often see gray used for disabled buttons, inactive elements or placeholder text. 
-
-Gray is great at conveying psychological neutrality. It can also convey; lack of confidence, lack of energy, depression, dampness, etc.
-
-It’s rare to see brands use gray as one of their primary colors but some do use it to show simplicity and luxury. Examples of these brands are; Apple, Nestle, Wii, Toyota, Mercedes, etc.
-
-### Black
-
-Black is a combination of all colors as it absorbs all light. Psychologically this can represent barriers, strength and boldness. In some tones black can be an overwhelming and menacing color. Think about monstrous objects like black holes. They are completely black because they absorb all light and have ridiculous masses. Think also about the dark/night, many people fear it because of the eerie feeling it gives off. 
-
-Black is great at conveying; sophistication, security, glamor, safety, substance, etc. On the other hand it can also come off as oppressive, cold, heavy, menacing, etc. 
-
-Examples of brands that use black are; Apple, SpaceX, Nike, Adidas, Sony, Mont Blanc, Uber, TikTok, BBC, etc.
-
-### White
-
-Just as black absorbs all light, white reflects all light. Like black, it can represent barriers but not in the same way. While black can represent barriers because of its boldness, white can represent barriers because of its purity. Think about brides and religious leaders who wear white to show purity. Due to this property, pure white can be straining to look at. 
-
-White is great at conveying; hygiene, clarity, purity, cleanliness, sophistication, efficiency, simplicity, etc. On the other hand, it can also come off as; cold, sterile, unfriendly, elitist, etc 
-
-Examples of brand that use white are; Apple, SpaceX, Nike, Adidas, BBC, etc
-
-We’ve covered the positive and negative psychological effects colors have on us above. We’ve also covered how they affect us emotionally and physically. One thing to keep in mind is that these effects are not set in stone. Depending on the various tints, hues and saturations of these colors they can represent other things. So if you see a brand trying to come off calm and intellectual but using red in their brand that doesn't mean it's wrong. To further drive home these psychological effects of color please watch the short video below
-
-<iframe src="https://player.vimeo.com/video/169046276?h=00f6c6292a" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/169046276">COLOR PSYCHOLOGY</a> from <a href="https://vimeo.com/lillyseara">LidiaSeara</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+For a deeper divide into the positive and negative effects of colors read the article below.
+[Color Psychology](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 
 #### Exercise
 
-There are 5 sectors listed below. For each of these sectors, list the colors you feel companies looking to join these sectors could use for their branding. Once you’ve put down all the colors you think these companies could use, view the answers below. 
+From the 5 sectors listed below, pick 1 and choose 3 colors you feel a company looking to join the sector might use for their branding and explain why. Please post your answer in the padlet below. 
 
 Agriculture, Education, Climate change, Entertainment, Real Estate
 
-<details>
-  <summary> Check the Answers </summary>
-
-- Agriculture: green, brown, orange
-- Education: green, yellow, black
-- Education: green, yellow, black
-- Climate change: green, brown, red
-- Entertainment: red, yellow, orange
-- Real Estate: brown, black, green, red, blue, violet 
-  
-</details>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/1a8wprarm320asai" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 
 ## Cultural differences in Color
