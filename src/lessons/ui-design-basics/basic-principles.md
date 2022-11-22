@@ -23,19 +23,23 @@ Balance refers to how all the elements (images, illustrations, buttons, icons, t
   
 ![Balance img 1](https://user-images.githubusercontent.com/28001435/202326264-108a470b-32a3-43b2-90e0-167a52d47ba1.png)
 ###### Image 2
+
+
+In Image 2,  the elements circled in blue are all headings so they have the same style. The display text at the top of the page is slightly different (it's bigger) but other than that they’re all black, bold and of the same typeface. The red line shows how users will start off reading the text on the right then viewing the illustration on the left but as they move down, they’ll view the illustration on the left then read the text on the right. I guarantee that if there were more rows in that sections, they would follow the same pattern of text and illustrations switching positions.
+
     
 
 ![Balance img 2](https://user-images.githubusercontent.com/28001435/202326325-33253db2-29b0-4f7c-a126-a62ba2df10d4.png)
 ###### Image 3
 
 
+In Image 3, the button color is purple meaning that purple is either a primary or secondary color for the brand. We can also see that different shades of purple are prominent in the illustration. This is a good example of balance across elements (buttons & icons).
+
+
+
 ![Balance img 3](https://user-images.githubusercontent.com/28001435/202326367-91b5e5ea-35d9-4fa6-bf23-25b95fedc5d4.png)
 ###### Image 4
 
-
-In Image 2,  the elements circled in blue are all headings so they have the same style. The display text at the top of the page is slightly different (it's bigger) but other than that they’re all black, bold and of the same typeface. The red line shows how users will start off reading the text on the right then viewing the illustration on the left but as they move down, they’ll view the illustration on the left then read the text on the right. I guarantee that if there were more rows in that sections, they would follow the same pattern of text and illustrations switching positions.
-
-In Image 3, the button color is purple meaning that purple is either a primary or secondary color for the brand. We can also see that different shades of purple are prominent in the illustration. This is a good example of balance across elements (buttons & icons).
 
 In image 4, we can see four cards which have each of their elements underlined in either blue, red or green. The blue, red and green elements are all in the same positions and have the same styles in all the cards. This shows that they are different alternatives of the same element (i.e discount code card). So when a user sees an element with the same style and layout on that app they can assume they are looking at discount codes. We can also see the icons on the bottom circled in orange. Each of the icons is a line icon. If we were to replace one of the icons with a filled one, we’d notice that all of a sudden the design of the page looks slightly off. 
 
@@ -56,13 +60,14 @@ We’ve spoken about hierarchy under typography but it doesn’t just apply to t
     
 <img width="667" alt="heirarchy img 1" src="https://user-images.githubusercontent.com/28001435/202327133-818f971e-4f68-4af4-ad2e-7701859add91.png">
 ###### Image 5
+
+In image 5, most of the buttons in the navigation menu at the top of the page are text buttons written in gray text but the major button - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has a higher hierarchy than the other navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
+
   
     
 ![Heirarchy img 2](https://user-images.githubusercontent.com/28001435/202327170-f46f24de-8395-416d-b06d-24bd235097ad.png)
 ###### Image 6       
-  
-    
-In image 5, most of the buttons in the navigation menu at the top of the page are text buttons written in gray text but the major button - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has a higher hierarchy than the other navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
+
 
 In image 6, two of the icons at the bottom are gray while one is purple. The purple icon shows which page the user is currently viewing while the gray icons show the other two pages in the app. The purple icon is more noticeable than the gray ones and therefore has a higher hierarchy meaning it’s most likely the icon users will see first. 
 
@@ -74,13 +79,15 @@ Proximity refers to how closely related two elements in a design are. As with ot
     
 ![Proximity img 1](https://user-images.githubusercontent.com/28001435/202327346-972a3a89-56b1-41c9-a552-1334ad36cd98.png)
 ###### Image 7    
-  
+
+
+In image 7, the red lines show how proximity is used to show that the overline, heading and body text are related to each other. Proximity is also used to show that even though the two paragraphs are separate, they’re still closely related. The first paragraph is the “First City to Visit” and the second paragraph is the “Second City to Visit”, both paragraphs contain overline, heading and body text. The display text on the other hand is further away from the two paragraphs but not far enough for us to assume that it's not related. This tells us that it's the overarching title for this whole body of text. 
+
+
     
 ![Proximity example 2](https://user-images.githubusercontent.com/28001435/202327552-f36ef34f-69a5-4055-87ac-c4bac16f8635.png)
 ###### Image 8
 
-    
-In image 7, the red lines show how proximity is used to show that the overline, heading and body text are related to each other. Proximity is also used to show that even though the two paragraphs are separate, they’re still closely related. The first paragraph is the “First City to Visit” and the second paragraph is the “Second City to Visit”, both paragraphs contain overline, heading and body text. The display text on the other hand is further away from the two paragraphs but not far enough for us to assume that it's not related. This tells us that it's the overarching title for this whole body of text.  
 
 In image 8, the red line shows how bodies of text that are not related to each other are separated by quite a bit of space. The green line shows how bodies of text that are similar to each other but still separate are much closer. The blue line shows how text that are pieces of the same body of text are very close to each other. The orange rectangles show how proximity of the design of two elements shows that they have similar functions but are different. All the elements in the orange rectangles are buttons that lead to other parts of the website. The text is gray because they’re less important than the other things on the page. In one section though, a gray border is placed around the text. This shows that even though these elements are similar, the buttons with borders are still more relevant than the ones without. This is a good example of how proximity of the design of elements can show that they’re related but still slightly different.  
 
