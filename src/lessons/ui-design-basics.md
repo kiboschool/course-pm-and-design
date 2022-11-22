@@ -19,15 +19,6 @@ After completing this lesson, you will be able to:
 - Learning Outcome 3
 - ....
 
-## **Tools**
-
-- Tool 1
-- Tool 2
-- Tool 3
-
-Please create free accounts on each of these tools. They’ll be necessary for you to participate in class and complete the assessments.
-
-
 
 ## Sections
 
