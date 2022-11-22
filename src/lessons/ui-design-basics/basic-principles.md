@@ -59,7 +59,9 @@ We’ve spoken about hierarchy under typography but it doesn’t just apply to t
    
     
 <img width="667" alt="heirarchy img 1" src="https://user-images.githubusercontent.com/28001435/202327133-818f971e-4f68-4af4-ad2e-7701859add91.png">
-###### Image 5
+
+###### Image 6 
+
 
 In image 5, most of the buttons in the navigation menu at the top of the page are text buttons written in gray text but the major button - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has a higher hierarchy than the other navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
 
