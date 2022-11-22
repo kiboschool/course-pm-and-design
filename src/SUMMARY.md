@@ -3,6 +3,9 @@
 [Course Overview](pm-and-design.md)
 [Expectations]
 [Assessments](assessments.md)
+- [Final Project Milestone 1: Concept Testing](concept-testing.md)
+- [Final Project Milestone 2: App Design](app-design.md)
+- [Finaal Project](final-project.md)
 [Live Classes]
 
 
