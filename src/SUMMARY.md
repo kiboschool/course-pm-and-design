@@ -4,8 +4,8 @@
 [Expectations]
 [Assessments](assessments.md)
 - [Final Project Milestone 1: Concept Testing](concept-testing.md)
-- [Final Project Milestone 2: App Design](app-design.md)
-- [Finaal Project](final-project.md)
+- [Final Project Milestone 2: App Design](app-designs.md)
+- [Final Project](final-project.md)
 [Live Classes]
 
 
