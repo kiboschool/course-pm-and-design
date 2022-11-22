@@ -1,12 +1,11 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
-[Expectations]
 [Assessments](assessments.md)
-- [Final Project Milestone 1: Concept Testing](concept-testing.md)
-- [Final Project Milestone 2: App Design](app-designs.md)
-- [Final Project](final-project.md)
-[Live Classes]
+[Final Project Milestone 1: Concept Testing](concept-testing.md)
+[Final Project Milestone 2: App Design](app-designs.md)
+[Final Project](final-project.md)
+[Live Classes]()
 
 
 ## Lessons
@@ -42,9 +41,6 @@
   - [Assignment](lessons/ui-design-basics/assignment.md)
 
 
-### Final Project Milestone 1
-- [Final Project Milestone 1: Concept Testing](concept-testing.md)
-
 ### Week 4
 
 - [More UI Design](lessons/more-ui-design.md)
@@ -68,8 +64,6 @@
 ### Week 8
 - [Prototyping]()
 
-### Final Project Milestone 2
-- [Final Project Milestone 2: App Design]()
 
 ### Week 9
 - [Continuous Design Life Cycle]()
