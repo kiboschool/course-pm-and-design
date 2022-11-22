@@ -30,7 +30,7 @@
   - [Assignment](lessons/ux-design-process/assignment.md)
 
 ### Final Project Milestone 1
-- [Milestone 1: Concept Testing](concept-testing.md)
+- [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 ### Week 3
 
@@ -50,7 +50,11 @@
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
   - [Assignment](lessons/more-ui-design/assignment.md)
 
+### Week 5
+- [Week 5: Review]()
 
 
+### Week 6
+- [Week 6: Product Requirements]()
 
 
