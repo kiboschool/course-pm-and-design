@@ -8,9 +8,7 @@ So far we’ve covered typography, color and basic principles of UI design. With
 
 ## Starting out with Figma
 
-The first thing you’ll need to do is visit Figma’s website and sign up (it's free). Once you’ve signed up, you have the option of designing directly in your browser or downloading the app. Figma is a cloud based design tool meaning that it requires an internet connection to save your work (it autosaves after every edit you make). Due to this, best practice is to download the app so that even if you don’t have an internet connection you can still design and save your work on your PC. Once you get back online Figma will autosave your work. The desktop app is available for both Windows and Mac. The article below contains short videos and explanations that will help you get started with Figma.
-
-[Get started with Figma](https://designlab.com/figma-101-course/introduction-to-figma/)
+The first thing you’ll need to do is visit Figma’s website and sign up (it's free). Once you’ve signed up, you have the option of designing directly in your browser or downloading the app. Figma is a cloud based design tool meaning that it requires an internet connection to save your work (it autosaves after every edit you make). Due to this, best practice is to download the app so that even if you don’t have an internet connection you can still design and save your work on your PC. Once you get back online Figma will autosave your work. The desktop app is available for both Windows and Mac.
 
 
 ## Creating your First Design in Figma
@@ -26,7 +24,7 @@ Now that you have your Figma set up, the next thing is to familiarize yourself w
 - Re-order, align and group layers
 - Import and edit images
 
-Take your time walking through the video and make sure you understand everything that's shared. This will be the foundation of the rest of the work we do in Figma during this course. 
+Take your time walking through the video and make sure you understand everything that's shared. This will be the foundation of the rest of the work we do in Figma during this course. Once you’ve finished creating the design in the video please drop a “view-only” link in [this form](). 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZJOSK4gXl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
