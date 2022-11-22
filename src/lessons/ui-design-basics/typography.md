@@ -88,18 +88,6 @@ Image showing heirarchy in a body of text - [source - ]
 Image showing how heirarchy directs in what order users read text
   
 
-![Type Hierarchy 2](https://user-images.githubusercontent.com/28001435/200087608-46af5906-7934-45c8-949d-2a9bc567a444.png)
-Image showing the font size and weight guidelines for Mailchimp's typescale [Source](https://ux.mailchimp.com/patterns/typography)
-
-
-![1*s6OqC7mSHfIaHLQHvlYUGw](https://user-images.githubusercontent.com/28001435/200087629-8231653b-56b7-4a1c-9ebc-c534c7accf10.png)
-Image showing a typescale with defined sizes and weights
-
-
-![1*K6BEZdzioUHitIJVeC5VWA](https://user-images.githubusercontent.com/28001435/200087639-20d354db-715a-4002-94c7-3eac64565d52.png)
-Image showing typical weights for different typescales
-
-
 We’ll discuss how color can be used to show hierarchy below.
 
 <aside>
@@ -184,4 +172,9 @@ Some fonts are free while others are paid. At this stage it’s advisable to use
 - [https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd](https://uxdesign.cc/10-principles-for-typography-usage-in-ui-design-a8f038f43ffd)
 - [https://ux.mailchimp.com/patterns/typography](https://ux.mailchimp.com/patterns/typography)
 - [Typography - Style - Material design guidelines](https://material.io/guidelines/style/typography.html)
+
+
+ ## Reflect
+ 
+We’ve covered quite a bit of material on typography - don’t worry you’re not expected to know it all off-head. Before moving on to the next lesson, spend a few minutes reflecting on what typography is, what typography terms you remember, the principles of typography and what formats typefaces come in. 
 
