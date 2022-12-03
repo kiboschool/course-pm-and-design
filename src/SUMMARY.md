@@ -62,7 +62,7 @@
 
 ### Week 7
 - [User Flows]()
-- [Assignment: information architecture]
+- [Assignment: information architecture]()
 - [Final Project Milestone 2: App Design](app-designs.md)
 
 ### Week 8
