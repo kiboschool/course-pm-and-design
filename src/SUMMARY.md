@@ -23,13 +23,12 @@
 
 ### Week 2
 
-- [User Research](lessons/ux-design-process.md)
-  - [Why UX Matters](lessons/ux-design-process/why-ux-matters.md)
-  - [Basic Principles of UX Design](lessons/ux-design-process/principles-ux-design.md)
-  - [The Ideal UX Design Process](lessons/ux-design-process/ideal-design-process.md)
-  - [Conducting User Research](lessons/ux-design-process/conducting-user-research.md)
-  - [Concept Testing](lessons/ux-design-process/concept-testing.md)
-  - [Assignment](lessons/ux-design-process/assignment.md)
+- [User Research](lessons/ux-research.md)
+  - [What is UX research?](lessons/ux-research/basics.md)
+  - [UX Research Methods](lessons/ux-research/methods.md)
+  - [Conducting User Research](lessons/ux-research/conducting-research.md)
+  - [Concept Testing](lessons/ux-research/concept-testing.md)
+  - [Assignment](lessons/ux-research/assignment.md)
 
 ### Week 3
 
