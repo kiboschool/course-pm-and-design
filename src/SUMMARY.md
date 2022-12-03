@@ -19,7 +19,7 @@
   - [Design Thinking](lessons/software-team/design-thinking.md)
   - [Empathise & Define: creating problem statements](lessons/software-team/empathize-and-define.md)
   - [Ideate: How Might We? Can We?](lessons/software-team/how-might-we.md)
-  - [Assignment](lessons/software-team/assignment.md)
+  - [Assignment: create concepts](lessons/software-team/assignment.md)
 
 ### Week 2
 
