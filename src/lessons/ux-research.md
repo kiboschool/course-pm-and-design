@@ -29,14 +29,14 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[What is UX research?]()
+[What is UX research?](lessons/ux-research/basics.md)
 
-[UX Research Methods]()
+[UX Research Methods](lessons/ux-research/methods.md)
 
-[Conducting User Research]()
+[Conducting User Research](lessons/ux-research/conducting-research.md)
 
-[Concept Testing]()
+[Concept Testing](lessons/ux-research/concept-testing.md)
 
-[Assignment]()
+[Assignment](lessons/ux-research/assignment.md)
 
 ---
