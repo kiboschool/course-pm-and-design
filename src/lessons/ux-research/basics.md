@@ -6,7 +6,7 @@
 
 <aside>
   
-  🗣 **" 'Build it and they will come,' is not a strategy; it’s a prayer." ** — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
+  🗣 "** 'Build it and they will come,' is not a strategy; it’s a prayer."** — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
 
 </aside>
 
@@ -47,11 +47,6 @@ Qualitative ux research differs from quantitative research in that it is less fo
 
 ![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
 
-
-<aside>
-  
-  🗣 **" Watch what we do, not what we say" - John Mitchell
-</aside>
 
 Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe, i.e., their attitudes, are often different from what they actually do, i.e., their behavior. In order to build impactful products, it's importnat to understand both what your users belief and hwo they behave. 
 
