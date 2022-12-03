@@ -72,10 +72,9 @@ Behavioral research focuses on understanding the actions and behaviors of users 
 ## Optional Resources
 
 <details>
-<summary>Understanding Design Thinking</summary>
-- IDEO's [Design Kit](http://www.designkit.org/) is an excellent repository of Design Thinking tools and case studies. <br>
-- [What Exactly is Design Thinking? A Comprehensive Beginner's Guide](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/), Career Foundry <br>
-- Plattner, Meienel, Leifer [Design Thinking](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/papers/Book_Chapters/Front_Matter_-_Design_Thinking_Understand__Improve__Apply.pdf) <br>
+<summary>UX Research at real companies</summary>
+  [how instagram's culture of ux research positively impacts customer experience: takeaways from forrester cxsf](https://www.answerlab.com/insights/takeaways-forrester-sf)<br />
+[UX Research at Gitlab](https://about.gitlab.com/handbook/product/ux/ux-research/)
 </details>
 
 <details>
