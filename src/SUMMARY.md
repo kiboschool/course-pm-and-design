@@ -28,7 +28,7 @@
   - [UX Research Methods](lessons/ux-research/methods.md)
   - [Conducting User Research](lessons/ux-research/conducting-research.md)
   - [Concept Testing](lessons/ux-research/concept-testing.md)
-  - [Assignment](lessons/ux-research/assignment.md)
+  - [Assignment](concept-testing.md)
 
 ### Week 3
 
