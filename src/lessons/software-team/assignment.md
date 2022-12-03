@@ -1,17 +1,18 @@
-# Assignment - "Can We"
+# Assignment - Create concepts
 -----
 <aside>
   
-  📝 Complete the assignment below. **Due Date: MMM DD YYYY**
+  📝 Complete the assignment below. **Due Date: Monday January 23, 2023**
  
 </aside>
 
-## Brief
 Throughout this class, you will work on building a product to solve a user problem. Your final assessment will be a development-ready product including product requirement documentation and UI designs. Most of your assignments will build towards this step by step. In this first assignment, you'll pick a HMW to focus on for the rest of the course, and begin generating "Can We" 
 
 For this project, you will work with your squad members. If your squad has 3 or fewer members, you will be on one team. If your squad has 4 or more members, you will split up into two teams of 2-3 people. 
 
-### Step 1: Choose a HMW question to focus on 
+## Part 1: Ideate solutions to a HMW problem statement
+
+### Choose a HMW question to focus on 
 Look through the list of HMW questions below and select on that you will focus on during the class. Note that you also have the option to create your own. If you choose this route, send a message in Discord to [Instructor 1] and [Instructor 2] with your HMW statement to obtain approval. 
 
 #### How Might We
@@ -24,10 +25,25 @@ Look through the list of HMW questions below and select on that you will focus o
 - Wildcard: come up with your own HMW statement to work on
 
 
-### Step 2: Brainstorm some ideas
+### Brainstorm ideas, i.e., "Can We"
 Brainstorm potential solutions for your chosen HMW. Your solution should start with "Can We"
 You should brainstorm a minimum of 30 ideas, including at least 10 "bad ideas"
 
+<aside>
+ ⚠️ Part 2 of this assignment can only be completed after finishing Week 2's lessons
+ </aside>
+
+<hr />
+
+## Part 2: Create concepts for testing
+- Start by revisiting the solutions ("Can we") that you brainstormed to your HMW concept. Group similar ideas together to create product "concepts" then create a slide for each concept. You should have 4-6 product concept slides. Each concept slide should include:
+- A written headline that describes the category of idea
+- Optionally, a written subtitle with more information
+- 2 - 4 feature ideas, represented by both an image and some text 
+
+For examples of product concepts, take a look at:
+- [Bookworm](https://docs.google.com/presentation/d/1CaFZErNJJdSBo8OQ2soClA7eNRiv4fnErAyUyd80fUw/edit), testing concepts for a collaborative reading tool
+- The intro to concept testing video, and the slides for the HMW: "How might we empower individuals to take more control of their careers, and experience more meaning at work?"
 
 
 ## Hints and Guidance
@@ -35,5 +51,12 @@ You should brainstorm a minimum of 30 ideas, including at least 10 "bad ideas"
 - If you can, try to find synchronous time for your brainstorm. If you dont have time you can brainstorm asynchronously in Discord. 
 
 ## Submission
-Submit a form with the names of your team members and a link 
-Make a copy of this document, and submit it with your ideas. Each post-it should contain one unique idea. 
+- Update the permission on your concept slide deck so that anyone at Kibo School with the link can comment
+- Submit a link to the slide deck in Gradescope
+- Download and submit a PDF copy of your concept deck in Woolf
+
+
+
+
+
+
