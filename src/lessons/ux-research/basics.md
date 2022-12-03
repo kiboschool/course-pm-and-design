@@ -60,13 +60,12 @@ Attitudinal research focuses on understanding the attitudes and beliefs of a use
 Behavioral research focuses on understanding the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve tracking their actions and behaviors through the use of tools like heat maps or click tracking software. This type of research is often used to identify areas for improvement in a product or service, to understand user behavior and preferences, or to inform the design of future products or services.
 
 <aside>
-⚠️ How to know which types of user to use when?
+🤔 Which types of research should you use and when?
 </aside>
 
 ## UX Design principle 1: Mix it up!
-<aside>
-⚠️ When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavior approaches. This enables you to get the clearest and most naunced view of a deisgn problems. 
-</aside>
+💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavior approaches. This enables you to get the clearest and most naunced view of a deisgn problems. 
+
 
 
 
