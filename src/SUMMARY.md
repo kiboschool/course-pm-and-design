@@ -28,7 +28,7 @@
   - [UX Research Methods](lessons/ux-research/methods.md)
   - [Conducting User Research](lessons/ux-research/conducting-research.md)
   - [Concept Testing](lessons/ux-research/concept-testing.md)
-  - [Assignment: Final Project Milestone 1](concept-testing.md)
+  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 ### Week 3
 
@@ -37,7 +37,8 @@
   - [Color](lessons/ui-design-basics/color.md)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
   - [Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
-  - [Assignment](lessons/ui-design-basics/assignment.md)
+  - [Assignment: design replication](lessons/ui-design-basics/assignment.md)
+  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 
 ### Week 4
@@ -47,25 +48,31 @@
   - [Design for Web](lessons/more-ui-design/web.md)
   - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
-  - [Assignment](lessons/more-ui-design/assignment.md)
+  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 ### Week 5
 - [Review]()
+- [Final Project Milestone 2: App Design](app-designs.md)
 
 
 ### Week 6
 - [Product Requirements]()
+- [Final Project Milestone 2: App Design](app-designs.md)
 
 
 ### Week 7
 - [User Flows]()
+- [Assignment: information architecture]
+- [Final Project Milestone 2: App Design](app-designs.md)
 
 ### Week 8
 - [Prototyping]()
+- [Final Project](final-project.md)
 
 
 ### Week 9
 - [Continuous Design Life Cycle]()
+- [Final Project](final-project.md)
 
 ### Week 10
 - [Final Project](final-project.md)
