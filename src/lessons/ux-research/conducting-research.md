@@ -12,12 +12,6 @@
 
 This lesson explores why you need a UX research strategy, and walks you through the main steps of conducing research. 
 
-<aside> 
-  📺 Watch this video to get an overview of different research methods in a product's lifecycle
-</aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7_sFVYfatXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 ## How to craft a UX research strategy
 As with anything else, conducting useful research requires a plan. A UX research strategy is a guiding plan for research that outlines the why, when, and how of your research plan. A well-crafted strategy enables that the research you conduct will actually help buide meaningful product development. 
@@ -79,7 +73,7 @@ _Note: the video above works well when conducting a usability test. The general 
 <details>
 <summary>Understanding UX Research Methods</summary>
 
-  [How to Conduct a User Interview That Actually Uncovers Valuable Insights](https://www.shopify.com/partners/blog/user-interview)
+[How to Conduct a User Interview That Actually Uncovers Valuable Insights](https://www.shopify.com/partners/blog/user-interview)
 
 [Writing a discussion guide for user interviews](https://about.gitlab.com/handbook/product/ux/ux-research/discussion-guide-user-interviews/)
 </details>
