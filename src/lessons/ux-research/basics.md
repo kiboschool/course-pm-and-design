@@ -1,4 +1,4 @@
-# What is User Research?
+# User Experience Research Basics
 
 *Estimated Time: XX hours*
 
