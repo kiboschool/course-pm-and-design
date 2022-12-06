@@ -12,12 +12,14 @@ Intro text goes here
 
 ## **Learning Outcomes**
 
-After completing this lesson, you will be able to:
+After completing this lesson, you will:
 
-- Learning Outcome 1
-- Learning Outcome 2
-- Learning Outcome 3
-- ....
+- Be able to design for Android and iOS mobile platforms 
+- Understand the differences between designing for Android and iOS platforms
+- Be able to design for the web
+- Be able to create responsive web designs at different breakpoints 
+- Understand what design systems are and why they’re important
+- Understand what accessibility in UI design is and why it’s important
 
 
 ## Sections
