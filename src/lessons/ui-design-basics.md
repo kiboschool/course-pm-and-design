@@ -12,7 +12,7 @@ Intro video goes here
 
 ## **Learning Outcomes**
 
-After completing this lesson, you will be able to:
+After completing this lesson, you will:
 
 - Understand typography and how its used in UI design
 - Understand color and how its used in UI design
