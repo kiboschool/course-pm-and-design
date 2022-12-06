@@ -32,10 +32,39 @@ Depending on if you’re laying out your designs on 5 or 3 breakpoints, your lar
 As you layout your designs at different breakpoints the layout grid you use will need to change to match the breakpoint you’re designing for. Please watch the video below for how to layout your designs at different breakpoints and how to create layout grids for different breakpoints.
 
 
-## Resources and Inspiration
+##### Add video of layout grid for different breakpoints 
 
+
+###### Add video of design shown at different breakpoints
+
+
+## Resources and Inspiration
+We’ve spent the last two chapters introducing you to UI design, design principles and designing for mobile and web. Even with all this information it can still be difficult to create different/unique designs that aren’t only functional but also aesthetically pleasing, for the many products you may design in the future. A good starting point when creating visual designs for a UI’s, is to take a look at some sources of inspiration. These sources of inspiration can be helpful when deciding on a visual direction for you UI designs and also in showing you the possibilities of features and functionalities you can use in your design. Below is a list of a few places I go for inspiration;
+
+- [Dribbble](https://dribbble.com/)
+- [Site Inspire](https://www.siteinspire.com/)
+- [Awwwards](https://www.awwwards.com/)
+- [Bestfolios Case studies](https://www.bestfolios.com/casestudy)
+- [Pinterest](https://www.pinterest.com)
+- Google Search
+
+The list above is not exhaustive, there are many others out there, these are just the ones that I use when I start working on a new UI design. Some of the sources of inspiration listed focus on beauty over function (dribbble and awwwards). Replicating UI designs seen on these platforms may not be feasible when designing interfaces everyday people are expected to interact with, they could also be a nightmare to implement for developers. Ensure that whatever features, functionalities and aesthetic styles you bring into your designs from your sources of inspiration are common and relatively straightforward to implement. It's important to note that UI design isn’t a competition about who can come up with the most unique/creative designs. It’s about ensuring that users can achieve their desired goals with the features and functionalities of the product and that it’s also aesthetically pleasing to use. In short, form and function come first, then comes aesthetics. With this in mind, know that it's completely ok, in fact expected, for you to copy from other designs, designers, sources of inspiration, etc. All designers copy and there are little to no new or unique usable UI designs.
+
+With sources of inspiration covered, you’ll also need resources such as; images, icons, illustrations, etc for your design. [Bookmark.design](https://www.bookmarks.design/) is an amazing bank of platforms that provide all these resources including sources of inspiration, videos, communities, design tools, etc. If you’re ever looking for anything UI design related, most likely [bookmark.design](https://www.bookmarks.design/) has a link to a platform that provides the service. Some honorable mentions of platforms I use are;
+
+- [Unsplash](https://unsplash.com/), [Pexels](https://www.pexels.com/), [Burst](https://burst.shopify.com/) for photos and videos
+- [Flaticon](https://www.flaticon.com/), [Icons8](https://icons8.com/), [The noun project](https://thenounproject.com/) for icons
+- [Lukasz Adam](https://lukaszadam.com/illustrations), [Undraw](https://undraw.co/illustrations), [Humaaans](https://www.humaaans.com/) for illustrations
+
+These platforms are all accessible on bookmark.design as well. 
+
+<aside>
+  
+ Best practice is to use icons and illustrations in .svg format. Avoid using icons and illustrations in .png format in UI design where possible.
+ 
+</aside>
 
 
 ## Reflect
-
+We’ve covered quite a bit of content on designing for web. Before moving on to the next lesson, spend a few minutes reflecting on why responsive design is important, how layout grids help create responsive designs and why designing for different breakpoints is important. Also think about the resources you may need and where you can find them. 
 
