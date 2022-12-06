@@ -1,20 +1,18 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
+- [Assessments Overview](assessments.md)
+- [Assignment: create concepts](lessons/software-team/assignment.md)
+- [Assignment: design replication](lessons/ui-design-basics/assignment.md)
+- [Assignment: information architecture]()
+- [Final Project Milestone 1: Concept Testing](concept-testing.md)
+- [Final Project Milestone 2: App Design](app-designs.md)
+- [Final Project](final-project.md)
 
 [Live Classes]()
 
 
 ## Lessons
-
-### Assessments
-- [Assessments](assessments.md)
-  - [Assignment: create concepts](lessons/software-team/assignment.md)
-  - [Assignment: design replication](lessons/ui-design-basics/assignment.md)
-  - [Assignment: information architecture]()
-  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
-  - [Final Project Milestone 2: App Design](app-designs.md)
-  - [Final Project](final-project.md)
 
 ### Week 1
 
