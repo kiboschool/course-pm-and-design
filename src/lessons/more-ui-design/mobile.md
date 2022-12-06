@@ -47,6 +47,7 @@ To wrap things up in this lesson, it can be helpful to see what the key differen
 
 
 ## Reflect
+We’ve covered quite a bit of content on designing for mobile. Before moving on to the next lesson, spend a few minutes reflecting on material design and human interface guidelines and, what the differences between them are. What are the most important things to remember when designing for both platforms? What rules do you need to adhere to and which ones can be broken?
 
 
 
