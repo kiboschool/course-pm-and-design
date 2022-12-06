@@ -2,9 +2,10 @@
 
 [Course Overview](pm-and-design.md)
 [Assessments](assessments.md)
-[Final Project Milestone 1: Concept Testing](concept-testing.md)
-[Final Project Milestone 2: App Design](app-designs.md)
-[Final Project](final-project.md)
+- [Assignment: create concepts](lessons/software-team/assignment.md)
+- [Final Project Milestone 1: Concept Testing](concept-testing.md)
+- [Final Project Milestone 2: App Design](app-designs.md)
+- [Final Project](final-project.md)
 [Live Classes]()
 
 
@@ -12,7 +13,7 @@
 
 ### Week 1
 
-- [How to build impactful products](lessons/software-dev-teams.md)
+- [Week 1: How to build impactful products](lessons/software-dev-teams.md)
   - [Software is a team sport](lessons/software-team/basics.md)
   - [What is Product Management?](lessons/software-team/what-is-pm.md)
   - [What is Product Design?](lessons/software-team/what-is-design.md)
@@ -44,7 +45,7 @@
 ### Week 4
 
 - [More UI Design](lessons/more-ui-design.md)
-  - [Design for Mobile (iOS & Android)](lessons/more-ui-design/mobile.md)
+  - [Design for Mobile (Android & iOS)](lessons/more-ui-design/mobile.md)
   - [Design for Web](lessons/more-ui-design/web.md)
   - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
