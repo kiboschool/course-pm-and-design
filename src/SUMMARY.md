@@ -1,14 +1,13 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
-- [Assessments Overview](assessments.md)
-- [Assignment: create concepts](lessons/software-team/assignment.md)
-- [Assignment: design replication](lessons/ui-design-basics/assignment.md)
-- [Assignment: information architecture]()
-- [Final Project Milestone 1: Concept Testing](concept-testing.md)
-- [Final Project Milestone 2: App Design](app-designs.md)
-- [Final Project](final-project.md)
-
+[Assessments Overview](assessments.md)
+[Assignment: create concepts](lessons/software-team/assignment.md)
+[Assignment: design replication](lessons/ui-design-basics/assignment.md)
+[Assignment: information architecture]()
+[Final Project Milestone 1: Concept Testing](concept-testing.md)
+[Final Project Milestone 2: App Design](app-designs.md)
+[Final Project](final-project.md)
 [Live Classes]()
 
 
@@ -27,7 +26,7 @@
 
 ### Week 2
 
-- [User Research](lessons/ux-research.md)
+- [Week 2: User Research](lessons/ux-research.md)
   - [What is UX research?](lessons/ux-research/basics.md)
   - [UX Research Methods](lessons/ux-research/methods.md)
   - [Conducting User Research](lessons/ux-research/conducting-research.md)
@@ -36,7 +35,7 @@
 
 ### Week 3
 
-- [UI Design Basics](lessons/ui-design-basics.md)
+- [Week 3: UI Design Basics](lessons/ui-design-basics.md)
   - [Typography](lessons/ui-design-basics/typography.md)
   - [Color](lessons/ui-design-basics/color.md)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
@@ -47,7 +46,7 @@
 
 ### Week 4
 
-- [More UI Design](lessons/more-ui-design.md)
+- [Week 4: More UI Design](lessons/more-ui-design.md)
   - [Design for Mobile (Android & iOS)](lessons/more-ui-design/mobile.md)
   - [Design for Web](lessons/more-ui-design/web.md)
   - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
