@@ -1,15 +1,20 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
-[Assessments](assessments.md)
-- [Assignment: create concepts](lessons/software-team/assignment.md)
-- [Final Project Milestone 1: Concept Testing](concept-testing.md)
-- [Final Project Milestone 2: App Design](app-designs.md)
-- [Final Project](final-project.md)
+
 [Live Classes]()
 
 
 ## Lessons
+
+### Assessments
+- [Assessments](assessments.md)
+  - [Assignment: create concepts](lessons/software-team/assignment.md)
+  - [Assignment: design replication](lessons/ui-design-basics/assignment.md)
+  - [Assignment: information architecture]()
+  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
+  - [Final Project Milestone 2: App Design](app-designs.md)
+  - [Final Project](final-project.md)
 
 ### Week 1
 
@@ -20,7 +25,7 @@
   - [Design Thinking](lessons/software-team/design-thinking.md)
   - [Empathise & Define: creating problem statements](lessons/software-team/empathize-and-define.md)
   - [Ideate: How Might We? Can We?](lessons/software-team/how-might-we.md)
-  - [Assignment: create concepts](lessons/software-team/assignment.md)
+
 
 ### Week 2
 
@@ -38,7 +43,7 @@
   - [Color](lessons/ui-design-basics/color.md)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
   - [Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
-  - [Assignment: design replication](lessons/ui-design-basics/assignment.md)
+ 
   - [Final Project Milestone 1: Concept Testing](concept-testing.md)
 
 
