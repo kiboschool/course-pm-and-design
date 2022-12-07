@@ -30,7 +30,7 @@ After completing this lesson, you will:
 
 </aside>
 
-[Design for Mobile (iOS & Android)](lessons/more-ui-design/mobile.md)
+[Design for Mobile (Android & iOS)](lessons/more-ui-design/mobile.md)
 
 [Design for Web](lessons/more-ui-design/web.md)
 
