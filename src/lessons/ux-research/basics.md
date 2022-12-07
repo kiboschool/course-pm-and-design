@@ -24,7 +24,7 @@ Two main types of UX research methods are quantitative and qualitative.
 
 
 ### Quantitative research 
-Quantiative UX research focuses on collecting and analyzing numerical data. This can include surveys, polls, usage logs, or other methods of data collection that provide numerical data which can be analyszed using statistical techniques. Quantitative research is useful to gnerate a large amount of data from a large sample size, and to make generalizations about a user group or population. This type of research is often used to test hypotheses and identify trends or patterns in user behavior. Some types of questions a UX researcher might answers with quantiative research includes:
+Quantiative UX research focuses on collecting and analyzing numerical data. This can include surveys, polls, usage logs, or other methods of data collection that provide numerical data which can be analyzed using statistical techniques. Quantitative research is useful to generate a large amount of data from a large sample size, and to make generalizations about a user group or population. This type of research is often used to test hypotheses and identify trends or patterns in user behavior. Some types of questions a UX researcher might answers with quantiative research include:
 - How many active users does the product have each day or each month?
 - What share of people find the call to action on the page?
 - What is the average satisfaction level of users with the product or service?
@@ -48,7 +48,7 @@ Qualitative ux research differs from quantitative research in that it is less fo
 ![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
 
 
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe, i.e., their attitudes, are often different from what they actually do, i.e., their behavior. In order to build impactful products, it's importnat to understand both what your users belief and hwo they behave. 
+Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe, i.e., their attitudes, are often different from what they actually do, i.e., their behavior. In order to build impactful products, it's important to understand both what your users believe and how they behave. 
 
 
 
@@ -64,7 +64,7 @@ Behavioral research focuses on understanding the actions and behaviors of users 
 </aside>
 
 ## UX Design principle 1: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavior approaches. This enables you to get the clearest and most naunced view of a deisgn problems. 
+💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
 
 
 
