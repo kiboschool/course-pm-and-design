@@ -8,7 +8,7 @@
   🗣 "......" — Person
 </aside>
 
-This lesson introduces concept testing, a UX research method that allows you to validate early ideas, and helps you move forward with the right concpets.
+This lesson introduces concept testing, a UX research method that allows you to validate early ideas, and helps you move forward with the right concepts.
 
 
 ## What is a concept test?
@@ -29,7 +29,7 @@ This lesson introduces concept testing, a UX research method that allows you to 
 - Discover new insights and opportunities
 
 ## When to run a concept test
-As explained in the video, concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. Keep in mind that the slide format shown in the video is not the only way to do a concept test, but it's the one we'll employ in this class. Concept tests can also be usefl in the design phase, to test particular design concepts (e.g., the layout of an app)
+As explained in the video, concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. Keep in mind that the slide format shown in the video is not the only way to do a concept test, but it's the one we'll employ in this class. Concept tests can also be useful in the design phase, to test particular design concepts (e.g., the layout of an app)
 
 ## How to run a concept test
 The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach
