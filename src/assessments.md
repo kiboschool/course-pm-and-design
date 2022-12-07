@@ -1,7 +1,4 @@
 # Assessments and Grading
-
-*Estimated Time: 15 minutes*
-
 ---
 
 This course will teach you how to go from idea to development-ready software product. You will begin with a well-defined user problem (a "how might we"), prototype and design numerous solutions, conduct user research, then craft a UI prototype and product requirements document. The majority of your assessments will be milestones toward your final project.
