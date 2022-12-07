@@ -64,10 +64,5 @@ Your work in this course builds on itself so, in order to be successful in the c
 
 ## How to Submit Your Assignments
 
-All assignments will need to be submitted in Gradescope by their stated due date. You will also need to submit a copy of your assignment in the Woolf platform, so that they have the academic record of your submission.
-
-
-**You will also need to submit a PDF copy of your assignment in the Woolf platform, as a record for academic accreditors. 
-
----
+All assignments will need to be submitted in Gradescope by their stated due date. You will also need to submit a PDF copy of your assignment in the Woolf platform, as a record for academic accreditors. 
 
