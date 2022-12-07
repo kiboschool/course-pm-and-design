@@ -1,4 +1,4 @@
-# Assignment - Figma Basics
+# Assignment - Design Replication
 -----
 <aside>
   
