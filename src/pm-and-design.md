@@ -3,10 +3,15 @@
 **CSF004**
 
 _6 ECTS Credits_
+----
 
 ## Welcome to Product Management and Design
 
-<!-- Welcome Video -->
+<aside>
+  A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola
+  </aside>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VFxKjByWtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## What you'll learn
 
@@ -36,17 +41,24 @@ and development-ready design for a web or mobile application.
 
 Note that all times are listed in GMT, please convert to your local timezone.
 
-- Class 1:
-- Class 2:
-- Office hours 
+- Class time: Thursdays, 5-6:30pm GMT
+- Office hours: TBD
 
-## Instructor
+## Instructors
 
-<!-- contact info -->
+Folarin Lawal, folarin@kibo.school
+Ope Bukola, ope@kibo.school
 
 ## Learning Outcomes
 
 By the end of the course, you will be able to:
+- Apply at least one product ideation framework (e.g. design thinking) to identify product opportunities
+- Conduct qualitative concept tests, and make product decisions based on user feedback
+- Create basic wireframes to describe a user journey
+- Write product requirements documentation that describe the purpose, features, and metrics of success for a software product
+- Design high-fidelity mockups for an application, and build interactive UI prototypes using industry-standard tools
+- Analyze and assess a design, and give actionable feedback for improvement
+
 
 ## Weekly Topics
 
@@ -68,3 +80,9 @@ Your overall course grade is made up of:
 - Class participation (10%) 
 - Weekly assignments (60%) 
 - Final project and presentation (30%) 
+
+## Course Tools 
+- Google Docs/Sheets/Slides
+- Figma 
+- Gradescope
+- Woolf
