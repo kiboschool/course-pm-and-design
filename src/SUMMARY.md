@@ -1,7 +1,7 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
-[Assessments Overview](assessments.md)
+[Assessments & Grading](assessments.md)
 [Assignment: create concepts](lessons/software-team/assignment.md)
 [Assignment: design replication](lessons/ui-design-basics/assignment.md)
 [Assignment: information architecture]()
