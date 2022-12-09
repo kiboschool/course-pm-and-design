@@ -15,7 +15,7 @@ While this might make for good television, it couldn't be further from the the t
 <aside>
 
 
-📺 Watch the following video on the product development cycle, and how product teams work together
+📺 Watch this video on the product development cycle, and how product teams work together
 </aside>
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -32,10 +32,10 @@ While this might make for good television, it couldn't be further from the the t
 ## Research: Software Teams 
 
 <aside>
-💬 **Who is on a product team?**
+💬 Who is on a product team?
 </aside>
 
-Take a look at the list of roles below in a software team. Find a role/position you don't know much about. Spend 5-10 minutes research and write down 1-2 sentences on what this person does in a team. 
+Review the list below of roles one might find on a software development team. Pick at least one role you are unfamiliar with. Spend 5-10 minutes research and **write a 1-2 sentence explanation of what this person does in a team.**
   - Product manager 
   - Product Owner
   - DevOps engineer
@@ -44,7 +44,8 @@ Take a look at the list of roles below in a software team. Find a role/position 
   - Software architect
   - QA Engineers
   - Business analyst 
-Post your definition in the padlet below.
+
+Post your explanation in the padlet below.
 
 **Note:** In order to see and interact with the padlet, you will need to be logged in to your padlet account!
 
