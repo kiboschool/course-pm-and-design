@@ -22,6 +22,8 @@ As mentioned above Material Design is a set of guidelines published and regularl
 
 These points are covered extensively on the material design guidelines website. The content on the website can be a lot to take in though so these points have been highlighted as guidelines you can fall back to if you can't remember them all. Please go through the three links below to understand how to design products that meet Google’s material design guidelines. While viewing the links you’ll notice that there are other aspects of material design that are not linked in this lesson - such as “Foundations'' and “Develop”. Feel free to go through these during your free time but you’re not required to go through them for this lesson. Like was mentioned previously, there's a lot of content on the material design guidelines website, not all of it is relevant to design though. 
 
+
+
 [Material Design Styles](https://m3.material.io/styles)
 
 [Material Design Components](https://m3.material.io/components)
@@ -44,7 +46,15 @@ Human interface guidelines are guidelines published and regularly updated by App
 There are no specific icons or size/spacing factors so designers have to come up with these themselves. Personally, I use spacing factors of 6px when designing for iOS, some designers use 5px. Components in iOS are expected to have a minimum tap target size of 44px X 44px. 
 Just like with material design the best way to familiarize yourself with human interface guidelines is to jump in and explore them yourself. A link to the guidelines is below. You’ll notice that there are also links to guidelines for iPadOS, macOS, tvOS and watchOS. Feel free to go through these during your free time but you’re not required to go through them for this lesson. 
 
+<aside>
+ 
+#### Please go through the link below
+  
 [Human Interface Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ios/)
+
+</aside>
+
+
 
 These are pretty much all you need to know about designing for Android and iOS. Everything else you need to learn can only come from continuously designing UI’s. It’s important to note that these are just guidelines. You’ll often see products on both platforms that go against some of these guidelines. This doesn’t mean these products are designed poorly, rather, it may be a case where the designers have become familiar enough with the guidelines that they know how and where they can make customizations. It's also important to note that not all products have different versions of their applications for Android and iOS. Some products have one design which is built and deployed on both Android and iOS. This is done for many reasons such as; cost, time, limited human resources, etc so it’s definitely not wrong to do so. 
 
