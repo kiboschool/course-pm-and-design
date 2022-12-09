@@ -41,8 +41,7 @@
   - [Color](lessons/ui-design-basics/color.md)
   - [Basic principles of UI Design](lessons/ui-design-basics/basic-principles.md)
   - [Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
- 
-  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
+  - [Wrap up](lessons/ui-design-basics/wrap-up.md)
 
 
 ### Week 4
@@ -52,7 +51,8 @@
   - [Design for Web](lessons/more-ui-design/web.md)
   - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
-  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
+  - Wrap up]()
+
 
 ### Week 5
 - [Review]()
