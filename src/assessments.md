@@ -43,19 +43,19 @@ You are expected to attend and participate in class each week. Classes will be a
 
 Your work in this course builds on itself so, in order to be successful in the course, it is critical that you work on projects throughout the term, and not wait until the end. The table below summarizes how your grades for the course is calculated. Note that the absolute last day on which late submissions will be accepted is March 20. 
 
-| Assessments                                 | Points            | Due Date (by 11pm GMT)    |Late Submission penalty     |
+| Assessments                                 | Percentage        | Due Date (by 11pm GMT)    |Late Submission penalty     |
 | :---                                        |    :----:         |  :----:                   |        ---: |
-| Class participation                         | 10                | N/A                       | Minus 1 point for each unexcused absence
-| Create Concepts                             | 5                 | Mon January 23            | Minus 1 point for each week late
-| Final milestone 1: concept test report      | 20                | Mon February 6            | Minus 2 point for each week late
-| Design replication                          | 5                 | Mon February 6            | Minus 1 point for each week late
-| Final milestone 2: app design               | 20                | Mon February 27           | Minus 2 point for each week late
-| Information architecture                    | 5                 | Mon February 27           | Minus 1 point for each week late
-| Final project                               | 35                | Mon March 20              | No late submissions will be accepted
+| Class participation                         | 10%               | N/A                       | Minus 1 percent for each unexcused absence
+| Create Concepts                             | 5%                | Mon January 23            | Minus 1 percent for each week late
+| Final milestone 1: concept test report      | 20%               | Mon February 6            | Minus 2 percent for each week late
+| Design replication                          | 5%                | Mon February 6            | Minus 1 percent for each week late
+| Final milestone 2: app design               | 20%               | Mon February 27           | Minus 2 percent for each week late
+| Information architecture                    | 5%                | Mon February 27           | Minus 1 percent for each week late
+| Final project                               | 35%               | Mon March 20              | Late submissions will **not** be accepted
 
 
 
 ## How to Submit Your Assignments
 
-All assignments will need to be submitted in Gradescope by their stated due date. You will also need to submit a PDF copy of your assignment in the Woolf platform, as a record for academic accreditors. 
+All assignments will need to be submitted in Gradescope by their stated due date. You will also need to submit a copy in the Woolf platform for your academic record.
 
