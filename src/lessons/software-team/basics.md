@@ -24,7 +24,14 @@ While this might make for good television, it couldn't be further from the the t
 
 <aside>
   
-📖 Read this article on **[Roles and responsibiliites in software development teams](https://this.isfluent.com/blog/2018/roles-and-responsibilities-in-a-software-development-team)**
+📖 Read this article on **[Roles and responsibiliites in software development teams](https://this.isfluent.com/blog/2018/roles-and-responsibilities-in-a-software-development-team)** 
+  
+</aside>
+
+<aside>
+  
+📖 Read this article on <a href="[http://example.com/](https://this.isfluent.com/blog/2018/roles-and-responsibilities-in-a-software-development-team)" target="_blank">**Roles and responsibiliites in software development teams**</a>
+
   
 </aside>
 
