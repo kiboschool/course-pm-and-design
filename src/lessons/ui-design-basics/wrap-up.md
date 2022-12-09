@@ -9,7 +9,6 @@
 
 
 ## Assignment
-
-After completing this lesson, you should:
-- Finish working on the [Final Project Milestone 1: Concept Testing](/concept-testing.html)
-- Then, if time permits, begin working on design replication
+After finishing this lesson, you should:
+- Complete **Part 2** of the [Final Project Milestone 1: Concept Testing](/concept-testing.html) and conduct concept tests
+- Complete **Part 3** of the [Final Project Milestone 1: Concept Testing](/concept-testing.html) and write and submit a concept test report
