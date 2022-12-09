@@ -58,12 +58,6 @@ In the early to mid 2000s, the path to becoming a product manager was unclear. T
 </aside>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RmrHkTA0Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-## Summary
-
-- Product Managers (PMs) are key leaders of software development teams
-- PMs collaborate with various stakeholders to discover and build products that drive user and business impact
-
 ## 🤔 Optional Resources
 
 <details>
