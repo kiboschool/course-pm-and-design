@@ -2,7 +2,7 @@
 -----
 <aside>
   
-  📝 Complete the assignment below. **Due Date: Monday January 23, 2023**
+  📝 ]**Due Date: Monday January 23, 2023 at 11pm GMT**
  
 </aside>
 
