@@ -12,4 +12,6 @@
 
 ## Assignment
 
-After completing this lesson, you should begin working on the [Final Project Milestone 1: Concept Testing](/concept-testing.html)
+After finish this lesson, you should:
+- Complete **Part 2** of the assigment on [Creating Concepts](/assignment-concept-tests.html)
+- Complete **Part 1** of the [Final Project Milestone 1: Concept Testing](/concept-testing.html)
