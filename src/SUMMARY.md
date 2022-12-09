@@ -22,7 +22,7 @@
   - [Design Thinking](lessons/software-team/design-thinking.md)
   - [Empathise & Define: creating problem statements](lessons/software-team/empathize-and-define.md)
   - [Ideate: How Might We? Can We?](lessons/software-team/how-might-we.md)
-  - [Assignments](lessons/software-team/wrap-up.md)
+  - [Wrap up](lessons/software-team/wrap-up.md)
 
 
 ### Week 2
@@ -32,7 +32,7 @@
   - [UX Research Methods](lessons/ux-research/methods.md)
   - [Conducting User Research](lessons/ux-research/conducting-research.md)
   - [Concept Testing](lessons/ux-research/concept-testing.md)
-  - [Final Project Milestone 1: Concept Testing](concept-testing.md)
+  - [Wrap up](lessons/ux-research/wrap-up.md)
 
 ### Week 3
 
