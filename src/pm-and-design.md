@@ -9,10 +9,10 @@ _6 ECTS Credits_
 ## Welcome to Product Management and Design
 
 <aside>
- TODO: A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola 
+ A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola 
   </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VFxKjByWtzs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[ToDO: add welcome video]
 
 ## What you'll learn
 
@@ -38,6 +38,17 @@ giving design critiques to other teams, and responding to feedback on your
 designs. By the end of the courses, each pair will have a user-tested, refined, 
 and development-ready design for a web or mobile application.
 
+
+## Learning Outcomes
+
+By the end of the course, you will be able to:
+- Apply at least one product ideation framework (e.g. design thinking) to identify product opportunities
+- Conduct qualitative concept tests, and make product decisions based on user feedback
+- Create basic wireframes to describe a user journey
+- Write product requirements documentation that describe the purpose, features, and metrics of success for a software product
+- Design high-fidelity mockups for an application, and build interactive UI prototypes using industry-standard tools
+- Analyze and assess a design, and give actionable feedback for improvement
+
 ## Meeting Times
 
 Note that all times are listed in GMT, please convert to your local timezone.
@@ -49,16 +60,6 @@ Note that all times are listed in GMT, please convert to your local timezone.
 
 Folarin Lawal, folarin@kibo.school<br>
 Ope Bukola, ope@kibo.school
-
-## Learning Outcomes
-
-By the end of the course, you will be able to:
-- Apply at least one product ideation framework (e.g. design thinking) to identify product opportunities
-- Conduct qualitative concept tests, and make product decisions based on user feedback
-- Create basic wireframes to describe a user journey
-- Write product requirements documentation that describe the purpose, features, and metrics of success for a software product
-- Design high-fidelity mockups for an application, and build interactive UI prototypes using industry-standard tools
-- Analyze and assess a design, and give actionable feedback for improvement
 
 
 ## Weekly Topics
