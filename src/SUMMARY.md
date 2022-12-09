@@ -51,7 +51,7 @@
   - [Design for Web](lessons/more-ui-design/web.md)
   - [Introduction to Design Systems](lessons/more-ui-design/design-systems.md)
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
-  - [Wrap up]()
+  - [Wrap up](lessons/more-ui-design/wrap-up.md)
 
 
 ### Week 5
