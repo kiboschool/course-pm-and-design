@@ -11,4 +11,4 @@
 
 ## Assignment
 
-After completing this lesson, you should complete Part 1 of the assigment on [Creating Concepts](/assessment-concept-tests). 
+After completing this lesson, you should complete Part 1 of the assigment on [Creating Concepts](/assessment-concept-tests.html). 
