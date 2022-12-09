@@ -7,6 +7,11 @@ In this lesson we’ll cover all things to do with UI design for mobile devices.
 
 
 ## Designing for Android - Material Design
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4gmvHyuZzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 As mentioned above Material Design is a set of guidelines published and regularly updated by Google. These guidelines aim to help designers and developers build usable and beautiful products on Android devices using best practices. The best way to understand these guidelines is to jump in and explore these guidelines yourself. Before doing this though, here are a few good-to-knows about material design.
 
 - Spaces and sizes are always a factor of 8px. So spaces and sizes of components can be 4px, 8px, 16px, 24px, 32px and so on.
@@ -25,6 +30,10 @@ These points are covered extensively on the material design guidelines website. 
 
 
 ## Designing for iOS - Human Interface Guidelines
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vtoiM8eps_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Human interface guidelines are guidelines published and regularly updated by Apple. The guidelines aim to help designers and developers build usable and beautiful products on Apple devices using best practices. Apple’s guidelines have less constraints than Google’s rather it asks designers to focuses on the four points below when designing for iOS;
 
 - Help people focus on primary tasks and content by limiting the number of onscreen controls while making secondary details and actions discoverable with minimal interaction.
@@ -42,8 +51,11 @@ These are pretty much all you need to know about designing for Android and iOS. 
 
 To wrap things up in this lesson, it can be helpful to see what the key differences between Material Design and Human Interface Design are. These differences are highlighted in the article below. Please take some time to go through it.
 
-
+<aside>
+  
 [Differences between Material Design and Human Interface Design ](https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html)
+
+</aside>
 
 
 ## Reflect
