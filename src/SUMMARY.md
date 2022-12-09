@@ -55,29 +55,22 @@
 
 
 ### Week 5
-- [Review]()
-  - [Final Project Milestone 2: App Design](app-designs.md)
+- [Week 5: Review and guest speakers](lessons/guest-speakers.md)
 
 
 ### Week 6
-- [Product Requirements]()
-  - [Final Project Milestone 2: App Design](app-designs.md)
+- [Week 6: Product Requirements]()
 
 
 ### Week 7
-- [User Flows]()
-  - [Assignment: information architecture]()
-  - [Final Project Milestone 2: App Design](app-designs.md)
+- [Week 7: User Flows]()
 
 ### Week 8
-- [Prototyping]()
-  - [Final Project](final-project.md)
-
+- [Week 8: Prototyping]()
 
 ### Week 9
-- [Continuous Design Life Cycle]()
-  - [Final Project](final-project.md)
+- [Week 9: Continuous Design Life Cycle]()
 
 ### Week 10
-- [Final Project](final-project.md)
+- [Week 10: Final Project](final-project.md)
 
