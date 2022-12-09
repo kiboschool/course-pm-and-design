@@ -2,7 +2,7 @@
 
 [Course Overview](pm-and-design.md)
 [Assessments & Grading](assessments.md)
-[Assignment: create concepts](lessons/software-team/assignment.md)
+[Assignment: create concepts](assessment-concept-tests.md)
 [Assignment: design replication](lessons/ui-design-basics/assignment.md)
 [Assignment: information architecture]()
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
