@@ -36,14 +36,14 @@ While this might make for good television, it couldn't be further from the the t
 💬 Who is on a product team?
 </aside>
 
-Review the list below of roles one might find on a software development team. Pick at least one role you are unfamiliar with. Spend 5-10 minutes research and **write a 1-2 sentence explanation of what this person does in a team.**
+Review the list below of roles one might find on a software development team. Pick at least one role you are unfamiliar with. Spend 5-10 minutes to research the role, then **write a 1-2 sentence explanation of what this person does in a team.**
   - Product manager 
-  - Product Owner
+  - Product owner
   - DevOps engineer
   - UX Designer
   - UI Designer
   - Software architect
-  - QA Engineers
+  - QA Engineer
   - Business analyst 
 
 Post your explanation in the padlet below.
