@@ -22,13 +22,18 @@ As mentioned above Material Design is a set of guidelines published and regularl
 
 These points are covered extensively on the material design guidelines website. The content on the website can be a lot to take in though so these points have been highlighted as guidelines you can fall back to if you can't remember them all. Please go through the three links below to understand how to design products that meet Google’s material design guidelines. While viewing the links you’ll notice that there are other aspects of material design that are not linked in this lesson - such as “Foundations'' and “Develop”. Feel free to go through these during your free time but you’re not required to go through them for this lesson. Like was mentioned previously, there's a lot of content on the material design guidelines website, not all of it is relevant to design though. 
 
-
-
+<aside>
+ 
+#### Please go through the links below
 [Material Design Styles](https://m3.material.io/styles)
 
 [Material Design Components](https://m3.material.io/components)
 
 [Material Design Icons](https://fonts.google.com/icons)
+
+</aside>
+
+
 
 
 ## Designing for iOS - Human Interface Guidelines
@@ -48,8 +53,7 @@ Just like with material design the best way to familiarize yourself with human i
 
 <aside>
  
-#### Please go through the link below
-  
+##### Please go through the link below
 [Human Interface Design Guidelines](https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ios/)
 
 </aside>
@@ -62,7 +66,8 @@ These are pretty much all you need to know about designing for Android and iOS. 
 To wrap things up in this lesson, it can be helpful to see what the key differences between Material Design and Human Interface Design are. These differences are highlighted in the article below. Please take some time to go through it.
 
 <aside>
-  
+ 
+##### Please go through the link below
 [Differences between Material Design and Human Interface Design ](https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html)
 
 </aside>
