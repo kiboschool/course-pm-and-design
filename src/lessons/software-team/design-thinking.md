@@ -32,7 +32,7 @@ Building impactful products is extremely difficult, and even the best companies 
 📺 Watch this video introduction to Design Thinking from IDEO, one of its pioneers
 </aside>
 
-<div style="position: relative"><iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 As stated in the video, design thinking starts with people. When using a design thinking, innovators attempt to find _constructive solutions_ that improve users' lives, are feasible to produce, and make business sense. 
@@ -45,7 +45,7 @@ As stated in the video, design thinking starts with people. When using a design 
 
 ### Design Thinking Principles
 
-In their seminal paper "Understanding Innovation: Design Thinking," Christoph Meinel and Harry Leifer of the Hasso-Plattner-Institute of Design at Stanford University (d.school) identified four rules or principles of Design Thinking: 
+In their seminal paper <a href="https://download.e-bookshelf.de/download/0000/0148/31/L-G-0000014831-0013208522.pdf" target="_blank"> Understanding Innovation: Design Thinking </a> Christoph Meinel and Harry Leifer of the Hasso-Plattner-Institute of Design at Stanford University (d.school) describe four rules or principles of design thinking: 
 
 1. **The human rule:** design is social in nature — problems must be solved in a way that satisfies human needs and acknowledge the human elements in all technologies.
 
@@ -60,23 +60,23 @@ In their seminal paper "Understanding Innovation: Design Thinking," Christoph Me
 ### Design Thinking Process
 
 
-<aside> Watch this video to understand how the principles are applied in the design thinking process</aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<aside> 📺 Watch this video to understand how the principles are applied in the design thinking process</aside>
+<iframe src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
-From the video, we learn about five stages of design thinking
-- Empathize: research your user's needs to better understand the problem you are trying to solve. 
-- Define: with the information gathered from research, define or state the problem
-- Ideate: generate many potential ideas that might solve the problem, and look for altenrative or idiosyncratic solutions
-- Protoype: experiment with various solutions. Create scaled-down and inexpensive prototypes that you can share with users
-- Test: rigorously test prototypes and use the results to refine your problem statement and/or solutions
+The video describes five stages of design thinking
+1. **Empathize:** research your user's needs to better understand the problem you are trying to solve. 
+2.** Define:** with the information gathered from research, define or state the problem
+3. **Ideate:** generate many potential ideas that might solve the problem, and look for altenrative or idiosyncratic solutions
+4. **Protoype:** experiment with various solutions. Create scaled-down and inexpensive prototypes that you can share with users
+5. **Test:** rigorously test prototypes and use the results to refine your problem statement and/or solutions
 
 <aside>
 ⚠️ Design is not linear 
 </aside>
 
-Though it can be helpful to teach and learn the steps of design thinking, the process is rarely linear in practice. Most of the time, the design process is iterative, and you will combine the phases and adapt them to suit your specific needs. It's helpful to teach the phases of design thinking as linear steps, but in practice, the process is not always linear —the phases combine to form an iterative approach that you can try out and adapt to suit your specific challenge.
+Though it can be helpful to think of designing thinking as occcuring in steps, the process is rarely linear in practice. The design process is iterative, and you will combine the phases and adapt them to suit your specific needs. 
 
 ![image](https://user-images.githubusercontent.com/1774663/200111667-07031216-cb30-4561-8d37-979e73243b50.png)
 
@@ -91,11 +91,7 @@ Design thinking helps us craft impactful products that meet user and business ne
 - **Fosters collaboration**: design thinking encourages us to collabroate across comapny silos and with our users
 - **Increases innovation**: by asking us to challenge assumptions, design thinking builds our creative muscles
 
-## Summary 
-- Building the right thing requires deep understanding of the customer
-- Design thinking is a creative problem-solving approach that helps us find solutions to user problems
-- We can embark on a human-centric design by following the steps of the design thinking process: Empathy (understanding users, defining their problems), ideation (generating lots of solutions), and refinement (building prototypes, teting withusers, and combining solutions) 
-- The steps are not linear! 
+
 
 ## Optional Resources
 
@@ -106,10 +102,12 @@ Design thinking helps us craft impactful products that meet user and business ne
 - [What Exactly is Design Thinking? A Comprehensive Beginner's Guide](https://careerfoundry.com/en/blog/ux-design/what-is-design-thinking-everything-you-need-to-know-to-get-started/), Career Foundry <br>
 - Plattner, Meienel, Leifer [Design Thinking](https://hpi.de/fileadmin/user_upload/fachgebiete/meinel/papers/Book_Chapters/Front_Matter_-_Design_Thinking_Understand__Improve__Apply.pdf) <br>
 </details>
+
 <details>
 <summary>Applications of Design Thinking</summary>
-
--[Creative Applications of Design Thinking](https://designthinking.ideo.com/new-applications)
+  
+[Creative Applications of Design Thinking](https://designthinking.ideo.com/new-applications) <br>
+  
 </details>
 
 
