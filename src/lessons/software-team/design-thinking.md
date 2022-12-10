@@ -14,7 +14,10 @@ In the previous lesson, we said that a product manager’s job is to collaborate
 
 But how do PMs and designers know the right thing to build? Building new products is an inherently creative endeavor. Some people argue that creativity and innovation is driven by singularly gifted visionaries (e.g., Steve Jobs) who see a future that others cannot imagine. They might agree with Henry Ford, the developer of the assembly line and mass automobiles who _allegedly_ said: 
 
-<aside> 🗣 “If I had asked people what they wanted, they would have said faster horses.”</aside>
+<aside> 
+  🗣 **If I had asked people what they wanted, they would have said faster horses.**
+
+</aside>
 
 Intuition and vision certainly play in product design. But, to build the _right_ thing, an innovator must understand the people for whom the product is being built. This understanding comes from empirical analysis, observation, and yes, _asking people_ what they want. Ford famously stubbornly stuck to his vison for automobiles and, as a result, his company lost market share to General Motors and others who spent more time understanding their customers needs.
 
@@ -32,7 +35,7 @@ Building impactful products is extremely difficult, and even the best companies 
 📺 Watch this video introduction to Design Thinking from IDEO, one of its pioneers
 </aside>
 
-<iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
   
 As stated in the video, design thinking starts with people. When using a design thinking, innovators attempt to find _constructive solutions_ that improve users' lives, are feasible to produce, and make business sense. 
@@ -61,13 +64,14 @@ In their seminal paper <a href="https://download.e-bookshelf.de/download/0000/01
 
 
 <aside> 📺 Watch this video to understand how the principles are applied in the design thinking process</aside>
-<iframe src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/-ySx-S5FcCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
 The video describes five stages of design thinking
 1. **Empathize:** research your user's needs to better understand the problem you are trying to solve. 
-2.** Define:** with the information gathered from research, define or state the problem
+2. **Define:** with the information gathered from research, define or state the problem
 3. **Ideate:** generate many potential ideas that might solve the problem, and look for altenrative or idiosyncratic solutions
 4. **Protoype:** experiment with various solutions. Create scaled-down and inexpensive prototypes that you can share with users
 5. **Test:** rigorously test prototypes and use the results to refine your problem statement and/or solutions
@@ -90,6 +94,9 @@ Design thinking helps us craft impactful products that meet user and business ne
 - **Improve customer retention and loyalty**: by building with users, you engage them and increase their ownership and buy-in of the product
 - **Fosters collaboration**: design thinking encourages us to collabroate across comapny silos and with our users
 - **Increases innovation**: by asking us to challenge assumptions, design thinking builds our creative muscles
+
+
+As stated in the introductory video, the way to learn design thinking is to try it. For the rest of the course, we'll apply the principles and tactics of design thinking to go from a product problem to a viable solution. 
 
 
 
