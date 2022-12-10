@@ -16,27 +16,25 @@ _6 ECTS Credits_
 
 ## What you'll learn
 
-This course teaches you to build products users want and love. It gives you a 
+This course will teach you how to build products users want and love. It gives you a 
 foundation in the tools and practices of modern product management and 
-interaction design.  You will work in pairs to apply product development skills 
+interaction design.  You will collaborate with peers to apply these product development skills 
 to real user challenges. 
 
 The course begins with a focus on user research. You'll learn and apply the 
 design thinking framework to product development. You'll learn to define user 
-needs through user interviews and market analysis. Then you'll learn to 
-translate user needs into product specifications, and define metrics to test 
+needs through user interviews and market analysis,  to translate those needs into product specifications, and define metrics to test 
 product success. Next you'll learn to create and test design prototypes 
-(wireframes, user journeys). The second part of the course focuses on UX/UI 
-design. You'll learn key concepts in UI/UX design including information 
+(wireframes, user journeys). You'll learn key concepts in UI/UX design including information 
 hierarchy, and typography and color. You will create high-fidelity UI mockups 
-using industry-standard tools. You’ll then conduct usability tests to gauge the 
+using industry-standard tools. You’ll  conduct usability tests to gauge the 
 effectiveness of your designs. 
 
-As students work in pairs, you will practice the complementary and collaborative 
+Working with your peers, you will practice the complementary and collaborative 
 roles of PMs and UX designers in early product development. You’ll also practice 
 giving design critiques to other teams, and responding to feedback on your 
-designs. By the end of the courses, each pair will have a user-tested, refined, 
-and development-ready design for a web or mobile application.
+designs. By the end of the courses, your team will have a user-tested, refined, 
+and development-ready spec for a web or mobile application.
 
 
 ## Learning Outcomes
