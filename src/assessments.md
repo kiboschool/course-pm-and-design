@@ -5,7 +5,7 @@ This course will teach you how to go from idea to development-ready software pro
 
 There are six assessments total in the course, including the final project. Each assessment and its share towards your final grade is summarized below:
 
-### Concept Creation (5%)
+### Concept Creation (10%)
 Choose an "How Might We" problem and create concepts for user testing<br> 
 Due Date: Monday January 23
 
@@ -25,13 +25,13 @@ Due Date: Monday February 27
 Design at least four screens of your product from scratch, and submit in Figma. <br>
 Due Date: Monday February 27
 
-### Final Project (35%) 
+### Final Project (30%) 
 
 In collaboration with 1-2 team members, you will design a solution to a given user problem.  You will work on the solution throughout the course and will need to submit three artifacts for your final project:
 
-- A complete product requirements document (15 points)
-- A prototype, built in Figma, with original UI designs for your product (15 points)
-- A recorded presentation (maximum of 7 minutes) explaining the problem, user research and product development process, and final product vision (5 points)
+- A complete product requirements document 
+- A prototype, built in Figma, with original UI designs for your product 
+- A recorded presentation (maximum of 7 minutes) explaining the problem, user research and product development process, and final product vision 
 
 Due Date: Monday March 20
 
@@ -46,12 +46,12 @@ Your work in this course builds on itself so, in order to be successful in the c
 | Assessments                                 | Percentage        | Due Date (by 11pm GMT)    |Late Submission penalty     |
 | :---                                        |    :----:         |  :----:                   |        ---: |
 | Class participation                         | 10%               | N/A                       | Minus 1 percent for each unexcused absence
-| Create Concepts                             | 5%                | Mon January 23            | Minus 1 percent for each week late
+| Create Concepts                             | 10%               | Mon January 23            | Minus 1 percent for each week late
 | Final milestone 1: concept test report      | 20%               | Mon February 6            | Minus 2 percent for each week late
 | Design replication                          | 5%                | Mon February 6            | Minus 1 percent for each week late
 | Final milestone 2: app design               | 20%               | Mon February 27           | Minus 2 percent for each week late
 | Information architecture                    | 5%                | Mon February 27           | Minus 1 percent for each week late
-| Final project                               | 35%               | Mon March 20              | Late submissions will **not** be accepted
+| Final project                               | 30%               | Mon March 20              | Late submissions will **not** be accepted
 
 
 
