@@ -67,7 +67,7 @@ Ope Bukola, ope@kibo.school
 - Week 3: User interface design basics
 - Week 4: More user interface design
 - Week 5: Review week
-- Week 6: Product requiremtns
+- Week 6: Product requirements
 - Week 7: User flows
 - Week 8: Prototyping
 - Week 9: Continuous design life cycle
