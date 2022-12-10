@@ -15,9 +15,10 @@ E*stimated Time: XXX hours*
 After completing this lesson, you will be able to:
 
 - Explain the role of product managers and product designers on digital product teams
-- Describe the design thinking process and stages, and explain the benefits of design thinking approach to problem-solving
+- Describe the design thinking process and stages, and explain the benefits of using design thinking to solve problems
 - Formulate problem statements using the "How Might We" framework
-- Generate varied potential solutions to a stated problem
+- Apply one or more ideation techniques to generate potential solutions to a problem
+
 
 
 ## Sections
@@ -28,16 +29,18 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Software is a team sport](lessons/software-team/basics.md)
+[1.1 Software is a team sport](software-team/basics.md)
 
-[What is product management?](lessons/software-team/what-is-pm.md)
+[1.2 What is Product Management?](software-team/what-is-pm.md)
 
-[Design Thinking](lessons/software-team/design-thinking.md)
+[1.3 What is Product Design?](software-team/what-is-pm.md)
 
-[How Might We](lessons/software-team/how-might-we.md)
+[1.4 Design Thinking](software-team/design-thinking.md)
 
-[Idea to Product](lessons/software-team/idea-to-product.md)
+[1.5 Empathise and Define: How Might We](software-team/empathize-and-define.md)
 
-[Assignment](lessons/software-team/assignment.md)
+[1.6 Ideate: Can We?](software-team/ideate.md)
+
+[1.7 Assignment](software-team/wrap-up.md)
 
 ---
