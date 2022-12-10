@@ -25,8 +25,6 @@ Throughout the rest of this course, we'll apply the principles of design thinkin
   📺 Watch this video on empathy and human-centered design
 </aside>
 
-  <iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
@@ -58,7 +56,7 @@ In the next section, we'll learn about "How Might We," a framework for drafting 
 <aside> 📺 Watch this video introduction to the "How Might We" methodology
   </aside>
 
-<iframe src="https://player.vimeo.com/video/364634597?h=1d05eeef81" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/364634597?h=1d05eeef81" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside> 
   📖 Read: <a href="https://dscout.com/people-nerds/how-might-we-statements" target="_blank">How Might We Statements: A Powerful Way to Turn Insights into Opportunities</a>
@@ -78,6 +76,8 @@ A successful HMW statement is neither too narrow to hinder braninstorming nor to
 <aside>
   Watch the video below, which discusses how to scope HMWs using the example of designing a new toilet for India
    </aside>
-  <iframe src="https://player.vimeo.com/video/102964749?h=2274197955" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/102964749?h=2274197955" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 
