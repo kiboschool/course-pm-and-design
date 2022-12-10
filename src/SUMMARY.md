@@ -21,7 +21,7 @@
   - [What is Product Design?](lessons/software-team/what-is-design.md)
   - [Design Thinking](lessons/software-team/design-thinking.md)
   - [Empathise & Define: How Might We?](lessons/software-team/empathize-and-define.md)
-  - [Ideate: Can We?](lessons/software-team/how-might-we.md)
+  - [Ideate: Can We?](lessons/software-team/ideate.md)
   - [Wrap up](lessons/software-team/wrap-up.md)
 
 
