@@ -27,6 +27,7 @@ Throughout the rest of this course, we'll apply the principles of design thinkin
 
   <iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" width="100%" height="100%" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/103471248?h=f3d0b5f48c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
