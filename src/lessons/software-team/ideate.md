@@ -43,7 +43,9 @@ The SCAMPER method is a brainstorming technique to come up with new ideas by app
 
 The SCAMPER method is useful for overcoming creative blocks and for generating a large number of ideas in a short amount of time. It can also be a fun and energizing activity for teams to do together.
 
-[TODO: scamper padlet]
+<aside>
+  </aside>
+<div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/uqtmv4q4ts4svbrz" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
 ### Crazy 8s
 ![image](https://user-images.githubusercontent.com/1774663/206811700-6c1b56c9-cef3-48de-823c-693787d7c01e.png)
