@@ -12,7 +12,8 @@ One common abstraction is to describe Product Managers (PMs) as "CEOs of the Pro
 <aside>
 📺 Watch this video explaining the role of a product manager
 </aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yUOC-Y0f5ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/yUOC-Y0f5ZQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 <aside>
 📖 Read: 
@@ -58,7 +59,7 @@ In the early to mid 2000s, the path to becoming a product manager was unclear. T
 </aside>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-RmrHkTA0Jg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## 🤔 Optional Resources
+## Optional Resources
 
 <details>
 <summary>What is Product management?</summary>
