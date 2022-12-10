@@ -21,7 +21,7 @@ Intuition and vision certainly play in product design. But, to build the _right_
 
 Building impactful products is extremely difficult, and even the best companies in the world struggle to do it consistently. You may have heard of famous flops like Google Glass, Apple Newton, Amazon Fire Phone, or Facebook's Libra coin. Product fail for many reasons, but chief among them is that they don't solve a real customer problem. To build impactful products, product teams need an approach that is deeply human-centric, i.e., understands the needs, desires and habits of those for whom we are building. One framework for doing this is design thinking. In this lesson, we’ll learn to apply the principles of design thinking to product development. 
 
-<aside> 💡 **Design thinking is a creative approach to problem-sovling that aims to generate innovate solutions by understanding the needs and motivations of users.**
+<aside> 💡 Design thinking is a creative approach to problem-sovling that aims to generate innovate solutions by understanding the needs and motivations of users.
   </aside>
 
 
@@ -29,10 +29,10 @@ Building impactful products is extremely difficult, and even the best companies 
 
 
 <aside>
-📺 Watch this video introduction to Design Thinking from IDEO, one of the organizations that helped popularize its use
+📺 Watch this video introduction to Design Thinking from IDEO, one of its pioneers
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;></iframe></div>
 
   
 Design thinking is a solution-based approach to problem-solving that helps to find constructive solutions to effectively tackle a problem. The video describes three lenses for bringing an idea into focus:
