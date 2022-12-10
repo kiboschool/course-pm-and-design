@@ -19,7 +19,8 @@ Coming up with many ideas can be hard. Many of us, especially those with affinit
 <aside> 📺 Watch this video on creative confidence
   </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16p9YRF0l-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/16p9YRF0l-g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 
 <aside> 
   📖 Read: <a href="https://dscout.com/people-nerds/how-might-we-statements" target="_blank">How Might We Statements: A Powerful Way to Turn Insights into Opportunities</a>
@@ -32,18 +33,19 @@ There are numerous activities that can help teams and individuals overcome block
 ### SCAMPER
 The SCAMPER method is a brainstorming technique to come up with new ideas by applying a set of creative thinking strategies to a design problem. Starting with an existing solution, a team can apply the SCAMPER technique by answering the following questions:
 
-**S**ubstitute: What can be changed or replaced in the design?
-**C**ombine: How can elements be combined or merged in the design?
-**A**dapt: How can the design be adapted from something else?
-**M**odify: How can the design be altered or modified in some way?
-**P**ut to other uses: How can the design be used in a different way?
-**E**liminate: What can be removed from the design?
-**R**everse: How can the design be reversed or turned upside down?
-**R**earrange: How can the elements of the design be rearranged in a different order?
+**S**ubstitute: What can be changed or replaced in the design?<br>
+**C**ombine: How can elements be combined or merged in the design?<br>
+**A**dapt: How can the design be adapted from something else?<br>
+**M**odify: How can the design be altered or modified in some way?<br>
+**P**ut to other uses: How can the design be used in a different way?<br>
+**E**liminate: What can be removed from the design?<br>
+**R**everse: How can the design be reversed or turned upside down?<br>
+**R**earrange: How can the elements of the design be rearranged in a different order?<br>
 
 The SCAMPER method is useful for overcoming creative blocks and for generating a large number of ideas in a short amount of time. It can also be a fun and energizing activity for teams to do together.
 
 <aside>
+ Imagine we've been collectively tasked to redesign the traditional secondary school and create the "secondary school of the future". Let's apply the SCAMPER method to ideate how we might redesign school. Add your idea to at least two columns below. 
   </aside>
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/uqtmv4q4ts4svbrz" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
