@@ -12,24 +12,27 @@
 
 In the previous lesson, we said that a product manager’s job is to collaborate with the team to **build the right thing _and_ build the thing right.** 
 
-But how do PMs and designers know the right thing to build? Innovating on new products is an inherently creative endeavor. Some people argue that creativity and innovation is driven by singularly gifted visionaries (think Steve Jobs) who see into the future. They might agree with Henry Ford, the developer ofthe assembly line and mass automobiles who _allegedly_ said: 
+But how do PMs and designers know the right thing to build? Building new products is an inherently creative endeavor. Some people argue that creativity and innovation is driven by singularly gifted visionaries (e.g., Steve Jobs) who see a future that others cannot imagine. They might agree with Henry Ford, the developer of the assembly line and mass automobiles who _allegedly_ said: 
 
-<aside>“If I had asked people what they wanted, they would have said faster horses.”</aside>
+<aside> 🗣 “If I had asked people what they wanted, they would have said faster horses.”</aside>
 
-Intuition and vision have an important role to play in product design. But, to build the _right_ thing, an innovator must understand the customer's problem. This understanding comes from empirical analysis, observation, and yes, talking to customers. Ford famously stubbornly stuck to his vison for automobiles and, as a result, he lost market share to General Motors and other  companies who spent more time understanding their customers needs.
+Intuition and vision certainly play in product design. But, to build the _right_ thing, an innovator must understand the people for whom the product is being built. This understanding comes from empirical analysis, observation, and yes, _asking people_ what they want. Ford famously stubbornly stuck to his vison for automobiles and, as a result, his company lost market share to General Motors and others who spent more time understanding their customers needs.
 
 
-Building impactful products is extremely difficult and even the best companies in the world struggle to do it consistently. You may remember famous flops like Google Glass, Apple Netwon, Amazon Fire Phone, or Facebook's Libra coin. Product fail for many reasons, but chief among them is that they don't solve a real customer problem. To build products that make our desired user and business impact, we need to take an approach that is deeply human-centric, i.e., understands the needs, desires and habits of those for whom we are building. One way to do this is to build products using the design thinking. In this lesson, we’ll learn to apply the principles of design thinking to product development. **Design thinking is an ideology and methodology for creative, human-centric problem-solving.**
+Building impactful products is extremely difficult, and even the best companies in the world struggle to do it consistently. You may have heard of famous flops like Google Glass, Apple Newton, Amazon Fire Phone, or Facebook's Libra coin. Product fail for many reasons, but chief among them is that they don't solve a real customer problem. To build impactful products, product teams need an approach that is deeply human-centric, i.e., understands the needs, desires and habits of those for whom we are building. One framework for doing this is design thinking. In this lesson, we’ll learn to apply the principles of design thinking to product development. 
+
+<aside> 💡 **Design thinking is a creative approach to problem-sovling that aims to generate innovate solutions by understanding the needs and motivations of users.**
+  </aside>
 
 
 ## What is Design Thinking?
 
 
 <aside>
-📺 Watch this video on Design Thinking from IDEO, one of the best known organizations for applying design thinking
+📺 Watch this video introduction to Design Thinking from IDEO, one of the organizations that helped popularize its use
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 Design thinking is a solution-based approach to problem-solving that helps to find constructive solutions to effectively tackle a problem. The video describes three lenses for bringing an idea into focus:
