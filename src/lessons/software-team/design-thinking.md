@@ -35,14 +35,9 @@ Building impactful products is extremely difficult, and even the best companies 
 <div style="position: relative"><iframe src="https://www.youtube.com/embed/QWdgcpAHRlM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
   
-As Design thinking starts with people. When thin
-Feasbility - creating something that makes people lives better, feasible to produce, and makes business sense. 
- Design thinking is a solution-based approach to problem-solving that helps to find constructive solutions to effectively tackle a problem. The video describes three lenses for bringing an idea into focus:
-  1. Feasibility
-  2. Desirability
-  3. Viability 
-  
-![image](https://user-images.githubusercontent.com/1774663/199945030-ee12c8f5-d5ae-4a9b-a6c6-b2a01a647a78.png)
+As stated in the video, design thinking starts with people. When using a design thinking, innovators attempt to find _constructive solutions_ that improve users' lives, are feasible to produce, and make business sense. 
+
+![image](https://user-images.githubusercontent.com/1774663/206872630-b83b049e-1fc5-4c26-9e57-b7720867fca2.png)
 
   
 
