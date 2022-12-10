@@ -33,7 +33,7 @@ After completing this lesson, you will be able to:
 
 [1.2 What is Product Management?](software-team/what-is-pm.md)
 
-[1.3 What is Product Design?](software-team/what-is-pm.md)
+[1.3 What is Product Design?](software-team/what-is-design.md)
 
 [1.4 Design Thinking](software-team/design-thinking.md)
 
@@ -41,6 +41,6 @@ After completing this lesson, you will be able to:
 
 [1.6 Ideate: Can We?](software-team/ideate.md)
 
-[1.7 Assignment](software-team/wrap-up.md)
+[1.7 Wrap up](software-team/wrap-up.md)
 
 ---
