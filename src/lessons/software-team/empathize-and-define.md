@@ -10,7 +10,7 @@
   
 </aside>
 
-Throughout the rest of this course, we'll apply the principles of design thinking to develop a software product. We'll engage in an iterative process of developing empathy, defining problems, ideating, then prototyping and testing numerous solutions.  The first two steps of design thinking - empathize and design - focus on understanding the user's problem and defining a clear problem statement. In this lesson, we explore a framework for articulating clearly defined problems and launching brainstorms: **How Might We.** This method takes insights from users and frames a question to answer a problem. 
+Throughout the rest of this course, we'll apply the principles of design thinking to develop a software product. We'll engage in an iterative process of developing empathy, defining problems, ideating, then prototyping and testing numerous solutions.  The first two steps of design thinking - empathize and define - focus on understanding the user's problem and defining a clear problem statement. In this lesson, we'll explore a framework for articulating clearly defined problems and launching brainstorms: **How Might We.** This method takes insights from users and frames a question to answer a problem. 
 
 
 ## Empathise: talking to and understanding users
