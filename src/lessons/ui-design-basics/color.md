@@ -8,13 +8,17 @@
 
 Color is a major aspect of UI design. It has the ability to heavily influence how people view; your design, physical and digital products and brands in general. Even in our everyday lives, color is used to give signals and feedback in places where text and images are not convenient as means of communication. It’s generally understood around the world that at a traffic light, red means stop, yellow means get ready and green means go. This is an example of how color can be used to provide certain signals without the use of words or images. In this chapter you’ll learn how different colors affect people physically and emotionally, how the meaning behind colors can change depending on culture/region and how to effectively use color in UI design. To kick things off, watch the video below about the psychological effects of colors. 
 
+<aside> 
+  📺 Watch this video on color psychology
+</aside>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8J0nbuunDXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 For a deeper divide into the positive and negative effects of colors read the article below.
 
 <aside> 
- 📖 Read:<a href="http://www.colour-affects.co.uk/psychological-properties-of-colours" target="_blank">Color Psychology</a>
+ 📖 Read: <a href="http://www.colour-affects.co.uk/psychological-properties-of-colours" target="_blank">Color Psychology</a>
  </aside>
 
 #### Exercise
@@ -34,8 +38,8 @@ In western cultures red conveys extreme caution, love, aggression, strength, etc
 
 As a designer it’s important to note the cultural differences of the meanings behind colors when designing for international audiences. These cultural differences can play a huge role in how products and brands come off to their target audience. So what does this mean for companies that start off with a specific brand color in one market and are trying to move into another market where their brand color may not be so appealing? This doesn’t mean that the company should change their brand colors just to enter the new market. To get around this, they can make the secondary color more prominent than the primary in the design of products that will be used in the new market. Alternatively, they can use a toned down version of the primary color or reduce the use of color altogether and rely heavily on images and illustrations (e.g Airbnb). This is all to say that as we design products, we should be sensitive to how certain aspects of our design, such as color, can have a major impact on how products/ brands are viewed. For more on cultural differences between colors please read the article below.
 
-<aside> 
- 📖 Read:[More on cultural differences between colors](https://eriksen.com/marketing/color_culture/)
+ <aside> 
+ 📖 Read: <a href="https://eriksen.com/marketing/color_culture/" target="_blank">More on cultural differences between colors</a>
  </aside>
   
   
@@ -53,6 +57,7 @@ CMYK stands for Cayenne, Magenta, Yellow and Key (black). All colors seen on pri
 
 CMYK and Pantone colors do not translate directly to RGB values/HEX codes. If you’re given CMYK values to use in digital/screen design use a color converter online to figure out what the corresponding RGB values/HEX codes are. 
 
+
 ## Using Color in UI design and Accessibility
 
 We’ve covered the psychological, physical and emotional effects of colors, the different cultural/regional meanings behind colors and color formats. Finally we’ll cover how to effectively use color in UI design. 
@@ -63,8 +68,10 @@ So how do you pick colors that work well together and complement each other? Som
 
 Another important factor when picking colors is accessibility. We’ll talk more about color accessibility and useful tools in week 4 but it's important to mention it here because it should be factored in at the beginning of your color selection process. We cannot predict the condition of everyone who will interact with our designs once they’ve been built and deployed therefore we need to make sure that our designs are accessible to everyone no matter what condition they have or what medium they choose to interact with our designs. Some people are visually impared and a substantial percentage of the population are color blind. Based on this, we need to ensure that the colors we choose contrast well with each other and the background color (most likely white) of our designs. There are many tools available to help us check these contrasts and ensure that most people, including those with visual impairments, can distinguish between colors in our designs. Like I mentioned above we’ll learn about these tools in week 4. 
 
-<aside> 
 For more on color, please check out [this article](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3)
+ 
+  <aside> 
+ 📖 Read: <a href="https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3" target="_blank">Ultimate Guide to Color</a>
  </aside>
   
   
@@ -82,6 +89,9 @@ For more on color, please check out [this article](https://uxplanet.org/ultimate
 ## Other Useful Links on Color
 
 <details>
+ <summary>Other Useful Links on Color</summary>
+ 
 - [Psychological, physical and emotional effect of colors on us](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+ 
 - [All-you-need-to-know-about-colors](https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522)
  </details>
