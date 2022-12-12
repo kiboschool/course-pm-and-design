@@ -13,8 +13,9 @@ Color is a major aspect of UI design. It has the ability to heavily influence ho
 
 For a deeper divide into the positive and negative effects of colors read the article below.
 
-[Color Psychology](http://www.colour-affects.co.uk/psychological-properties-of-colours)
-
+<aside> 
+ 📖 Read:[Color Psychology](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+ </aside>
 
 #### Exercise
 
@@ -33,8 +34,11 @@ In western cultures red conveys extreme caution, love, aggression, strength, etc
 
 As a designer it’s important to note the cultural differences of the meanings behind colors when designing for international audiences. These cultural differences can play a huge role in how products and brands come off to their target audience. So what does this mean for companies that start off with a specific brand color in one market and are trying to move into another market where their brand color may not be so appealing? This doesn’t mean that the company should change their brand colors just to enter the new market. To get around this, they can make the secondary color more prominent than the primary in the design of products that will be used in the new market. Alternatively, they can use a toned down version of the primary color or reduce the use of color altogether and rely heavily on images and illustrations (e.g Airbnb). This is all to say that as we design products, we should be sensitive to how certain aspects of our design, such as color, can have a major impact on how products/ brands are viewed. For more on cultural differences between colors please read the article below.
 
-[More on cultural differences between colors](https://eriksen.com/marketing/color_culture/)
-
+<aside> 
+ 📖 Read:[More on cultural differences between colors](https://eriksen.com/marketing/color_culture/)
+ </aside>
+  
+  
 ## Color Formats
 
 Colors come in different formats depending on where they are being used. In digital/screen design we use RGB values or HEX codes. In print design we use CMYK or Pantone. 
@@ -59,8 +63,11 @@ So how do you pick colors that work well together and complement each other? Som
 
 Another important factor when picking colors is accessibility. We’ll talk more about color accessibility and useful tools in week 4 but it's important to mention it here because it should be factored in at the beginning of your color selection process. We cannot predict the condition of everyone who will interact with our designs once they’ve been built and deployed therefore we need to make sure that our designs are accessible to everyone no matter what condition they have or what medium they choose to interact with our designs. Some people are visually impared and a substantial percentage of the population are color blind. Based on this, we need to ensure that the colors we choose contrast well with each other and the background color (most likely white) of our designs. There are many tools available to help us check these contrasts and ensure that most people, including those with visual impairments, can distinguish between colors in our designs. Like I mentioned above we’ll learn about these tools in week 4. 
 
+<aside> 
 For more on color, please check out [this article](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3)
-
+ </aside>
+  
+  
 ## Summary/Takeaways
 
 - Each color has a different psychological, physical and emotional effect on us.
@@ -71,8 +78,9 @@ For more on color, please check out [this article](https://uxplanet.org/ultimate
 - If you can’t pick out colors that work together yourself use a color wheel tool.
 - Make sure the colors you pick are accessible by ensuring they complement and contrast well with each other and the background.
 
+<aside> 
 ## Other Useful Links on Color
 
 - [Psychological, physical and emotional effect of colors on us](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 - [All-you-need-to-know-about-colors](https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522)
-
+ </aside>
