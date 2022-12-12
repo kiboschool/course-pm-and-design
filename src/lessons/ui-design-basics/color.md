@@ -68,7 +68,7 @@ So how do you pick colors that work well together and complement each other? Som
 
 Another important factor when picking colors is accessibility. We’ll talk more about color accessibility and useful tools in week 4 but it's important to mention it here because it should be factored in at the beginning of your color selection process. We cannot predict the condition of everyone who will interact with our designs once they’ve been built and deployed therefore we need to make sure that our designs are accessible to everyone no matter what condition they have or what medium they choose to interact with our designs. Some people are visually impared and a substantial percentage of the population are color blind. Based on this, we need to ensure that the colors we choose contrast well with each other and the background color (most likely white) of our designs. There are many tools available to help us check these contrasts and ensure that most people, including those with visual impairments, can distinguish between colors in our designs. Like I mentioned above we’ll learn about these tools in week 4. 
 
-For more on color, please check out [this article](https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3)
+For more on color, please check out:
  
   <aside> 
  📖 Read: <a href="https://uxplanet.org/ultimate-guide-to-color-in-ux-ui-design-de8eb104b5d3" target="_blank">Ultimate Guide to Color</a>
