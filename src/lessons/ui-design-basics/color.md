@@ -14,7 +14,7 @@ Color is a major aspect of UI design. It has the ability to heavily influence ho
 For a deeper divide into the positive and negative effects of colors read the article below.
 
 <aside> 
- 📖 Read:[Color Psychology](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+ 📖 Read:<a href="http://www.colour-affects.co.uk/psychological-properties-of-colours" target="_blank">Color Psychology</a>
  </aside>
 
 #### Exercise
@@ -78,9 +78,10 @@ For more on color, please check out [this article](https://uxplanet.org/ultimate
 - If you can’t pick out colors that work together yourself use a color wheel tool.
 - Make sure the colors you pick are accessible by ensuring they complement and contrast well with each other and the background.
 
-<aside> 
+ 
 ## Other Useful Links on Color
 
+<details>
 - [Psychological, physical and emotional effect of colors on us](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 - [All-you-need-to-know-about-colors](https://uxdesign.cc/all-you-need-to-know-about-colors-in-ui-design-theory-practice-235179712522)
- </aside>
+ </details>
