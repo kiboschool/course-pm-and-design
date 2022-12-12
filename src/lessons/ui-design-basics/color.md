@@ -89,7 +89,7 @@ For more on color, please check out:
 ## Other Useful Links on Color
 
 <details>
- <summary>OtherUseful Links on Color</summary>
+ <summary>Other Useful Links on Color</summary>
  
 - [Psychological, physical and emotional effect of colors on us](http://www.colour-affects.co.uk/psychological-properties-of-colours)
  
