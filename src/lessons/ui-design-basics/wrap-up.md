@@ -3,9 +3,10 @@
 
 
 ## What We Learned
-- thing 1
-- thing 2
-- thing 3
+- Typography, useful typography terms, principles of typography and how typography is used in design and development  
+- Color psychology, the importance of cultural difference in color, color formats and how color is used in UI design
+- Basic principles of UI design
+- How to use Figma 
 
 
 ## Assignment
