@@ -13,9 +13,21 @@ Other than these and the basic principles of UI design covered in chapter 3, the
 
 
 ## Responsive Web Design
-As of August 2022, about 54% of global website traffic was on mobile devices while about 46% was on desktop. This tells us that websites were accessed more on mobile devices than on desktops. This is the result of a trend that has been growing over the last decade where more people are able to gain access to the web using mobile devices since they are cheaper than desktops. So what does this mean for web design?  
+As of August 2022, about 54% of global website traffic was on mobile devices while about 46% was on desktop. This tells us that websites were accessed more on mobile devices than on desktops. This is the result of a trend that has been growing over the last decade where more people are able to gain access to the web using mobile devices since they are cheaper than desktops. 
 
-It means designers have to create responsive web designs. Responsive web designs are designs that change and adapt based on the devices/screen sizes used to access them. You may have noticed this yourself but just in case you haven't, visit [Mediums' website](https://medium.com) on your desktop, then visit it on your mobile phone, the differences are clear but the content is pretty much the same. So how do we create responsive web designs? We’ll cover that in the sub-sections below.  
+<aside>
+🤔 So what does this mean for web design?  
+</aside>
+
+It means designers have to create responsive web designs. Responsive web designs are designs that change and adapt based on the devices/screen sizes used to access them. You may have noticed this yourself but just in case you haven't, check out the exercise below.
+
+<aside>
+ 🛠️ Visit <a href="https://medium.com" target="_blank">Mediums' website</a> on your desktop, then visit it on your mobile phone. What is the major difference if any? Answer the poll below, to see the answer. 
+  </aside>
+
+**Add Poll Here**
+
+It’s clear that the major difference is the layout, the content and elements are pretty much the same. So how do we create responsive web designs? We’ll cover that in the sub-sections below.  
 
 
 ### Layout Grid
