@@ -4,9 +4,11 @@
 
 
 ## What We Learned
-- thing 1
-- thing 2
-- thing 3
+- How to design for both Android and iOS mobile platforms
+- How create responsive web designs that adapt to the devices/screen sizes they’re viewed on
+- Where to get inspiration and resources you’ll need when designing
+- What design systems are and why they’re useful
+- What accessibility is and why it's important that digital products prioritize accessibility
 
 
 ## Assignment
