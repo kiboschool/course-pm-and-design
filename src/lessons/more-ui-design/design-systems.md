@@ -43,7 +43,7 @@ The article below is a comprehensive guide to design systems and will explain ev
 
 
 <aside>
- 🛠️ After going through the article, answer the following questions in the padlet below.
+ 🛠️ After going through the article, answer the following questions in the padlet below:
   
   - What is the difference between a pattern library/style guide and a design system?
   - What are the four key steps involved in creating a design system?
