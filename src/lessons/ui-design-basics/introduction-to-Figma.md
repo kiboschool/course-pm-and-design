@@ -13,7 +13,7 @@ The first thing you’ll need to do is visit Figma’s website and sign up (it's
 
 ## Creating your First Design in Figma
 
-Now that you have your Figma set up, the next thing is to familiarize yourself with the interface, tools and features. What better way to do this than to jump straight into designing. The video below will show you how to navigate the interface and use the basic tools and features required to create designs in Figma. By the end of the video you’ll be able to;
+Now that you have your Figma set up, the next thing is to familiarize yourself with the interface, tools and features. What better way to do this than to jump straight into designing. The video below will show you how to navigate the interface and use the basic tools and features required to create designs in Figma. By the end of the video you’ll be able to:
 
 - Start a Figma project 
 - Navigate the interface
@@ -25,6 +25,10 @@ Now that you have your Figma set up, the next thing is to familiarize yourself w
 - Import and edit images
 
 Take your time walking through the video and make sure you understand everything that's shared. This will be the foundation of the rest of the work we do in Figma during this course. Once you’ve finished creating the design in the video, you will submit it for this week's assignment
+
+<aside> 
+  📺 Watch this video on how to get started with Figma
+</aside>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZJOSK4gXl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
