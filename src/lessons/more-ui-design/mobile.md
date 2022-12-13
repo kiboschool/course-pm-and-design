@@ -8,6 +8,9 @@ In this lesson we’ll cover all things to do with UI design for mobile devices.
 
 ## Designing for Android - Material Design
 
+<aside> 
+  📺 Watch this video on Material Design
+</aside>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p4gmvHyuZzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -21,6 +24,12 @@ As mentioned above Material Design is a set of guidelines published and regularl
 - Navigation is usually done through tabs at the top of the screen.
 
 These points are covered extensively on the material design guidelines website. The content on the website can be a lot to take in though so these points have been highlighted as guidelines you can fall back to if you can't remember them all. Please go through the three links below to understand how to design products that meet Google’s material design guidelines. While viewing the links you’ll notice that there are other aspects of material design that are not linked in this lesson - such as “Foundations'' and “Develop”. Feel free to go through these during your free time but you’re not required to go through them for this lesson. Like was mentioned previously, there's a lot of content on the material design guidelines website, not all of it is relevant to design though. 
+
+  <aside> 
+ 📖 Read: <a href="https://m3.material.io/styles" target="_blank">Material Design Styles</a>
+ <a href="https://m3.material.io/components" target="_blank">Material Design Components</a>
+ <a href="https://fonts.google.com/icons" target="_blank">Material Design Icons</a>
+ </aside>
 
 <aside>
  
@@ -37,6 +46,10 @@ These points are covered extensively on the material design guidelines website. 
 
 
 ## Designing for iOS - Human Interface Guidelines
+
+<aside> 
+  📺 Watch this video on Human Interface Guidelines
+</aside>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtoiM8eps_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
