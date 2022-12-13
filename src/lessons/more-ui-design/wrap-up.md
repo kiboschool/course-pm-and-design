@@ -5,7 +5,7 @@
 
 ## What We Learned
 - How to design for both Android and iOS mobile platforms
-- How create responsive web designs that adapt to the devices/screen sizes they’re viewed on
+- How create responsive web designs at different breakpoints
 - Where to get inspiration and resources you’ll need when designing
 - What design systems are and why they’re useful
 - What accessibility is and why it's important that digital products prioritize accessibility
