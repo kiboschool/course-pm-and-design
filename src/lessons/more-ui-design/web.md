@@ -21,6 +21,10 @@ It means designers have to create responsive web designs. Responsive web designs
 ### Layout Grid
 Layout grids allow designers to create layouts that change dynamically based on the device/screen size used to access a website. In theory this means that based on the layout of a design at one screen size, it's relatively easy to predict how the layout will change at other screen sizes. This leads many early stage designers to believe that if they create their design on one screen size, it can be adapted later in development to respond to multiple screen sizes, unfortunately this is not the case. Best practice is for designers to layout their designs at multiple screen sizes (often called breakpoints). These breakpoints act as guides for the development team which tells them what range of screen sizes a particular layout should hold before changing to a different layout. More details on breakpoints will be shared in the sub-section below. Layout grids consist of columns, gutters and margins, they are also useful for aligning and separating content in UI design. Please watch the video below to learn what columns, gutters and margins are and how to create a layout grid in Figma. 
 
+<aside>
+📺 Watch this video on Layout Grids
+</aside>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zd8wrAdURN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -58,11 +62,8 @@ With sources of inspiration covered, you’ll also need resources such as; image
 
 These platforms are all accessible on bookmark.design as well. 
 
-<aside>
-  
- Best practice is to use icons and illustrations in .svg format. Avoid using icons and illustrations in .png format in UI design where possible.
- 
-</aside>
+<aside> 💡  Best practice is to use icons and illustrations in .svg format. Avoid using icons and illustrations in .png format in UI design where possible.
+  </aside>
 
 
 ## Reflect
