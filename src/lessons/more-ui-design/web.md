@@ -21,13 +21,19 @@ As of August 2022, about 54% of global website traffic was on mobile devices whi
 
 It means designers have to create responsive web designs. Responsive web designs are designs that change and adapt based on the devices/screen sizes used to access them. You may have noticed this yourself but just in case you haven't, check out the exercise below.
 
+
 <aside>
  🛠️ Visit <a href="https://medium.com" target="_blank">Mediums' website</a> on your desktop, then visit it on your mobile phone. What is the major difference if any? Answer the poll below, to see the answer. 
   </aside>
 
 **Add Poll Here**
 
-It’s clear that the major difference is the layout, the content and elements are pretty much the same. So how do we create responsive web designs? We’ll cover that in the sub-sections below.  
+It’s clear that the major difference is the layout, the content and elements are pretty much the same.
+
+
+<aside>
+🤔 So how do we create responsive web designs? We’ll cover that in the sub-sections below.
+</aside>  
 
 
 ### Layout Grid
