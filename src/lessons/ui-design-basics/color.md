@@ -21,11 +21,13 @@ For a deeper divide into the positive and negative effects of colors read the ar
  📖 Read: <a href="http://www.colour-affects.co.uk/psychological-properties-of-colours" target="_blank">Color Psychology</a>
  </aside>
 
-#### Exercise
 
-From the 5 sectors listed below, pick 1 and choose 3 colors you feel a company looking to join the sector might use for their branding and explain why. Please post your answer in the padlet below. 
+<aside>
+ 🛠️ From the 5 sectors listed below, pick 1 and choose 3 colors you feel a company looking to join the sector might use for their branding and explain why. Please post your answer in the padlet below. 
 
 Agriculture, Education, Climate change, Entertainment, Real Estate
+  </aside>
+  
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/1a8wprarm320asai" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
