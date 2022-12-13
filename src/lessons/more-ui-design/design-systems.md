@@ -48,3 +48,6 @@ The article below is a comprehensive guide to design systems and will explain ev
   - What is the difference between a pattern library/style guide and a design system?
   - What are the four key steps involved in creating a design system?
   </aside>
+
+
+**Padelt goes here**
