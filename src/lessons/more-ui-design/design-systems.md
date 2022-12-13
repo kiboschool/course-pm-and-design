@@ -25,7 +25,7 @@ There are many benefits of a well implemented design system. The benefits includ
 - **Reference point and educational piece for new and existing designers, developers and content creators** - design systems provide guidelines that help new designers, developers, content creators, etc quickly get up to speed with design and development at a company. They also provide a reference point for existing designers, developers and other members of cross functional teams within companies.  
 
 
-### Design System Cons
+## Design System Cons
 Based on the section above, you may be thinking, “design systems are great, I can’t see any reason why designers and developers shouldn’t create/use design systems”. Well, like most things in life, design systems also have disadvantages. The disadvantages are:
 
 - **Creating and maintaining design systems requires a lot of resources** - Like the design process itself, design systems don't have a final deliverable which can be completed, handed off, then left alone to move onto other tasks. They constantly evolve based on feedback from the teams that use them and therefore need dedicated resources to monitor, gather feedback and update them. 
@@ -43,7 +43,7 @@ The article below is a comprehensive guide to design systems and will explain ev
 
 
 <aside>
- 🛠️ After going through the article, answer the following questions in the padlet below.\
+ 🛠️ After going through the article, answer the following questions in the padlet below.
   
   - What is the difference between a pattern library/style guide and a design system?
   - What are the four key steps involved in creating a design system?
