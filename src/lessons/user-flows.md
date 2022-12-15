@@ -13,30 +13,11 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Explain why and how MVP framework helps in early product development 
-- Create user personas to 
-- Understand the structure of and draft a product requirements document that aligns stakeholders 
-- Describe the lifecycle of a software product, and how product managers and designers plan for product evolution over time
+- Create a UX information architecture diagram that illustrates a digital product's pages and heirarchy
+- Use various frameworks including user experience maps and critical user journeys to define a user's experience of a product
+- Collect and use qualitaitve and quantiative measures to track a user's success in a rpoduct
 
 
 
-
-## Sections
-
-<aside>
-
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
-
-</aside>
-
-[What is the right thing to build?]()
-
-[Defining product requirements]()
-
-[User personas and user stories]()
-
-[Product Requirements Documentation]()
-
-[Wrap Up]()
 
 ---
