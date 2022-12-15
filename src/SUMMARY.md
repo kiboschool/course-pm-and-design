@@ -59,7 +59,7 @@
 
 
 ### Week 6
-- [Week 6: Product Requirements]()
+- [Week 6: Product Requirements](lessons/product-requirements.md)
 
 
 ### Week 7
