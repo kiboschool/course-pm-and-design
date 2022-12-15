@@ -12,31 +12,8 @@ E*stimated Time: XXX hours*
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
-
-- Explain why and how MVP framework helps in early product development 
-- Create user personas to 
-- Understand the structure of and draft a product requirements document that aligns stakeholders 
-- Describe the lifecycle of a software product, and how product managers and designers plan for product evolution over time
-
-
-
-
-## Sections
-
-<aside>
-
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
-
-</aside>
-
-[What is the right thing to build?]()
-
-[Defining product requirements]()
-
-[User personas and user stories]()
-
-[Product Requirements Documentation]()
-
-[Wrap Up]()
+- Use various prototyping tools and resources to validate your ideas
+- Create interactive wireframes using Figma 
+- Conduct usability tests to measure the effectiveness of user interfaces 
 
 ---
