@@ -12,12 +12,12 @@ Intro video goes here
 
 ## **Learning Outcomes**
 
-After completing this lesson, you will:
+After completing this lesson, you will be able to:
 
 - Understand typography and how its used in UI design
 - Understand color and how its used in UI design
 - Understand the basic principles of UI design and how they help in designing seamless, intuitive and beautiful user interfaces
-- Be familiar with Figma and have created your first design
+- Use basic features in Figma and have created your first design
 
 ## Sections
 
