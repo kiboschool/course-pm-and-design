@@ -51,7 +51,7 @@ By the end of the course, you will be able to:
 
 Note that all times are listed in GMT, please convert to your local timezone.
 
-- Class time: Thursdays, 5 - 6:30pm GMT
+- Class time: Wednesdays, 5 - 6:30pm GMT
 - Office hours: TBD
 
 ## Instructors
