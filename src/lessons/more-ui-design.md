@@ -11,6 +11,8 @@ E*stimated Time: XXX hours*
 
 ## **Learning Outcomes**
 
+After completing this lesson, you will be able to:
+
 - Design for Android and iOS mobile platforms
 - Understand the differences between designing for Android and iOS platforms
 - Design for the web and create responsive web designs at different breakpoints
