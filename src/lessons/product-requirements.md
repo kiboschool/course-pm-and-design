@@ -20,23 +20,4 @@ After completing this lesson, you will be able to:
 
 
 
-
-## Sections
-
-<aside>
-
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
-
-</aside>
-
-[What is the right thing to build?]()
-
-[Defining product requirements]()
-
-[User personas and user stories]()
-
-[Product Requirements Documentation]()
-
-[Wrap Up]()
-
 ---
