@@ -63,13 +63,13 @@
 
 
 ### Week 7
-- [Week 7: User Flows]()
+- [Week 7: User Flows](lessons/user-flows.md)
 
 ### Week 8
-- [Week 8: Prototyping]()
+- [Week 8: Prototyping](lessons/prototyping.md)
 
 ### Week 9
-- [Week 9: Continuous Design Life Cycle]()
+- [Week 9: Continuous Design Life Cycle](lessons/design-lifecycle.md)
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
