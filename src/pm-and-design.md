@@ -1,6 +1,6 @@
 # Product Management and Design
 
-**CSF004**
+**CSF007**
 
 _6 ECTS Credits_
 
