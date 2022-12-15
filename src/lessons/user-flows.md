@@ -13,9 +13,9 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Create a UX information architecture diagram that illustrates a digital product's pages and heirarchy
+- Create a UX information architecture diagram that illustrates a digital product's pages and hierarchy
 - Use various frameworks including user experience maps and critical user journeys to define a user's experience of a product
-- Collect and use qualitaitve and quantiative measures to track a user's success in a product
+- Collect and use qualitative and quantitative measures to track a user's success in a product
 
 
 
