@@ -7,20 +7,15 @@ E*stimated Time: XXX hours*
 
 ## Introduction
 
-Intro text goes here
-
+*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
 
 ## **Learning Outcomes**
 
-After completing this lesson, you will:
-
-- Be able to design for Android and iOS mobile platforms 
+- Design for Android and iOS mobile platforms
 - Understand the differences between designing for Android and iOS platforms
-- Be able to design for the web
-- Be able to create responsive web designs at different breakpoints 
-- Understand what design systems are and why they’re important
-- Understand what accessibility in UI design is and why it’s important
-
+- Design for the web and create responsive web designs at different breakpoints
+- Articulate the use of and importance of design systems
+- Describe the tactics of and importance of accessiblity in UI design
 
 ## Sections
 
