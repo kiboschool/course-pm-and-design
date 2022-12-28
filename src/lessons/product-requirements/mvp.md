@@ -6,9 +6,67 @@
 
 <aside>
   
-  🗣 "** 'Build it and they will come,' is not a strategy; it’s a prayer."** — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
+  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
 
 </aside>
+
+When we think of successful products like Google Search, Facebook or Spotify, it's easy to forget their modest beginnings. <a href="https://1.bp.blogspot.com/-v7DViedN0Yg/VZrSQMObrDI/AAAAAAAAF74/cYOjPg3Gtis/s1600/FirstVersions_Twitter-interface-Nov2006.png" target="_blank">Here</a> is an image of the very first version of twitter in 2006. The first version of Facebook, then called "The facebook" launched in 2004 and was restricted to just students at Harvard. Its only feature was a profile page and the ability to friend smeone. Many of the features we now associated with Facebook and social networking -- from photo sharing to News Feed or status updates -- came many years after the original launch. 
+
+The art of the launch is tricky. Figuring out what to release and what not to release is difficult. That's why Reid Hoffman, CEO of LinkedIn has a famous quote:
+
+<aside>
+  
+  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
+
+</aside>
+
+Eric Ries, the author of The Lean Startup, has a useful corrollary:
+
+<aside>
+  
+  🗣 **"no matter how long you wait to release your first version, you will be embarrassed by it."** — Eric Ries
+
+</aside>
+
+First impressions matter and in many aspects of life, carefully tending to the first impression is critical. Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software developers today follow a lean approach which advocates for releasing a bare-minium version of the product, learning from users, then iterating based on user feedback.  
+
+
+## Build, Measure, Learn
+
+![image](https://user-images.githubusercontent.com/1774663/209885619-a81f7d67-5b23-44b5-b8ea-9ceb43f88b4b.png)
+
+
+
+"Build, measure, learn" is a concept from the lean startup methodology, which is a framework for developing and growing businesses that emphasizes rapid experimentation and iteration. The lean startup methodology is a framework for developing and growing businesses that emphasizes rapid experimentation and iteration. It was developed by Eric Ries and is based on the idea that businesses can use small, rapid experiments to test and validate their assumptions about their customers and markets. Key principles of the lean startup methodology include the "build, measure, learn" cycle, the minimum viable product, and customer development. It is often used in conjunction with agile software development methodologies and has become popular among startups and small businesses as well as larger companies.
+
+It involves a cycle of building a product or feature, measuring how well it performs, and learning from the results in order to make improvements.
+
+Here's how the "build, measure, learn" cycle works:
+
+Build: This step involves creating a product or feature. It can be as simple as a prototype or as complex as a fully-fledged product. The idea is to get something tangible to test as quickly as possible, even if it is not fully polished or complete.
+
+Measure: Once you have built something, the next step is to measure how well it performs. This can involve gathering data on how users interact with the product, analyzing metrics such as conversion rates or user engagement, and soliciting feedback from customers or users.
+
+Learn: Based on the data and feedback you collect, the next step is to learn from the results and make changes to the product or feature as needed. This can involve making improvements, abandoning ideas that aren't working, or pivoting to a different direction altogether.
+
+The "build, measure, learn" cycle is designed to be repeated continuously in order to quickly and efficiently identify what works and what doesn't, and to iterate and improve based on real-world data. The goal is to build a product that meets the needs and desires of the target audience as effectively as possible.
+
+<aside>
+💡  Thought it is popularly called "Build, Measure, Learn" a good way to think about this framework is actually "Learn, Build, Measure." As we've been discussing throughout the course, user-centric design starts with learning about users, then building and testing prototypes. 
+</aside>
+
+There are a few reasons why "learn, build, measure" might be a better way to think about the "build, measure, learn" cycle:
+
+Learning comes first: By starting with the "learn" step, you prioritize the process of gathering and analyzing data and feedback, which is essential for making informed decisions about what to build and how to measure its performance. By starting with learning, you can ensure that you are building and measuring the right things, rather than just building and measuring for the sake of it.
+
+It aligns with the scientific method: The "learn, build, measure" sequence aligns more closely with the scientific method, which involves making observations, forming hypotheses, testing hypotheses, and analyzing results. This can help to make the process of product development more systematic and structured, and can lead to more reliable and accurate results.
+
+It promotes continuous improvement: By starting with learning and iterating through the cycle continuously, you can ensure that you are continually gathering data and feedback and using it to make improvements. This can help to promote a culture of continuous improvement, which can be important for staying competitive in today's fast-paced business environment.
+
+That being said, there is no one "right" way to think about the "build, measure, learn" cycle, and the sequence of steps can vary depending on the specific needs and goals of a business or product.
+
+
+
 
 
 ## What is User Experience (UX) Research?
