@@ -14,10 +14,25 @@ E*stimated Time: XXX hours*
 After completing this lesson, you will be able to:
 
 - Explain why and how MVP framework helps in early product development 
-- Create user personas to 
-- Understand the structure of and draft a product requirements document that aligns stakeholders 
 - Describe the lifecycle of a software product, and how product managers and designers plan for product evolution over time
+- Understand the structure of and draft a product requirements document that aligns stakeholders 
 
+
+## Sections
+
+<aside>
+
+👩🏿‍🏫 Complete this lesson by exploring each section. 
+
+</aside>
+
+[Crafting the MVP](#)
+
+[Product roadmaps](#)
+
+[Documenting product requirements](#)
+
+[Wrap Up](#)
 
 
 ---
