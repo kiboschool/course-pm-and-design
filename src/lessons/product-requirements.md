@@ -26,13 +26,13 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Crafting the MVP](#)
+[Crafting the MVP](lessons/product-requirements/mvp.md)
 
-[Product roadmaps](#)
+[Product roadmaps](lessons/product-requirements/roadmaps.md)
 
-[Documenting product requirements](#)
+[Documenting product requirements](lessons/product-requirements/documentation.md)
 
-[Wrap Up](#)
+[Wrap Up](lessons/product-requirements/wrap-up.md)
 
 
 ---
