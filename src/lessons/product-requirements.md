@@ -9,6 +9,8 @@ E*stimated Time: XXX hours*
 *[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
 
 
+
+
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
