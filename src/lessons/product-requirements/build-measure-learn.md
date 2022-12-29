@@ -10,25 +10,7 @@
 
 </aside>
 
-When we think of successful products like Google Search, Facebook or Spotify, it's easy to forget their modest beginnings. <a href="https://1.bp.blogspot.com/-v7DViedN0Yg/VZrSQMObrDI/AAAAAAAAF74/cYOjPg3Gtis/s1600/FirstVersions_Twitter-interface-Nov2006.png" target="_blank">Here</a> is an image of the very first version of twitter in 2006. The first version of Facebook, then called "The facebook" launched in 2004 and was restricted to just students at Harvard. Its only feature was a profile page and the ability to friend smeone. Many of the features we now associated with Facebook and social networking -- from photo sharing to News Feed or status updates -- came many years after the original launch. 
 
-The art of the launch is tricky. Figuring out what to release and what not to release is difficult. That's why Reid Hoffman, CEO of LinkedIn has a famous quote:
-
-<aside>
-  
-  🗣 **"If you are not embarrassed by the first version of your product, you've launched too late."** — Reid Hoffman, CEO of LinkedIn
-
-</aside>
-
-Eric Ries, the author of The Lean Startup, has a useful corrollary:
-
-<aside>
-  
-  🗣 **"no matter how long you wait to release your first version, you will be embarrassed by it."** — Eric Ries
-
-</aside>
-
-First impressions matter and in many aspects of life, carefully tending to the first impression is critical. Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software developers today follow a lean approach which advocates for releasing a bare-minium version of the product, learning from users, then iterating based on user feedback.  
 
 
 ## Build, Measure, Learn
@@ -67,62 +49,30 @@ That being said, there is no one "right" way to think about the "build, measure,
 
 
 
+## The danger of big bang delivery
+What's so wrong with buiding out an entire software product, then delivering it to users. This approach, sometimes called "big bang delivery" _might_ seem reasonable on the surface. 
+
+Big bang delivery is a software development method in which all of the features and functionality of a software product are delivered to the user at once, rather than being released in increments or stages. The idea is to deliver everything that the user needs all at once, so that they can begin using the software and achieving their desired outcomes as quickly as possible.
+
+There are some potential advantages to big bang delivery, including:
+
+1. Reduced development time: By delivering everything at once, there is less time spent on development and more time spent on use.
+
+2. Reduced costs: Big bang delivery can potentially reduce costs by eliminating the need for multiple releases, which can involve additional development and testing efforts.
+
+3. Improved user experience: By delivering everything that the user needs all at once, there is less waiting and fewer interruptions to the user's workflow.
+
+However, there are also some potential drawbacks to big bang delivery. For example:
+- Deployment risk: It can be risky to deliver everything at once, as there is a greater chance of encountering bugs or other issues that can impact the user's experience.
+- Estimation/prediction It can be difficult to accurately predict and plan for all of the features and functionality that a user will need in advance, which can lead to missed opportunities or an incomplete product.
+- Concentrated risk -- no opportunity to course correct
+
+As a result, big bang delivery is not always the best approach for software development, and it may be more appropriate in some situations than in others. It is important to carefully consider the specific needs and goals of a project and the potential risks and benefits of different delivery methods before deciding on the best approach.
 
 
-## What is User Experience (UX) Research?
-User experience research is a critical part of the design process. 
+Instead of the Big Bang Delivery, iterative development and phased rollout is the right approach. Companies today generally focus on delivering a "minimum viable product" or MVP, i.e., a  minimal, stripped-down version of a product that can be released to users in order to gather data and feedback as quickly as possible. It is not intended to be a fully-fledged product, but rather a means of testing and gathering data on the product's core value proposition.
 
-UX research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
-
-
-  
-
-## Quantitative vs. qualitative research
-Two main types of UX research methods are quantitative and qualitative. 
-
-
-### Quantitative research 
-Quantiative UX research focuses on collecting and analyzing numerical data. This can include surveys, polls, usage logs, or other methods of data collection that provide numerical data which can be analyzed using statistical techniques. Quantitative research is useful to generate a large amount of data from a large sample size, and to make generalizations about a user group or population. This type of research is often used to test hypotheses and identify trends or patterns in user behavior. Some types of questions a UX researcher might answers with quantiative research include:
-- How many active users does the product have each day or each month?
-- What share of people find the call to action on the page?
-- What is the average satisfaction level of users with the product or service?
-
-### Qualitative research
-
-Qualitative UX research focuses on understanding user experiences and behaviors in a more in-depth and nuanced way. This type of research typically involves conducting interviews, focus groups, observations, or other forms of data collection that allow researchers to probe users' thoughts, feelings, and experiences in greater detail. Qualitative research often involves smaller sample sizes and is used to generate rich, detailed insights into user behavior and preferences.
-
-Qualitative ux research differs from quantitative research in that it is less focused on collecting and analyzing numerical data. Instead, it focuses on understanding the underlying reasons behind user behavior and preferences, and on exploring the subjective experiences of users. This type of research is often used to identify trends or patterns that may not be immediately apparent from numerical data, and to gain a deeper understanding of user motivations and behaviors.
-
-<aside> 
-  📺 Watch this video to better understand the differences between qualitative and quantiative research and when to use both
-</aside>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LmWPygSxMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[add a padlet: qualitative vs. quantitative?]
-
-## Attitudinal vs. behaviorial research
-
-
-![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
-
-
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe, i.e., their attitudes, are often different from what they actually do, i.e., their behavior. In order to build impactful products, it's important to understand both what your users believe and how they behave. 
-
-
-
-### Attitudinal research 
-Attitudinal research focuses on understanding the attitudes and beliefs of a user. It typically involves conducting surveys, interviews, or other forms of data collection that allow researchers to explore people's attitudes and beliefs in greater detail. This type of research is often used to identify potential problems or issues with a product or service, to gauge the effectiveness of marketing campaigns, or to understand the underlying reasons behind people's attitudes and beliefs.
-
-### Behaviorial research
-
-Behavioral research focuses on understanding the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve tracking their actions and behaviors through the use of tools like heat maps or click tracking software. This type of research is often used to identify areas for improvement in a product or service, to understand user behavior and preferences, or to inform the design of future products or services.
-
-<aside>
-🤔 Which types of research should you use and when?
-</aside>
-
-## UX Design principle 1: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
+In the next lesson, we'll explore one of the trickiest parts of lean software development: crafting the ideal MVP> 
 
 
 
