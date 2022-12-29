@@ -28,7 +28,9 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Crafting the MVP](lessons/product-requirements/mvp.md)
+[Build, Measure, Learn](product-requirements/build-measure-learn.md)
+
+[Crafting the MVP](product-requirements/mvp.md)
 
 [Product roadmaps](lessons/product-requirements/roadmaps.md)
 
