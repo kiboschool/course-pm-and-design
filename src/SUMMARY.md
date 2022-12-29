@@ -60,6 +60,11 @@
 
 ### Week 6
 - [Week 6: Product Requirements](lessons/product-requirements.md)
+  - [Build, Measure, Learn](lessons/product-requirements/build-measure-learn.md)
+  - [Crafting the MVP](lessons/product-requirements/mvp.md)
+  - [Product Roadmaps](lessons/product-requirements/roadmaps.md)
+  - [Documenting product requirements](lessons/product-requirements/documentation.md)
+  - [Wrap up](lessons/product-requirements/wrap-up.md)
 
 
 ### Week 7
