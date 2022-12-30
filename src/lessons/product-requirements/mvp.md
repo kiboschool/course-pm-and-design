@@ -28,6 +28,10 @@ The drawing above is adapated from a popular blog by Henrik Kniberg where he exp
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/watch?v=0P7nCmln7PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0P7nCmln7PM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </div>
+
 We learn a few key lessons about MVPs from the video:
 - The MVP is the **earliest testable product**. The main goal at this point is to learn.
 - Think big, but deliver in small, functionally valuable increments
