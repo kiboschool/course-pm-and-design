@@ -23,6 +23,7 @@
   - [Empathise & Define: How Might We?](lessons/software-team/empathize-and-define.md)
   - [Ideate: Can We?](lessons/software-team/ideate.md)
   - [Wrap up](lessons/software-team/wrap-up.md)
+  - [Assignment: create concepts](assignment-concept-tests.md)
 
 
 ### Week 2
@@ -33,6 +34,7 @@
   - [Conducting User Research](lessons/ux-research/conducting-research.md)
   - [Concept Testing](lessons/ux-research/concept-testing.md)
   - [Wrap up](lessons/ux-research/wrap-up.md)
+  - [Assignment: create concepts](assignment-concept-tests.md)
 
 ### Week 3
 
