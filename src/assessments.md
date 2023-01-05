@@ -1,25 +1,31 @@
 # Assessments and Grading
 ---
 
-This course will teach you how to go from idea to development-ready software product. You will begin with a user problem (in the form of a "how might we" problem statement). You will then ideate solutions, conduct user research, then craft a UI prototype and product requirements document. There are six assessments total in the course, including the final project. The majority of your assessments are milestones toward your final project.
+There are six assessments in the course, including the final project. The majority of your assessments are milestones toward your final project. Because your work in this course builds on itself, it is critical that you work on projects throughout the term, and not wait until the end.
 
-### Assessment and Grading Summary
+## Assessment and Grading Summary
 
-Your work in this course builds on itself so it is critical that you work on projects throughout the term, and not wait until the end. The table below summarizes how your grades for the course is calculated. **The last day of the term is Friday March 17 and the last day on which any submissions will be accepted is Monday March 20. **
+The table below summarizes how your grades for the course is calculated.
 
-| Assessments                                 | Percent of Course Grade       | Due Date (by 11pm GMT)    
-| :---                                        |    :----:         |  :----:                   
-| Class participation                         | 10%               | N/A                     
-| Concept Creation                             | 10%               | Mon January 23           
-| Final milestone 1: concept test report      | 20%               | Mon February 6           
-| Design replication                          | 5%                | Mon February 6            
-| Final milestone 2: app design               | 20%               | Mon February 27          
-| Information architecture                    | 5%                | Mon February 27           
-| Final project                               | 30%               | Mon March 20             
+| Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
+| :---                                                |    :----:                     |  :----:                   
+| Class participation                                 | 10%                           | N/A                     
+| Concept Creation                                    | 10%                           | Mon January 23           
+| Final project milestone 1: concept test report      | 20%                           | Mon February 6           
+| Design replication                                  | 5%                            | Mon February 6            
+| Final project milestone 2: app design               | 20%                           | Mon February 27          
+| Information architecture                            | 5%                            | Mon February 27           
+| Final project                                       | 30%                           | Mon March 20             
 
-Every missed class will reduce your class participation grade by 10%. Late assignments will incur a 10% penalty for each week that the assignment is late.  **The last day of the term is Friday March 17, and the last day on which any submissions will be accepted is Monday March 20. **
+#### Late submissions
+ 
+- Late submissions will incur a 10% penalty for each week that the assignment is late
+- Every missed class will reduce your class participation grade by 10%
+- **The last day of the term is Friday March 17, and the last day on which any submissions will be accepted is Monday March 20.**
 
-### Assessment Details
+## Assessment Details
+
+Below is a summary of each assessment. Each assessment will have a corresponding page in the course with more details. 
 
 #### Concept Creation (10%)
 Choose an "How Might We" problem and create concepts for user testing<br> 
@@ -42,13 +48,12 @@ In collaboration with 1-2 team members, you will design a solution to a given us
 
 - A complete product requirements document 
 - A prototype, built in Figma, with original UI designs for your product 
-- A recorded presentation (maximum of 7 minutes) explaining the problem, user research and product development process, and final product vision 
+- A recorded presentation explaining the problem, user research and product development process, and final product vision 
 
-
-### Class participation (10%)
-You are expected to attend and participate in class each week. Classes will be a chance for you to practice what you learn in the lesson content, and to give and receive peer feedback. 
+#### Class participation (10%)
+You are expected to attend and participate in live class each week. Classes allow you you to practice what you learn in the lesson content, and to give and receive peer feedback. 
 
 ## How to Submit Your Assignments
 
-All assignments will need to be submitted in Gradescope by their stated due date. You will also need to submit a copy in the Woolf platform for your academic record.
+All assignments must be submitted in Gradescope. You will also need to submit a copy in the Woolf platform for your academic record.
 
