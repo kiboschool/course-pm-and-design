@@ -56,7 +56,7 @@ Note that all times are listed in GMT, please convert to your local timezone.
 
 ## Instructors
 
-Folarin Lawal, folarin@kibo.school<br>
+Folarin Lawal, folarin.lawal@kibo.school<br>
 Ope Bukola, ope@kibo.school
 
 
