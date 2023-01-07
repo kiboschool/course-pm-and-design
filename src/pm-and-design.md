@@ -49,10 +49,10 @@ By the end of the course, you will be able to:
 
 ## Meeting Times
 
-Note that all times are listed in GMT, please convert to your local timezone.
+All times are listed in GMT, please convert to your local timezone.
 
 - Class time: Wednesdays, 5 - 6:30pm GMT
-- Office hours: TBD
+- Office hours: Mondays, 5 - 6pm GMT
 
 ## Instructors
 
