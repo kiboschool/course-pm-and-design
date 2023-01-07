@@ -12,10 +12,9 @@ _6 ECTS Credits_
  A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola 
 </aside>
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
- <iframe src="https://www.youtube.com/embed/6bTtyOR44MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;></iframe>
+<div style="position:relative; padding-bottom: 56.25%; height: 0;">
+ <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/6bTtyOR44MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 ## What you'll learn
 
