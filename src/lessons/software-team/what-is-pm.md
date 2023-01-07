@@ -1,6 +1,6 @@
 # What is Product Management?
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
