@@ -12,7 +12,7 @@ _6 ECTS Credits_
  A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola 
   </aside>
 
-[ToDO: add welcome video]
+<iframe src="https://www.youtube.com/embed/6bTtyOR44MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;></iframe>
 
 ## What you'll learn
 
@@ -62,7 +62,7 @@ Ope Bukola, ope@kibo.school
 
 ## Weekly Topics
 
-- Week 1: Software development teams and Design Thinking
+- Week 1: Software development teams and design thinking
 - Week 2: User experience research
 - Week 3: User interface design basics
 - Week 4: More user interface design
