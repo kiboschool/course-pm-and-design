@@ -1,6 +1,6 @@
 # What is Product Design?
 
-*Estimated Time: 1 hour*
+*Estimated Time: 30 minutes*
 
 ---
 A product designer creates the overall look and functionality of a product. A common misconpception about designers is that they exist _to make software products beautiful_. While there is an aesthetic component to design, beauty is a small part of a designer's job. Good design is focused on both **form** and **function**. 
@@ -23,13 +23,6 @@ In product design, it's common to hear about User Interface (UI) design and User
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.youtube.com/embed/5KUNmgt_pvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
-<aside>
-
-📖 Read: <a href="https://www.uxdesigninstitute.com/blog/ux-vs-ui-design/" target="_blank">UX vs. UI design: What's the difference?</a>
-  
-</aside>
-
-From the video and article, you learn:
 
 - **UI or User Interface design** is concerned with the _interface_ of the product which is the part with which the user interacts. For software products, this is often screens, buttons, voice interfaces or other features that let users interact with a product. UI design is the process of designing how the digital interfaces look and behave, and covers visual and interacitve elements of products such as colors, typography, buttons, scroll functions, andmianos, etc. 
 
