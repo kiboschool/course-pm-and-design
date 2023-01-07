@@ -1,8 +1,5 @@
 
 # Software Development Team
-
-E*stimated Time: XXX hours*
-
 ---
 
 ## Introduction
@@ -29,17 +26,17 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[1.1 Software is a team sport](software-team/basics.md)
+[Software is a team sport](software-team/basics.md)
 
-[1.2 What is Product Management?](software-team/what-is-pm.md)
+[What is Product Management?](software-team/what-is-pm.md)
 
-[1.3 What is Product Design?](software-team/what-is-design.md)
+[What is Product Design?](software-team/what-is-design.md)
 
-[1.4 Design Thinking](software-team/design-thinking.md)
+[Design Thinking](software-team/design-thinking.md)
 
-[1.5 Empathise and Define: How Might We](software-team/empathize-and-define.md)
+[Empathise and Define: How Might We](software-team/empathize-and-define.md)
 
-[1.6 Ideate: Can We?](software-team/ideate.md)
+[Ideate: Can We?](software-team/ideate.md)
 
 [1.7 Wrap up](software-team/wrap-up.md)
 

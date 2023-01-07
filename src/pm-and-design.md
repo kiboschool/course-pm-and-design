@@ -10,9 +10,11 @@ _6 ECTS Credits_
 
 <aside>
  A welcome message from your instructors, product designer Folarin Lawal and product manager Ope Bukola 
-  </aside>
+</aside>
 
-[ToDO: add welcome video]
+<div style="position:relative; padding-bottom: 56.25%; height: 0;">
+ <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/6bTtyOR44MI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## What you'll learn
 
@@ -49,10 +51,10 @@ By the end of the course, you will be able to:
 
 ## Meeting Times
 
-Note that all times are listed in GMT, please convert to your local timezone.
+All times are listed in GMT, please convert to your local timezone.
 
 - Class time: Wednesdays, 5 - 6:30pm GMT
-- Office hours: TBD
+- Office hours: Mondays, 5 - 6pm GMT
 
 ## Instructors
 
@@ -62,7 +64,7 @@ Ope Bukola, ope@kibo.school
 
 ## Weekly Topics
 
-- Week 1: Software development teams and Design Thinking
+- Week 1: Software development teams and design thinking
 - Week 2: User experience research
 - Week 3: User interface design basics
 - Week 4: More user interface design
