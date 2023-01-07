@@ -1,6 +1,6 @@
 # Software is a team sport
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
