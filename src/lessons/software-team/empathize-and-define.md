@@ -32,10 +32,6 @@ Throughout the rest of this course, we'll apply the principles of design thinkin
 ## Define: creating problem statements
 Problem statement are one of the outputs of the "Define" stage of design thinking. Once you begin talking to users and building empathy, you may see many _potential_ problems to address. A well-constructed problem statement is vital for staying focused in the design process. To navigate the often ambigious design process, design teams must constantly come back to the problem they are trying to solve. Without a well-constructed problem statement, it's easy to start building solutions that try to solve too many problems.  
 
-<aside>
-  Reflect: what problem is Kibo School solving? Write a problem statement for Kibo in the padlet below.</aside>
-
-<iframe src="https://padlet.com/embed/qlfa3td62m0w83ev" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p>
 
 A good problem statement is:
 
@@ -78,6 +74,14 @@ A successful HMW statement is neither too narrow to hinder braninstorming nor to
    </aside>
   
   <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/102964749?h=2274197955" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## Practice writing a problem statement
+<aside>
+  Reflect: what problem is Kibo School solving? Write a problem statement for Kibo in the padlet below. Begin with the phrase "How Might We"</aside>
+
+<iframe src="https://padlet.com/embed/qlfa3td62m0w83ev" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p>
+
 
 
 
