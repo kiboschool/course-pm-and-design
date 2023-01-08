@@ -1,5 +1,5 @@
 # Ideate: Can We?
-*Estimated Time: XX hours*
+*Estimated Time: 1 hour*
 
 ---
 

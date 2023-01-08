@@ -3,17 +3,12 @@
 [Course Overview](pm-and-design.md)
 [Assessments & Grading](assessments.md)
 [Assignment: create concepts](assignment-concept-tests.md)
-
-<!--
-
 [Assignment: design replication](assignment-design-replication.md)
 [Assignment: information architecture](assignment-information-architecture.md)
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
 [Live Classes]()
-
--->
 
 
 ## Lessons
@@ -30,7 +25,7 @@
   - [Wrap up](lessons/software-team/wrap-up.md)
 
   
-<!---
+
 
 ### Week 2
 
@@ -85,6 +80,4 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
-
--->
 
