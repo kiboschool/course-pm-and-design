@@ -25,7 +25,7 @@
   - [Wrap up](lessons/software-team/wrap-up.md)
 
   
-<!---
+
 
 ### Week 2
 
@@ -80,6 +80,4 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
-
--->
 
