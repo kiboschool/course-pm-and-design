@@ -1,6 +1,6 @@
 
 # Empathise and Define: How Might We
-*Estimated Time: XX hours*
+*Estimated Time: 1 hour*
 
 ---
 
@@ -10,7 +10,7 @@
   
 </aside>
 
-Throughout the rest of this course, we'll apply the principles of design thinking to develop a software product. We'll engage in an iterative process of developing empathy, defining problems, ideating, then prototyping and testing numerous solutions.  The first two steps of design thinking - empathize and define - focus on understanding the user's problem and defining a clear problem statement. In this lesson, we'll explore a framework for articulating clearly defined problems and launching brainstorms: **How Might We.** This method takes insights from users and frames a question to answer a problem. 
+Throughout the rest of this course, we'll apply the principles of design thinking to develop a software product. We'll engage in an iterative process of developing empathy, defining problems, ideating, then prototyping and testing numerous solutions.  The first two steps of design thinking - empathize and define - focus on understanding the user's problem and defining a clear problem statement. In this lesson, we explore a framework for articulating clearly defined problems: **How Might We.** This method takes insights from users and frames a question to answer a problem. 
 
 
 ## Empathise: talking to and understanding users
@@ -30,14 +30,10 @@ Throughout the rest of this course, we'll apply the principles of design thinkin
 
 
 ## Define: creating problem statements
-Once you begin talking to users and building empathy, you may see many _potential_ problems to address. A well-constructed, valid and effective problem statement is vital for staying focused in the design process and essential to design thinking. To navigate the often ambigious and iterative design process, design teams must constantly come back to the problem they are trying to solve. Without a well-constructed problem statement, it's easy to start building solutions that try to solve too many problems (scope creep).  Problem statement are one of the outputs of the "Define" stage of design thinking. 
+Problem statement are one of the outputs of the "Define" stage of design thinking. Once you begin talking to users and building empathy, you may see many _potential_ problems to address. A well-constructed problem statement is vital for staying focused in the design process. To navigate the often ambigious design process, design teams must constantly come back to the problem they are trying to solve. Without a well-constructed problem statement, it's easy to start building solutions that try to solve too many problems.  
 
-<aside>
-  Reflect: what problem is Kibo School solving? Write a problem statement for Kibo in the padlet below.</aside>
 
-<iframe src="https://padlet.com/embed/qlfa3td62m0w83ev" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p>
-
-A good problem statement has some important elements:
+A good problem statement is:
 
 #### Centered on the user
 Problem statements are generated from research insight about users and their needs
@@ -68,7 +64,7 @@ From the video and reading, we learn:
 To help launch impactful brainstorms by creating a seed that is broad enough to enable a wide range of solutions 
 
 #### How to generate HMWs?
-Start with user research. Conduct or review user research and generate a strong point of view or problem statement of the user challenges. Review the user challenge and look for aspects of it that can help complete the sentence, "How might we..." 
+Start with user research. Conduct or review user research then look for aspects of it that can help complete the sentence, "How might we..." 
 
 
 #### What's the right level of scope?
@@ -78,6 +74,14 @@ A successful HMW statement is neither too narrow to hinder braninstorming nor to
    </aside>
   
   <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://player.vimeo.com/video/102964749?h=2274197955" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
+
+## Practice writing a problem statement
+<aside>
+  Reflect: what problem is Kibo School solving? Write a problem statement for Kibo in the padlet below. Begin with the phrase "How Might We"</aside>
+
+<iframe src="https://padlet.com/embed/qlfa3td62m0w83ev" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p>
+
 
 
 

@@ -1,12 +1,12 @@
 # Software is a team sport
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
 ## The Myth of the Lone Coder
 
-Popular culture sometimes presents a certain image for the process of building a digital product: a lone genius, typically a (white) guy in a hoodie, is hunched over a computer with coffee or diet coke. He codes furiously and some time later, dishelved but victorious, emerges with a website or app that changes the world and makes him a billionaire.
+Popular culture sometimes presents a certain image for how software is built: a lone genius, typically a (white) guy in a hoodie, is hunched over a computer with coffee or diet coke. He codes furiously and some time later, dishelved but victorious, emerges with a website or app that changes the world and makes him a billionaire.
 
 🚩🚩🚩
 

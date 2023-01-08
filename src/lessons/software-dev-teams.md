@@ -22,7 +22,7 @@ After completing this lesson, you will be able to:
 
 <aside>
 
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
+👩🏿‍🏫 Complete this lesson by exploring each section
 
 </aside>
 
@@ -38,6 +38,6 @@ After completing this lesson, you will be able to:
 
 [Ideate: Can We?](software-team/ideate.md)
 
-[1.7 Wrap up](software-team/wrap-up.md)
+[Wrap up](software-team/wrap-up.md)
 
 ---

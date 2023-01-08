@@ -28,6 +28,7 @@
   - [Empathise & Define: How Might We?](lessons/software-team/empathize-and-define.md)
   - [Ideate: Can We?](lessons/software-team/ideate.md)
   - [Wrap up](lessons/software-team/wrap-up.md)
+
   
 <!---
 
