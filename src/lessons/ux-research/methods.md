@@ -13,7 +13,7 @@
 In the previous lesson, we learned about broad approaches to UX research. In this lesson, we'll focus on _techniques_ for UX research. The aim of this lesson is to provide an overview of different user research tactics. In future lessons and your final project, you'll have the opportunity to put some of these techniques into practice. 
 
 <aside> 
-  📺 Watch this video to get an overview of different research methods in a product's lifecycle
+  📺 Watch this video to get an overview of different research methods
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/7_sFVYfatXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
