@@ -1,6 +1,6 @@
 # User Experience (UX) Research
 
-E*stimated Time: XXX hours*
+E*stimated Time: 3 hours*
 
 ---
 
@@ -24,9 +24,11 @@ After completing this lesson, you will be able to:
 
 <aside>
 
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
+👩🏿‍🏫 Complete this lesson by exploring each section. 
 
 </aside>
+
+[Prearing for class](ux-research/class-prep.md)
 
 [What is UX research?](ux-research/basics.md)
 
