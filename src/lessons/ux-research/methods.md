@@ -1,7 +1,7 @@
 
 # User Research Methods
 
-*Estimated Time: XX hours*
+*Estimated Time: 1 hour*
 
 ---
 
