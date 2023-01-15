@@ -52,7 +52,7 @@ In this part of the assignment, you will create concepts for your How Might We. 
 
 For examples of product concepts, review:
 - <a href="https://docs.google.com/presentation/d/1CaFZErNJJdSBo8OQ2soClA7eNRiv4fnErAyUyd80fUw/edit" target="_blank"> Bookworm</a>, a set of concepts for the problem: "How might we encourage people to read more books"
-- The intro to concept testing video, and the slides for the HMW: "How might we empower individuals to take more control of their careers, and experience more meaning at work?"
+- The intro to concept testing video, and slides from [lesson 2.4](lessons/ux-research/concept-testing.md)
 
 
 ## Submission
