@@ -13,10 +13,9 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Understand the basics of UX research methods and the importance of user research in creating impactful products
+- Understand the basics of UX research and how research supports product development
 - Understand how and when to use different UX research methods
-- Understand UX research process, specifically how to plan and facilitate usability research studies 
-- Plan, write, and conduct concept tests with end-users
+- Plan, and conduct concept tests with participants
 - Analyze the results of UX research and distill research findings into actionable insights
 
 
@@ -29,14 +28,14 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[What is UX research?](lessons/ux-research/basics.md)
+[What is UX research?](ux-research/basics.md)
 
-[UX Research Methods](lessons/ux-research/methods.md)
+[UX Research Methods](ux-research/methods.md)
 
-[Conducting User Research](lessons/ux-research/conducting-research.md)
+[Conducting User Research](ux-research/conducting-research.md)
 
-[Concept Testing](lessons/ux-research/concept-testing.md)
+[Concept Testing](ux-research/concept-testing.md)
 
-[Assignment](lessons/ux-research/assignment.md)
+[Assignment](ux-research/assignment.md)
 
 ---
