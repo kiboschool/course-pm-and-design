@@ -1,5 +1,5 @@
 # Introduction to Concept Testing
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
