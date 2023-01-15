@@ -69,9 +69,7 @@ Behavioral research focuses on understanding the actions and behaviors of users 
 💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
 
 
-## User research quiz
 
-<div data-tf-widget="KEYpn8Mu" data-tf-opacity="100" data-tf-iframe-props="title=UX research quiz" data-tf-transitive-search-params style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 ## Optional Resources
 
