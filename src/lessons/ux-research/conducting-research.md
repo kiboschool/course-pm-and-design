@@ -70,7 +70,7 @@ _Note: the video above works well when conducting a usability test. The general 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/yBYd5USasXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
   </div>
   
-  ## Reflect: 
+  ## Reflect: interview mistakes to avoid
   <aside>
   📺 Which user interview mistake do you think you're most likely to make? How will you mitigate this?
  </aside>
