@@ -1,6 +1,6 @@
 # User Experience Research Basics
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
