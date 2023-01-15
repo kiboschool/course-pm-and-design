@@ -2,7 +2,7 @@
 -----
 <aside>
   
-  📝 **Due Date: Monday February 6, 2023 at 11:59pm GMT**
+  📝 **Due Date: Monday February 6, 2023 at 11pm GMT**
  
 </aside>
 
