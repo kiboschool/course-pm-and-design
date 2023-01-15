@@ -3,12 +3,12 @@
 
 ---
 
-This lesson introduces concept testing, a UX research method that allows you to validate early ideas, and helps you move forward with the right concepts.
+This lesson introduces concept testing, a UX research method that allows you to validate early ideas and discern product direction. 
 
 
 ## What is a concept test?
 <aside>
-  📺 Watch this video on how to do a user interview
+  📺 Watch this video introduction to concept testing
  </aside>
  
  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
@@ -20,15 +20,15 @@ This lesson introduces concept testing, a UX research method that allows you to 
  
  
 ## Benefits of concept testing
-- Deepen understanding: engaging users enables you to better understand the problem
-- Reduce risks: by using a concept test, you can test ideas early and save time and budget before full design 
+- Deepen understanding: engage users to better understand the problem
+- Reduce risks: test ideas early and save time before full design 
 - Discover new insights and opportunities
 
 ## When to run a concept test
-Concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. Keep in mind that the slide format shown in the video is not the only way to do a concept test, but it's the one we'll employ in this class. 
+Concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. The slides format shown in the video is not the only way to do a concept test, but it's the one we'll use in this class. 
 
 ## How to run a concept test
-The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach
+The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach:
 
 1. Determine your goals 
 2. Recruit participants 
