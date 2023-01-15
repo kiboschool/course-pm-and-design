@@ -57,3 +57,11 @@ You are expected to attend and participate in live class each week. Classes allo
 
 All assignments must be submitted in Gradescope. You will also need to submit a copy in the Woolf platform for your academic record.
 
+<aside> Watch the video below to learn how to submit your assignment in Gradescope</aside>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/HrYJGTnNnzU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+></iframe>
+</div>
+
+
+

@@ -1,22 +1,25 @@
 # User Experience (UX) Research
 
-E*stimated Time: XXX hours*
+E*stimated Time: 3 hours*
 
 ---
 
 ## Introduction
 
-*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/3MIvwmCioBo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+></iframe>
+</div>
+
 
 
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
 
-- Understand the basics of UX research methods and the importance of user research in creating impactful products
+- Understand the basics of UX research and how research supports product development
 - Understand how and when to use different UX research methods
-- Understand UX research process, specifically how to plan and facilitate usability research studies 
-- Plan, write, and conduct concept tests with end-users
+- Plan, and conduct concept tests with participants
 - Analyze the results of UX research and distill research findings into actionable insights
 
 
@@ -25,18 +28,20 @@ After completing this lesson, you will be able to:
 
 <aside>
 
-👩🏿‍🏫 Complete this lesson by exploring each section. You should finish at least the first 3 lessons _before_ our live class.
+👩🏿‍🏫 Complete this lesson by exploring each section. 
 
 </aside>
 
-[What is UX research?](lessons/ux-research/basics.md)
+[Prearing for class](ux-research/class-prep.md)
 
-[UX Research Methods](lessons/ux-research/methods.md)
+[What is UX research?](ux-research/basics.md)
 
-[Conducting User Research](lessons/ux-research/conducting-research.md)
+[UX Research Methods](ux-research/methods.md)
 
-[Concept Testing](lessons/ux-research/concept-testing.md)
+[Conducting User Research](ux-research/conducting-research.md)
 
-[Assignment](lessons/ux-research/assignment.md)
+[Concept Testing](ux-research/concept-testing.md)
+
+[Assignment](ux-research/assignment.md)
 
 ---

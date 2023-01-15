@@ -33,6 +33,7 @@
 ### Week 2
 
 - [Week 2: User Research](lessons/ux-research.md)
+  - [Preparing for class](lessons/ux-research/class-prep.md)
   - [What is UX research?](lessons/ux-research/basics.md)
   - [UX Research Methods](lessons/ux-research/methods.md)
   - [Conducting User Research](lessons/ux-research/conducting-research.md)

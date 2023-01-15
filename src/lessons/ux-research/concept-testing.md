@@ -1,44 +1,40 @@
 # Introduction to Concept Testing
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
-<aside>
-  
-  🗣 "......" — Person
-</aside>
-
-This lesson introduces concept testing, a UX research method that allows you to validate early ideas, and helps you move forward with the right concepts.
+This lesson introduces concept testing, a UX research method that allows you to validate early ideas and discern product direction. 
 
 
 ## What is a concept test?
 <aside>
-  📺 Watch this video on how to do a user interview
+  📺 Watch this video introduction to concept testing
  </aside>
  
- TODO: Ope to record a video lecture of the slides below
+ <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BuwzaiU9Uoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  </div>
  
- <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRIlABKKzO5ecadCyQ_JivKmce8EXTwbWoGDUdYs32wHWT8OdfC7RPYukKZyOz5tV7NKba02mmSa7he/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+ <a href="https://docs.google.com/presentation/d/1FRk2L-6ge5Ni8pXElg4pxkQNEASqW4fai2ZmRIZosIw/edit?usp=sharing" target="_blank"> Access the slides from the video here</a>
  
-
  
  
 ## Benefits of concept testing
-- Save time and money: by using a concept test, you can learn on a budget, and fail fast and early. 
-- Gain confidence: you'll feel 
+- Deepen understanding: engage users to better understand the problem
+- Reduce risks: test ideas early and save time before full design 
 - Discover new insights and opportunities
 
 ## When to run a concept test
-As explained in the video, concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. Keep in mind that the slide format shown in the video is not the only way to do a concept test, but it's the one we'll employ in this class. Concept tests can also be useful in the design phase, to test particular design concepts (e.g., the layout of an app)
+Concept tests are useful in the discovery stage of product development, when you are trying to figure out which ideas are worth moving forward with. The slides format shown in the video is not the only way to do a concept test, but it's the one we'll use in this class. 
 
 ## How to run a concept test
-The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach
+The steps to running a concept test are the same as the ones outlined in the previous lesson on conducting user reseach:
 
 1. Determine your goals 
 2. Recruit participants 
-3. Create a script and questions 
+3. Create an interview guide. <a href="https://docs.google.com/document/d/15Yrog_oAWJWPjYYlOXfOp8AzBl11bWHeihO5_b00TkE/edit?usp=sharing" target="_blank"> This </a> is a template for interviewing. 
 4. Conduct the test
-5. Analyze your results
+5. Analyze and summarize your results
 
 
 

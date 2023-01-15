@@ -26,9 +26,9 @@ Look through the list of HMW questions below and select one that you will design
 
 
 ### Brainstorm ideas, i.e., "Can We"
-Brainstorm potential solutions for your chosen HMW. Your solution should start with "Can We"
-You should brainstorm a minimum of 30 ideas, including at least 10 "bad ideas." Some tips for brainstorming
-- If you can, try to find synchronous time for your brainstorm. If you don't have time you can brainstorm asynchronously in Discord. 
+Brainstorm potential solutions for your chosen HMW. Your solution should start with "Can We."
+You should brainstorm a minimum of 30 ideas, including at least 10 "bad ideas." Some tips for brainstorming:
+- Try to find synchronous time for your brainstorm. If you don't have time you can brainstorm asynchronously in Discord. 
 - Creative block? Try the Crazy 8s activity described in lesson 1.6 
 
 
@@ -52,17 +52,26 @@ In this part of the assignment, you will create concepts for your How Might We. 
 
 For examples of product concepts, review:
 - <a href="https://docs.google.com/presentation/d/1CaFZErNJJdSBo8OQ2soClA7eNRiv4fnErAyUyd80fUw/edit" target="_blank"> Bookworm</a>, a set of concepts for the problem: "How might we encourage people to read more books"
-- The intro to concept testing video, and the slides for the HMW: "How might we empower individuals to take more control of their careers, and experience more meaning at work?"
+- The intro to concept testing video, and slides from [lesson 2.4](lessons/ux-research/concept-testing.md)
 
 
 ## Submission
 
-- Update the permission on your concept slide deck so that anyone at Kibo School with the link can comment
+#### (1) Update the slide permission so that anyone at Kibo School with the link can comment
 ![Sharing](https://user-images.githubusercontent.com/1774663/211173086-1aea718f-de61-4f5f-bb86-ec133bdabe6e.gif)
 
 
-- Submit a link to the slide deck in Gradescope
-- Download and submit a PDF copy of your concept deck in Woolf
+#### (2) Submit your assignment in Gradescope
+- Each team member must submit separately
+- Watch <a href="https://youtu.be/HrYJGTnNnzU" target="_blank">this video</a> to learn how to submit using online assignment type in Gradescope
+- In addition to a link to your slides, you will answer the following questions about your collaboration:
+    -  Summarize your individual contribution to this group assignment/project.
+    -  How balanced were the efforts of the group members? Did everyone do his or her fair share of work?
+    -  If you had done this by yourself, would the outcome have been better or worse?
+    -  Given the choice, would you work with the same group again?
+    -  (Optional) Is there anything else you want to share with instructors about the way your team worked together?
+
+#### (3) Download and submit a PDF copy of your concept deck in Woolf
 
 
 
