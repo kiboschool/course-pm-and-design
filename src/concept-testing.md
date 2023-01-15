@@ -23,7 +23,7 @@ It’s important that you organize and gather the tools you need to make your te
 
  - Your concepts in Google slides 
  - Your test script in Google docs. The script will narrate what the facilitator will say, the questions which will be asked during the interview and will be for taking notes during the interview. 
- - - Make a copy of [this interview guide](https://docs.google.com/document/d/15Yrog_oAWJWPjYYlOXfOp8AzBl11bWHeihO5_b00TkE/edit?usp=sharing)
+ - - Make a copy of <a href="https://docs.google.com/document/d/15Yrog_oAWJWPjYYlOXfOp8AzBl11bWHeihO5_b00TkE/edit?usp=sharing" target="_blank">this interview guide</a>
  - - Share the copy with all members of your squad, and work to edit and create the guide 
  - Google Calendar which you will use to schedule dates and times for your concept tests with participants
  - Zoom to conduct concept tests and record the interview. Note that your Google Meet education account does not support recording as that is a paid features, so we recommend using Zoom. Alternatively, you may choose to conduct your testing live in person. In this case, it is recommend to use a recorder on your phone or computer to capture what participants say and do. 
