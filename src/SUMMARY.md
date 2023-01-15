@@ -3,11 +3,11 @@
 [Course Overview](pm-and-design.md)
 [Assessments & Grading](assessments.md)
 [Assignment: create concepts](assignment-concept-tests.md)
+[Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Live Classes](live-classes.md)
 <!--
 [Assignment: design replication](assignment-design-replication.md)
 [Assignment: information architecture](assignment-information-architecture.md)
-[Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
 
@@ -28,7 +28,7 @@
   - [Wrap up](lessons/software-team/wrap-up.md)
 
   
-<!--
+
 
 ### Week 2
 
@@ -40,6 +40,7 @@
   - [Concept Testing](lessons/ux-research/concept-testing.md)
   - [Wrap up](lessons/ux-research/wrap-up.md)
 
+<!--
 ### Week 3
 
 - [Week 3: UI Design Basics](lessons/ui-design-basics.md)
