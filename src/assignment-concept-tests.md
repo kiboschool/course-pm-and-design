@@ -64,7 +64,7 @@ For examples of product concepts, review:
 #### (2) Submit your assignment in Gradescope
 - Each team member must submit separately
 - Watch <a href="https://youtu.be/HrYJGTnNnzU" target="_blank">this video</a> to learn how to submit using online assignment type in Gradescope
-- In addition to a link to your slides, you will be asked to answer the following questions about your collaboration:
+- In addition to a link to your slides, you will answer the following questions about your collaboration:
     -  Summarize your individual contribution to this group assignment/project.
     -  How balanced were the efforts of the group members? Did everyone do his or her fair share of work?
     -  If you had done this by yourself, would the outcome have been better or worse?
