@@ -12,7 +12,6 @@
 [Final Project](final-project.md)
 
 
--->
 
 ## Lessons
 
@@ -85,5 +84,3 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
-
--->
