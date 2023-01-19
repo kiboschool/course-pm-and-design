@@ -48,7 +48,7 @@ In this part of the assignment, you will create concepts for your How Might We. 
   - Then, each slide should include a concept (more on that below)
 - Revisit the solutions ("Can we") that you brainstormed to your HMW concept. Group similar ideas together to create product "concepts" then create a slide for each concept. You should have 4-6 product concept slides. Each concept slide should include:
   - A written headline that describes the category of idea. Optionally, you may add a written subtitle with more information
-- 2 - 4 product feature ideas, represented by both an image and some text 
+  - 2 - 4 product feature ideas, represented by both an image and some text 
 
 For examples of product concepts, review:
 - <a href="https://docs.google.com/presentation/d/1CaFZErNJJdSBo8OQ2soClA7eNRiv4fnErAyUyd80fUw/edit" target="_blank"> Bookworm</a>, a set of concepts for the problem: "How might we encourage people to read more books"
