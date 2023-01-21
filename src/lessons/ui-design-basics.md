@@ -1,7 +1,7 @@
 
 # UI Design Basics
 
-E*stimated Time: XXX hours*
+E*stimated Time: 3 hours
 
 ---
 
