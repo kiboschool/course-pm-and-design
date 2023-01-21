@@ -7,7 +7,7 @@ E*stimated Time: 3 hours
 
 ## Introduction
 
-Intro video goes here
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e67A_6KSJ8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## **Learning Outcomes**
