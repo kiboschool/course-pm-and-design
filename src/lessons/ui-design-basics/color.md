@@ -12,7 +12,8 @@ Color is a major aspect of UI design. It has the ability to heavily influence ho
   📺 Watch this video on color psychology
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8J0nbuunDXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/8J0nbuunDXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 For a deeper divide into the positive and negative effects of colors read the article below.
