@@ -5,11 +5,12 @@
 [Assignment: create concepts](assignment-concept-tests.md)
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Live Classes](live-classes.md)
+<!--
 [Assignment: design replication](assignment-design-replication.md)
 [Assignment: information architecture](assignment-information-architecture.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
-
+-->
 
 
 ## Lessons
@@ -48,7 +49,7 @@
   - [Introduction to Figma](lessons/ui-design-basics/introduction-to-Figma.md)
   - [Wrap up](lessons/ui-design-basics/wrap-up.md)
 
-
+<!--
 ### Week 4
 
 - [Week 4: More UI Design](lessons/more-ui-design.md)
@@ -83,3 +84,4 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
+-->
