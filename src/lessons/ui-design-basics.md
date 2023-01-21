@@ -1,7 +1,7 @@
 
 # UI Design Basics
 
-E*stimated Time: 3 hours
+Estimated Time: 3 hours
 
 ---
 
