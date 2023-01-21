@@ -1,5 +1,5 @@
 # Basic Principles of UI Design
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -7,13 +7,13 @@ When designing UI’s there are some basic principles that should be kept in min
 
 
 ## Alignment
-We touched on alignment briefly under typography but what does alignment mean in context of UI design as a whole? That's what we’ll discuss here. Alignment refers to how elements (images, illustrations, buttons, icons, text, etc) in a design are ordered and how they connect/relate to each other. Elements can either be left, right or center aligned. Having aligned elements gives the users a place to snap their focus to and dictates to them, in what order, they should consume the content in your design. An example of a webpage using this principle is below. 
+We touched on alignment briefly under typography but what does alignment mean in the context of UI design as a whole? That's what we’ll discuss here. Alignment refers to how elements (images, illustrations, buttons, icons, text, etc) in a design are ordered and how they connect/relate to each other. Elements can either be left, right or center aligned. Having aligned elements gives the users a place to snap their focus to and dictates to them, in what order, they should consume the content in your design. An example of a webpage using this principle is below. 
 
 ![Alignment image](https://user-images.githubusercontent.com/28001435/202082953-d902320f-e4fc-4ac4-8291-7e98c15c83f6.png)
 ###### Image 1
 
 
-In the example above, the webpage has left, right and center aligned elements. At the top of the webpage we see that the text and buttons are aligned to the left while the illustration is aligned to the right. In the second section, we see that the clients' logos are center aligned on the page. In section three, the text and button are aligned to the right while the illustration is aligned to the left (just like at the top of the webpage), this switches though in section four where the text and button are aligned to the right and the illustration is aligned to the left. This shows how all through the design elements are aligned and have order. We can also see that the designer didn’t use just one type of alignment all through the design (which there’s nothing wrong with) rather the alignment switched back and forth as the page progressed (i.e text started off left aligned, then center aligned, then left aligned again, then right aligned).
+In the example above, the webpage has left, right and center aligned elements. At the top of the webpage we see that the text and buttons are aligned to the left while the illustration is aligned to the right. In the second section, we see that Digismoothie's clients' logos are center aligned on the page. In section three, the text and button are aligned to the right while the illustration is aligned to the left (just like at the top of the webpage), this switches though in section four where the text and button are aligned to the right and the illustration is aligned to the left. This shows how all through the design elements are aligned and have order. We can also see that the designer didn’t use just one type of alignment all through the design (which there’s nothing wrong with) rather the alignment switched back and forth as the page progressed (i.e text started off left aligned, then center aligned, then left aligned again, then right aligned).
 
 
 ## Balance
@@ -55,7 +55,7 @@ One thing to keep in mind here is that contrast in design isn’t always in rela
 
 ## Hierarchy
 
-We’ve spoken about hierarchy under typography but it doesn’t just apply to typefaces, it applies to all elements in a design. Hierarchy involves structuring and presenting elements in a way that the information is consumed in the order you, as the designer, expect it to be. The most important information/elements should stand out the most and the least important should stand out the least. For example the major call to action (button) on an e-commerce website page might be “Add to Cart”, that same page may also contain a “View Product Details” call to action. Hierarchy can be used to show that the “Add to Cart” button is the major call to action by making “Add to Cart” a filled button and making “View Product Details” a text button (filled buttons stand out a lot more than text buttons). Examples of hierarchy can be seen below.
+We’ve spoken about hierarchy under typography but it doesn’t just apply to typefaces, it applies to all elements in a design. Hierarchy involves structuring and presenting elements in a way that the information is consumed in the order, you as the designer, expect it to be. The most important information/elements should stand out the most and the least important should stand out the least. For example the major call to action (button) on an e-commerce website page might be “Add to Cart”, that same page may also contain a “View Product Details” call to action. Hierarchy can be used to show that the “Add to Cart” button is the major call to action by making “Add to Cart” a filled button and making “View Product Details” a text button (filled buttons stand out a lot more than text buttons). Examples of hierarchy can be seen below.
    
     
 <img width="667" alt="heirarchy img 1" src="https://user-images.githubusercontent.com/28001435/202327133-818f971e-4f68-4af4-ad2e-7701859add91.png">
@@ -63,7 +63,7 @@ We’ve spoken about hierarchy under typography but it doesn’t just apply to t
 ###### Image 5 
 
 
-In image 5, most of the buttons in the navigation menu at the top of the page are text buttons written in gray text but the major button - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has a higher hierarchy than the other navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
+In image 5, the navigation buttons in the menu at the top of the page are written in gray text but the major call to action (CTA) - “Boost my Shopify” - is a filled button with black text and a purple border. This shows that the “Boost my Shopify” button has higher hierarchy than the navigation buttons and is most likely the first button users will notice in the navigation menu. The two buttons in the top sections of the webpage are also good examples of hierarchy. The primary call to action is “Get in touch” so that's the most obvious button and is the first button from the left. The second, less pronounced button is “What we do”. Both buttons are filled buttons showing that their functions are similar in importance, by using color though, the one which is slightly more important is made more prominent. 
 
   
     
@@ -71,7 +71,7 @@ In image 5, most of the buttons in the navigation menu at the top of the page ar
 ###### Image 6       
 
 
-In image 6, two of the icons at the bottom are gray while one is purple. The purple icon shows which page the user is currently viewing while the gray icons show the other two pages in the app. The purple icon is more noticeable than the gray ones and therefore has a higher hierarchy meaning it’s most likely the icon users will see first. 
+In image 6, two of the icons at the bottom are gray while one is purple. The purple icon shows which page the user is currently viewing while the gray icons show the other two pages in the app. The purple icon is more noticeable than the gray ones and therefore has higher hierarchy meaning it’s most likely the icon users will see first. 
 
 
 ## Proximity
@@ -83,7 +83,7 @@ Proximity refers to how closely related two elements in a design are. As with ot
 ###### Image 7    
 
 
-In image 7, the red lines show how proximity is used to show that the overline, heading and body text are related to each other. Proximity is also used to show that even though the two paragraphs are separate, they’re still closely related. The first paragraph is the “First City to Visit” and the second paragraph is the “Second City to Visit”, both paragraphs contain overline, heading and body text. The display text on the other hand is further away from the two paragraphs but not far enough for us to assume that it's not related. This tells us that it's the overarching title for this whole body of text. 
+In image 7, the red lines show how proximity is used to show that the overline, heading and body text are related to each other. Proximity is also used to show that even though the two paragraphs are separate, they’re still closely related. The first paragraph is the “First City to Visit” and the second paragraph is the “Second City to Visit”, both paragraphs contain overline, heading and body text. The display text on the other hand (Best in Travel) is further away from the two paragraphs but not far enough for us to assume that it's not related. This tells us that it's the overarching title for this whole body of text. 
 
 
     
@@ -91,7 +91,7 @@ In image 7, the red lines show how proximity is used to show that the overline, 
 ###### Image 8
 
 
-In image 8, the red line shows how bodies of text that are not related to each other are separated by quite a bit of space. The green line shows how bodies of text that are similar to each other but still separate are much closer. The blue line shows how text that are pieces of the same body of text are very close to each other. The orange rectangles show how proximity of the design of two elements shows that they have similar functions but are different. All the elements in the orange rectangles are buttons that lead to other parts of the website. The text is gray because they’re less important than the other things on the page. In one section though, a gray border is placed around the text. This shows that even though these elements are similar, the buttons with borders are still more relevant than the ones without. This is a good example of how proximity of the design of elements can show that they’re related but still slightly different.  
+In image 8, the red line shows how bodies of text that are not related to each other are separated by quite a bit of space. The green line shows how bodies of text that are similar to each other but still separate are much closer. The blue line shows how text that are pieces of the same body of text are very close to each other. The orange rectangles show how proximity of the design of two elements shows that they have similar functions but are different. All the elements in the orange rectangles are buttons that lead to other parts of the website. The text is gray because they’re less important than the other things on the page. In one section though, ghost buttons are used while in the other text buttons are used. This shows that even though these elements are similar, the ghost buttons are still more relevant than the text buttons. This is a good example of how proximity of the design of elements can show that they’re related but still slightly different.  
 
 
 ## Repetition
@@ -110,6 +110,8 @@ In image 9, the red lines show how the styles of posts are repeated on Medium. T
 
 Space may sound weird as a design principle but it's definitely important. Leaving enough space between and around elements in a design helps to direct users' focus and allow other principles like proximity, repetition, contrast, color, balance, alignment, etc to shine. This doesn't mean designs should be full of empty space, that can look equally as unappealing as not having enough space. Space should be used tactically to make design easier to process and digest. It also adds an element of simplicity to designs. The simpler a design is the better. Examples of how space can be used to make other principles stand out can be seen in many of the images shared in this lesson. 
 
+
+## Summary
 
 Understanding these 8 principles and how they come together to uplift your designs are important to designing seamless, intuitive and beautiful user interfaces. Even for people who may not have an eye for design or a creative edge, applying these principles is enough to help anyone create good designs. These principles are also useful as a basis when trying to critique or analyze other people's designs. It’s important to note that these principles are guides. An early stage designer would be best off sticking with these principles, an expert though, might not follow all these principles or tactically experiment with intentionally breaking some of them. 
 

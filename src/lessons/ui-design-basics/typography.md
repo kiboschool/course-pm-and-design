@@ -1,24 +1,24 @@
 # Typography
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
 ## What is Typography?
 
-Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/ experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
+Typography is a part of UI/UX (user interface and user experience) design that involves the use of typefaces ( or font families) to create readable, usable and user-friendly interfaces/experiences. Good typography enhances users’ digital experiences, optimizes usability, catches users’ attention and has the potential to increase conversion rates. We’ll go into more detail about usability and conversion rates later on in this course.
   
  
 ## Useful Typography Terms
   
 ### Typeface
   
-Typeface which is also known as a font family refers to the faces of physical letter blocks. Typefaces are composed of fonts, much like an album is composed of tracks or a book is composed of chapters. Typefaces include multiple font weights which share styles across all their characters, numbers and symbols. Arial, Times New Roman and, yes, even Comic Sans are all typefaces. 
+Typeface, which is also known as a font family, refers to the faces of physical letter blocks. Typefaces are composed of fonts, much like an album is composed of tracks or a book is composed of chapters. Typefaces include multiple font weights which share styles across all their characters, numbers and symbols. Arial, Times New Roman and, yes, even Comic Sans are all typefaces. 
 
-There are many types of typefaces but for this course we’ll focus on the two which are most prevalent in UI design which are Serif and San Serif.   
+There are many types of typefaces but for this course we’ll focus on the two which are most prevalent in UI design which are Serif and Sans Serif.   
  
  
-### Serif and San Serif Typefaces
+### Serif and Sans Serif Typefaces
     
 Serif’s are typefaces which have strokes on them. While sans-serifs are typefaces which do not have strokes. A good way to remember this is that “serif” translates directly into “stroke” while “sans-serif” translates directly into “no stroke”. Below are examples of serif and sans-serif fonts.
   
@@ -32,7 +32,7 @@ An image showing the difference between serif and sans-serif fonts is below.
 
 
 #### Exercise
-There are 10 fonts listed below. Search for the fonts on google fonts and separate them into serif and sans-serif fonts. Once you’ve separated them check the answers below to see how you did. 
+There are 10 fonts listed below. Search for the fonts on [google fonts](https://fonts.google.com) and separate them into serif and sans-serif fonts. Once you’ve separated them check the answers below to see how you did. 
 
 Lato, Arvo, Raleway, Domine, Martel, Oswald, Rokkitt, Prata, Inter, Ubuntu
 
@@ -75,7 +75,7 @@ Hierarchy can be used to show the order and importance of text on a page. Size, 
   
   
 ![Type Hierarchy](https://user-images.githubusercontent.com/28001435/200084813-1f464093-999e-46e6-974d-32edcbfe7777.png)
-Image showing heirarchy in a body of text - [source - ]
+Image showing heirarchy in a body of text 
    
   
 ![1*NUOeExtZwIhxQ4EMjaUTiQ](https://user-images.githubusercontent.com/28001435/200085037-46a84dcf-380f-49d7-bfca-c3e497678ad7.png)
@@ -144,7 +144,7 @@ Some fonts are free while others are paid. At this stage it’s advisable to use
 - Body text should be no less than 16px for readability.
 - Use a line spacing between 130% - 180% depending on the typeface. When in doubt use 150%.
 - Dont not use full black (hex code #000000) on full white (hex code #FFFFFF) backgrounds.
-- Text is your UI designs should either be left, right or center aligned. 
+- Text in your UI designs should either be left, right or center aligned. 
 - Use no more than two typefaces in your designs.
 - When combining two typefaces in your design, check to make sure they complement each other.
 - Use white space to show which blocks of text are more related to each other and which are less.
