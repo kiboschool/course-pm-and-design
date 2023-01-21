@@ -1,5 +1,5 @@
 # Basic Principles of UI Design
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
