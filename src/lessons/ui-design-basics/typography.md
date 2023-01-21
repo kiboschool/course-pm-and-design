@@ -144,7 +144,7 @@ Some fonts are free while others are paid. At this stage it’s advisable to use
 - Body text should be no less than 16px for readability.
 - Use a line spacing between 130% - 180% depending on the typeface. When in doubt use 150%.
 - Dont not use full black (hex code #000000) on full white (hex code #FFFFFF) backgrounds.
-- Text is your UI designs should either be left, right or center aligned. 
+- Text in your UI designs should either be left, right or center aligned. 
 - Use no more than two typefaces in your designs.
 - When combining two typefaces in your design, check to make sure they complement each other.
 - Use white space to show which blocks of text are more related to each other and which are less.
