@@ -10,7 +10,7 @@ Below is the live class schedule.
 | :---  |    :----:   |  :----:                                 |   :----:  |    :----:  
 | 1    | Jan 11  |  Introduction to Design Thinking | <a href="https://youtu.be/Wjra-7IZv78" target="_blank"> YouTube</a> | <a href="https://drive.google.com/file/d/1qv98U1WNhFdW1s4zd21hnoBgPJyk_FCA/view?usp=share_link" target="_blank">Slides</a>
 | 2 | Jan 18     | Generating & Processing Ideas | <a href="https://youtu.be/oxp7DDs9EYg" target="_blank">YouTube</a>| <a href="https://drive.google.com/file/d/1qfkB8OYCzFH3cgQ31Nu3gwPSP902RsxB/view?usp=sharing" target="_blank">Slides</a>
-| 3 | Jan 25      | Concept testing & Principles of Design    |         | 
+| 3 | Jan 25      | Concept testing   |<a href="https://www.youtube.com/watch?v=1K1g0ZARrHc" target="_blank">YouTube</a>         | <a href="https://drive.google.com/file/d/1STnVNvVx4AVeYavgJ7fEZlsj7b-Oyx4f/view?usp=share_link" target="_blank">Slides</a>
 | 4 | Feb 1       | Design critiques |                        |         | 
 | 5 | Feb 8       | Guest speaker and open session            |         |
 | 6 | Feb 15      | User flows                                 |        |
