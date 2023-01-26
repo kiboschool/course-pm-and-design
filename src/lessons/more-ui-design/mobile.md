@@ -12,7 +12,8 @@ In this lesson we’ll cover all things to do with UI design for mobile devices.
   📺 Watch this video on Material Design
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p4gmvHyuZzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/p4gmvHyuZzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 As mentioned above Material Design is a set of guidelines published and regularly updated by Google. These guidelines aim to help designers and developers build usable and beautiful products on Android devices using best practices. The best way to understand these guidelines is to jump in and explore these guidelines yourself. Before doing this though, here are a few good-to-knows about material design.
@@ -45,7 +46,8 @@ These points are covered extensively on the material design guidelines website. 
   📺 Watch this video on Human Interface Guidelines
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vtoiM8eps_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/vtoiM8eps_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 Human interface guidelines are guidelines published and regularly updated by Apple. The guidelines aim to help designers and developers build usable and beautiful products on Apple devices using best practices. Apple’s guidelines have less constraints than Google’s, rather it asks designers to focuses on the four points below when designing for iOS:
