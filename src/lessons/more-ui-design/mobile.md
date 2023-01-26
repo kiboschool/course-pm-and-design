@@ -1,5 +1,5 @@
 # Design for Mobile (Android & iOS)
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -18,7 +18,7 @@ In this lesson we’ll cover all things to do with UI design for mobile devices.
 As mentioned above Material Design is a set of guidelines published and regularly updated by Google. These guidelines aim to help designers and developers build usable and beautiful products on Android devices using best practices. The best way to understand these guidelines is to jump in and explore these guidelines yourself. Before doing this though, here are a few good-to-knows about material design.
 
 - Spaces and sizes are always a factor of 8px. So spaces and sizes of components can be 4px, 8px, 16px, 24px, 32px and so on.
-- Visual cues such as shadows and background fills are used to show elevation - elevation is the distance between two components.  
+- Visual cues such as shadows and background fills are used to show elevation - elevation is the distance between components and the background along the z-axis.  
 - Components must have a minimum tap target size of 48px x 48px. This means that any component a human is expected to interact with (touch, swipe, etc) must be no smaller than 48px x 48px.
 - Material design has its own set of recommended icons.
 - Navigation is usually done through tabs at the top of the screen.
@@ -48,7 +48,7 @@ These points are covered extensively on the material design guidelines website. 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtoiM8eps_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-Human interface guidelines are guidelines published and regularly updated by Apple. The guidelines aim to help designers and developers build usable and beautiful products on Apple devices using best practices. Apple’s guidelines have less constraints than Google’s rather it asks designers to focuses on the four points below when designing for iOS;
+Human interface guidelines are guidelines published and regularly updated by Apple. The guidelines aim to help designers and developers build usable and beautiful products on Apple devices using best practices. Apple’s guidelines have less constraints than Google’s, rather it asks designers to focuses on the four points below when designing for iOS:
 
 - Help people focus on primary tasks and content by limiting the number of onscreen controls while making secondary details and actions discoverable with minimal interaction.
 - Adapt seamlessly to appearance changes — like device orientation, Dark Mode, and Dynamic Type — letting people choose the configurations that work best for them.
