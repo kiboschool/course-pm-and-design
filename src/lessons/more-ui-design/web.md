@@ -43,7 +43,8 @@ Layout grids allow designers to create layouts that change dynamically based on 
 📺 Watch this video on Layout Grids
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zd8wrAdURN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/zd8wrAdURN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 ### Designing for Different Breakpoints
