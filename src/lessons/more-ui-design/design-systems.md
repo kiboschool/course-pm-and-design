@@ -1,5 +1,5 @@
 # Introduction to Design Systems
-*Estimated Time: XX hours*
+*Estimated Time: 90 minutes*
 
 ---
 
