@@ -1,5 +1,5 @@
 # Introduction to Accessibility
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -8,7 +8,8 @@
 📺 Watch this video on Accessibility
 </aside>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/20SHvU2PKsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/20SHvU2PKsM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 As explained in the video above, web accessibility involves ensuring that websites and applications are usable for all users including those with disabilities, impairments and/or limitations. Ensuring colors used in your design meet the minimum contrast ratio specified by WCAG, adding descriptive tags to images for users using screen readers and ensuring the purpose of links can be identified by the link text are just a few examples of steps designers and developers can take to make websites and applications more accessible.  
