@@ -26,7 +26,7 @@ It means designers have to create responsive web designs. Responsive web designs
  🛠️ Visit <a href="https://medium.com" target="_blank">Mediums' website</a> on your desktop, then visit it on your mobile phone. What is the major difference if any? Answer the poll below, to see the answer. 
   </aside>
 
-**Add Poll Here**
+<div data-tf-widget="ZW0vLSsO" data-tf-opacity="100" data-tf-iframe-props="title=Responsive Web Design" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 It’s clear that the major difference is the layout, the content and elements are pretty much the same.
 
