@@ -28,8 +28,6 @@ It means designers have to create responsive web designs. Responsive web designs
 
 <div data-tf-widget="ZW0vLSsO" data-tf-opacity="100" data-tf-iframe-props="title=Responsive Web Design" data-tf-transitive-search-params data-tf-medium="snippet" style="width:100%;height:500px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
-It’s clear that the major difference is the layout, the content and elements are pretty much the same.
-
 
 <aside>
 🤔 So how do we create responsive web designs? We’ll cover that in the sub-sections below.
