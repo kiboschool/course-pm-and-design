@@ -1,7 +1,7 @@
 
 # UI Design Continued
 
-E*stimated Time: XXX hours*
+E*stimated Time: 3 hours 30 minutes*
 
 ---
 
