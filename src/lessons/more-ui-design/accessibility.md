@@ -27,7 +27,7 @@ Above is a link to the official WCAG 2.0 (the second iteration of WCAG). The doc
 
 
 <aside> 
-  📖 Read: <a href="https://usability.yale.edu/web-accessibility/articles/wcag2-checklist" target="_blank">WCAG 2.0 A and AA Checklist</a>
+  📖 Skim: <a href="https://usability.yale.edu/web-accessibility/articles/wcag2-checklist" target="_blank">WCAG 2.0 A and AA Checklist</a>
   </aside>
 
 As mentioned previously, the link above highlights what guidelines need to be met to reach A and AA levels of compliance of WCAG 2.0. From the checklist, you may notice that most of the implementations that need to be made to comply with WCAG 2.0 need to be made by developers. This is because, as mentioned at the beginning of this course, building successful products requires collaboration. As well as the many other things designers and developers need to collaborate on,  they also need to collaborate on accessibility. 
