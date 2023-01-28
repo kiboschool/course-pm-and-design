@@ -5,6 +5,10 @@
 
 In this lesson we’ll cover UI design for mobile devices. As you likely know, Android and iOS are the primary operating systems (OS) used on most mobile devices in the world today. Android is owned by Google and iOS owned by Apple. The two companies regulary publish guidelines that help designers and developers build software for their platforms. Android's guidelines are called “Material Design Guidelines” while iOS’ guidelines are called “Human Interface Guidelines”. 
 
+<aside> 
+  ⚠️ Remember that you're not expected to read all the content. You just need to familiarize yourself with where the content is so you can access it when you need it. 
+</aside>
+
 
 ## Designing for Android - Material Design
 
@@ -16,7 +20,7 @@ In this lesson we’ll cover UI design for mobile devices. As you likely know, A
 </div>
 
 
-Material Design is a set of guidelines published by Google. These guidelines provide best practices to help designers and developers build usable and beautiful products on Android devices. The best way to understand Material design is to explore these guidelines yourself. Before doing this, here are a few good-to-knows about material design.
+Material Design is a set of guidelines published by Google. These guidelines provide best practices to help designers and developers build usable and beautiful products on Android devices. The best way to understand Material Design is to explore these guidelines yourself. Before doing this, here are a few good-to-knows about Material Design.
 
 - **Spaces and sizes are always a factor of 8px.** Spaces and sizes of components can be 4px, 8px, 16px, 24px, 32px and so on.
 - **Visual cues such as shadows and background fills are used to show elevation** - elevation is the distance between components and the background along the z-axis.  
@@ -25,19 +29,19 @@ Material Design is a set of guidelines published by Google. These guidelines pro
 - **Navigation is usually done through tabs** at the top of the screen.
 
 These points are covered extensively on the Material website. There is a lot of content on the site, so the points above are the key highlight. 
-Review the three links below to understand how to design products that meet Google’s material design guidelines. While viewing the links you’ll notice that there are other aspects of material design that are not linked in this lesson, e.g.,  “Foundations" and “Develop”. You may review these if you wish, but they are not reuqiredfor this lesson.
+Review the three links below to understand how to design products that meet Google’s Material Design guidelines. While viewing the links you’ll notice that there are other aspects of Material Design that are not linked in this lesson, e.g.,  “Foundations" and “Develop”. You may review these if you wish, but they are not reuqiredfor this lesson.
 
 
  <aside> 
- 📖 Read: <a href="https://m3.material.io/styles" target="_blank">Material Design Styles</a>
+ 📖 Skim: <a href="https://m3.material.io/styles" target="_blank">Material Design Styles</a>
  </aside>
 
  <aside> 
- 📖 Read: <a href="https://m3.material.io/components" target="_blank">Material Design Components</a>
+ 📖 Skim: <a href="https://m3.material.io/components" target="_blank">Material Design Components</a>
  </aside>
  
  <aside> 
- 📖 Read: <a href="https://fonts.google.com/icons" target="_blank">Material Design Icons</a>
+ 📖 Skim: <a href="https://fonts.google.com/icons" target="_blank">Material Design Icons</a>
  </aside>
  
 
@@ -64,7 +68,7 @@ Just like with Material Design, the best way to understand Human Interface guide
 
 
  <aside> 
- 📖 Read: <a href="https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ios/" target="_blank">Human Interface Design Guidelines</a>
+ 📖 Skim: <a href="https://developer.apple.com/design/human-interface-guidelines/platforms/designing-for-ios/" target="_blank">Human Interface Design Guidelines</a>
  </aside>
 
 
@@ -77,7 +81,7 @@ To wrap things up, let's review the key differences between Material Design and 
 
 
  <aside> 
- 📖 Read: <a href="https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html" target="_blank">Differences between Material Design and Human Interface Design</a>
+ 📖 Skim: <a href="https://www.learnui.design/blog/ios-vs-android-app-ui-design-complete-guide.html" target="_blank">Differences between Material Design and Human Interface Design</a>
  </aside>
 
 
