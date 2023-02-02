@@ -10,7 +10,7 @@
 ## Brief
 In the last two chapters you’ve been introduced to UI design, UI design principles and designing for mobile and web. Under the “Inspiration and Resources” section we’ve also covered how important it is to seek out sources of inspiration and replicate/copy other designs/designers. 
 
-For this assignment, you’ll be expected to replicate one app or website screen from a product of your choice as we did during the live lesson. The goal is for you to;
+For this assignment, you’ll be expected to replicate one app or website screen from a product of your choice as we did during the live lesson. This is an individual assignment. The goal is for you to;
 
 - Familiarize yourself with the different features and functionalities within Figma
 - Get comfortable designing the elements/components that are necessary for you to properly replicate designs 
