@@ -11,7 +11,7 @@ Below is the live class schedule.
 | 1    | Jan 11  |  Introduction to Design Thinking | <a href="https://youtu.be/Wjra-7IZv78" target="_blank"> YouTube</a> | <a href="https://drive.google.com/file/d/1qv98U1WNhFdW1s4zd21hnoBgPJyk_FCA/view?usp=share_link" target="_blank">Slides</a>
 | 2 | Jan 18     | Generating & Processing Ideas | <a href="https://youtu.be/oxp7DDs9EYg" target="_blank">YouTube</a>| <a href="https://drive.google.com/file/d/1qfkB8OYCzFH3cgQ31Nu3gwPSP902RsxB/view?usp=sharing" target="_blank">Slides</a>
 | 3 | Jan 25      | Concept testing   |<a href="https://www.youtube.com/watch?v=1K1g0ZARrHc" target="_blank">YouTube</a>         | <a href="https://drive.google.com/file/d/1STnVNvVx4AVeYavgJ7fEZlsj7b-Oyx4f/view?usp=share_link" target="_blank">Slides</a>
-| 4 | Feb 1       | Design critiques |                        |         | 
+| 4 | Feb 1       | Design critiques |<a href="https://youtu.be/cMsE7FiKAi4" target="_blank">YouTube</a>         | <a href="https://docs.google.com/presentation/d/1LkWFbd7C1kAClUm-DTDU54byIx8az_NlK5f437NZSoQ/edit#slide=id.g18129971ab6_2_4" target="_blank">Slides</a>
 | 5 | Feb 8       | Guest speaker and open session            |         |
 | 6 | Feb 15      | User flows                                 |        |
 | 7 | Feb 22      | Product critiques                         |         |

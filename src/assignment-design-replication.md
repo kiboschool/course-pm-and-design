@@ -25,7 +25,7 @@ For this assignment, you’ll be expected to replicate one app or website screen
 
 
 ## Submission
-Share a view only link to your Figma design. To do so;
+Share a view only link to your Figma design. To do so:
 
 - Click on the "Share" button in the top right hand corner of Figma
 - In the modal that pops-up, ensure that the "Anyone with the link" option is set to "Can View"
