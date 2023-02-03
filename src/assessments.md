@@ -9,12 +9,12 @@ The table below summarizes how your grades for the course is calculated.
 
 | Assessments                                         | Percent of Course Grade       | Due Date (by 11pm GMT)    
 | :---                                                |    :----:                     |  :----:                   
-| Class participation                                 | 10%                           | N/A                     
+| Class participation                                 | 10%                           | N/A  
+| Peer collaboration                                  | 5%                            | N/A
 | Concept Creation                                    | 10%                           | Mon January 23           
 | Final project milestone 1: concept test report      | 20%                           | Mon February 6           
-| Design replication                                  | 5%                            | Mon February 6            
+| Design replication                                  | 5%                            | Mon February 13            
 | Final project milestone 2: app design               | 20%                           | Mon February 27          
-| Information architecture                            | 5%                            | Mon February 27           
 | Final project                                       | 30%                           | Mon March 20             
 
 #### Late submissions
