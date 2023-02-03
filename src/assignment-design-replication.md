@@ -26,7 +26,7 @@ For this assignment, you’ll be expected to replicate one app or website screen
 
 ## Submission
 
-#### (1) Update the permissions of your Figma file so that anyone with the link can comment
+#### (1) Update the permissions of your Figma file so that anyone with the link can view
 
 To do so:
 
