@@ -30,12 +30,12 @@ There is no new lesson content for this week. Instead, we'll use this week to re
 ## Assignment
 
 This week, you should:
-- Complete any previous assignments. At this point in the course, you should have submitted:
+- Complete any past-due assignments. Please ensure you have submitted your work in Gradescope and in Woolf. At this point in the course, you should have submitted:
   - [Concept creation assignment](/assignment-concept-tests.html) due January 23
   - [Final project milestone 1: concept test report](/concept-testing.html) due February 6
   
   
-- Wprk on upcomign assignments
+- Work on upcomign assignments
   - [Design replication assignment](/assignment-design-replication.html) due February 13
-  - [Final Project Milestone 2: App Design](/app-designs.html) due February 27
+
 
