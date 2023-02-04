@@ -7,7 +7,6 @@
 [Live Classes](live-classes.md)
 [Assignment: design replication](assignment-design-replication.md)
 <!--
-[Assignment: information architecture](assignment-information-architecture.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
 -->
@@ -59,11 +58,11 @@
   - [Introduction to Accessibility](lessons/more-ui-design/accessibility.md)
   - [Wrap up](lessons/more-ui-design/wrap-up.md)
 
-<!--
+
 ### Week 5
 - [Week 5: Review and guest speakers](lessons/guest-speakers.md)
 
-
+<!--
 ### Week 6
 - [Week 6: Product Requirements](lessons/product-requirements.md)
   - [Build, Measure, Learn](lessons/product-requirements/build-measure-learn.md)
