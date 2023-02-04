@@ -22,10 +22,10 @@ We will also leave about 30 minutes during live class for questions & answers wi
 
 ## Guest speakers
 ### Feyi Olabiyi
-<a href="https://www.linkedin.com/in/feyi-olabiyi/" target="_blank">Feyi </a> is Senior Product Manager at Shopify in Canada. She earned a B.Eng in Information and Communication Technology from Covenant University in Ogun State Nigeria,
+<a href="https://www.linkedin.com/in/feyi-olabiyi/" target="_blank">Feyi </a> is Senior Product Manager at Shopify in Canada. She earned a B.Eng in Information and Communication Technology from Covenant University in Ogun state Nigeria.
 
 ### Great Ndidi
-<a href="https://www.linkedin.com/in/greatndidi/" target="_blank">Great</a> is a Staff Product Designer at Wise in London. He earned a BSc in Computer Science from University of Port Harcourt in Rivers state Nigeria
+<a href="https://www.linkedin.com/in/greatndidi/" target="_blank">Great</a> is a Staff Product Designer at Wise in London. He earned a BSc in Computer Science from University of Port Harcourt in Rivers state Nigeria.
 
 ## Assignment
 
