@@ -1,7 +1,7 @@
 
 # Week 5: Review and guest speakers
 
-E*stimated Time: 30 minutes
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -14,11 +14,11 @@ E*stimated Time: 30 minutes
 
 ## Learning Outcomes
 
-There is no new lesson content for this week. Instead, we'll use this week to review and solidify the material from the past 4 weeks. During the live class, we'll hear from guest speakers to better understand how PMs and Designers work in the real world. This week, you will
+There is no new lesson content for this week. Instead, use this week for review and catch-up. During the live class, you will hear from two guests who studied computing and now work as product managers and designers so that you can:
 - Understand how PMs and Designers interact with product teams
 - Understand how computer science background impacts professional journeys of PMs & Designers
 
-
+We will also leave about 30 minutes during live class for questions & answers with Folarin & Ope. Please bring any questions you have about previous lesson materials or assignments. 
 
 ## Guest speakers
 ### Feyi Olabiyi
@@ -30,12 +30,12 @@ There is no new lesson content for this week. Instead, we'll use this week to re
 ## Assignment
 
 This week, you should:
-- Complete any past-due assignments. Please ensure you have submitted your work in Gradescope and in Woolf. At this point in the course, you should have submitted:
+- Complete any past-due assignments. Please ensure you have submitted your work in Gradescope and in Woolf. You should have submitted:
   - [Concept creation assignment](/assignment-concept-tests.html) due January 23
   - [Final project milestone 1: concept test report](/concept-testing.html) due February 6
   
   
-- Work on upcomign assignments
+- Work on upcoming assignments
   - [Design replication assignment](/assignment-design-replication.html) due February 13
 
 
