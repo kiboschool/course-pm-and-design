@@ -68,13 +68,15 @@ Use <a href="https://docs.google.com/document/d/1WBi6l4EuQRZBNZjVSBODOAkJi4EOlw-
 
 #### Ensure your concept test report is set to enable anyone at Kibo to comment on the document 
 
-#### Submit your assignment in Gradescope
+#### (1) Submit your assignment in Gradescope
 - Each team member must submit individually
-- In addition to a link to your report, you will answer the following questions about your collaboration:
-    -  Summarize your individual contribution to this group assignment/project.
-    -  How balanced were the efforts of the group members? Did everyone do his or her fair share of work?
-    -  If you had done this by yourself, would the outcome have been better or worse?
-    -  Given the choice, would you work with the same group again?
-    -  (Optional) Is there anything else you want to share with instructors about the way your team worked together?
+
+#### (2) Submit a collaboration evaluation
+Submit <a href="https://forms.gle/QcYXFq5SysjjaH3RA" target="_blank"> this form </a>to summarize your contribution and that of your team members. The form will ask you to answer the following questions about your collaboration:
+ -  Summarize your individual contribution to this group assignment/project.
+ -  How balanced were the efforts of the group members? Did everyone do his or her fair share of work?
+-  If you had done this by yourself, would the outcome have been better or worse?
+-  Given the choice, would you work with the same group again?
+ -  (Optional) Is there anything else you want to share with instructors about the way your team worked together?
 
 #### (3) Download and submit a PDF copy of your report in Woolf
