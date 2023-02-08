@@ -4,7 +4,7 @@
 ## Assignment
 
 After finishing this lesson, you should:
-- Complete **Part 2** of the assigment on [Creating Concepts](/assignment-concept-tests.html) and submit the assignment
+- Complete **Part 2** of the assigment on [Creating Concepts](/assignment-create-concepts.html) and submit the assignment
 - Complete **Part 1** of the [Final Project Milestone 1: Concept Testing](/concept-testing.html)
 
 
