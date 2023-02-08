@@ -2,7 +2,7 @@
 ----
 ## Assignment
 
-After finishing this lesson, you should complete **Part 1** of the assigment on [Creating Concepts](/assignment-concept-tests.html). 
+After finishing this lesson, you should complete **Part 1** of the assigment on [Creating Concepts](/assignment-create-concepts.html). 
 
 ## What We Learned
 
