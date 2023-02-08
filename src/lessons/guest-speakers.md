@@ -31,7 +31,7 @@ We will also leave about 30 minutes during live class for questions & answers wi
 
 This week, you should:
 - Complete any past-due assignments. Please ensure you have submitted your work in Gradescope and in Woolf. You should have submitted:
-  - [Concept creation assignment](/assignment-concept-tests.html) due January 23
+  - [Concept creation assignment](/assignment-create-concepts.html) due January 23
   - [Final project milestone 1: concept test report](/concept-testing.html) due February 6
   
   
