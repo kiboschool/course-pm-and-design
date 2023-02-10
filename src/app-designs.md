@@ -18,7 +18,7 @@ For this assignment, your squad will be expected to design and submit at least f
 - Before jumping into visual designs, sketch out the pages you want to design using Figjam or any other whiteboard collaboration tool you prefer.
 - The sketches don't have to look good, they just need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
 - Be sure that as a squad, you all agree on the design direction before you start designing in Figma. This will help reduce disagreements once you're designing the UI.
-- Design direction pieces to agree on are; your solutions name, the brand colors for your solution, the typeface for your brand, what feature/s your designing and how users will interact with these features on your website or mobile application.
+- Design direction pieces to agree on are; your solutions name, the brand colors for your solution, the typeface for your brand, what feature/s is/are being designed and how users will interact with these features on your website or mobile application.
 - Once your squad has agreed on a design direction then it's time to jump into Figma and start designing. 
 - How you split up this project is up to you and your squad. All members of a squad may decide to design some pages or one squad member may be delegated to design all the pages while other members take charge of the other “Final Project Milestones”. The main thing is that all squad members are; involved in the design direction, know what the solution looks like and how it works and that work on all “Final project Milestones” is split fairly. 
 
