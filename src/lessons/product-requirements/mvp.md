@@ -14,7 +14,7 @@
 
 First impressions matter and in many aspects of life, carefully tending to the first impression is critical. 
 
-Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software teams today follow a lean approach which advocates for releasing a bare-minimum version of the product, learning from users, then iterating based on user feedback. In the least lesson, we discussed the danger of big bang delivery and advocated for small iterative releases. In this lesson, we'll explore how to craft an MVP. 
+Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software teams today follow a lean approach which advocates for releasing a bare-minimum version of the product, learning from users, then iterating based on user feedback. In the last lesson, we discussed the danger of big bang delivery and advocated for small iterative releases. In this lesson, we'll explore how to craft an MVP. 
 
 
 ## The Skateboard
