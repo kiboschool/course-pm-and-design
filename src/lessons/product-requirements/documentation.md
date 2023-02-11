@@ -19,6 +19,7 @@ In general, product managers spend a lot of time writing and maintaining product
   - QA (quality assurance) team members to write test cases and ensure the finished product meets the requiremetns
   - Product marketers to understand the vision, and create campaigns or launch plans
 
+### PRD Overivew
 
 <aside> 
   📺 Watch this video for an overview of PRDs
@@ -26,7 +27,6 @@ In general, product managers spend a lot of time writing and maintaining product
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/W7ShrFjd5B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 
 ## Writing a PRD
 A PRD attempts to answer 3 critical questions:
@@ -47,7 +47,6 @@ Here are a few examples of PRDs templates from different companies
 - <a href="https://docs.google.com/document/d/1W46cmPfPwXIIH2mNNbbQ5EdjnhQFqGxGhT5iAijmJjc/edit#heading=h.cqt1a4hrfy8u" target="_blank"> Asana</a>
 - <a href="https://coda.io/@yuhki/figmas-approach-to-product-requirement-docs/prd-name-of-project-1" target="_blank">Atlassian (makers of Trello)</a>
   
-
 
 ### Maintaining a PRD
 <aside> 💡 A PRD is a living document
