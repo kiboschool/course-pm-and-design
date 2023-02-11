@@ -45,7 +45,7 @@ Some companies or teams have very specific templates they use for PRDs. In other
 Here are a few examples of PRDs templates from different companies
 - <a href="https://coda.io/@yuhki/figmas-approach-to-product-requirement-docs/prd-name-of-project-1" target="_blank">Figma</a>
 - <a href="https://docs.google.com/document/d/1W46cmPfPwXIIH2mNNbbQ5EdjnhQFqGxGhT5iAijmJjc/edit#heading=h.cqt1a4hrfy8u" target="_blank"> Asana</a>
-- <a href="https://coda.io/@yuhki/figmas-approach-to-product-requirement-docs/prd-name-of-project-1" target="_blank">Atlassian (makers of Trello)</a>
+- <a href="https://www.atlassian.com/software/confluence/templates/product-requirements" target="_blank">Atlassian (makers of Trello)</a>
   
 
 ### Maintaining a PRD
@@ -57,7 +57,7 @@ The best PRDs are "living documents," i.e., they are regularly updated and maint
  <aside>
  </aside>
  
- Reading PRDs is a useful way to learn to write one. Review <a href="https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit", target="_blank"> this PRD</a> which was written for the first version of <a href="https://www.producthunt.com/", target="blank">Product Hunt</a>, a platform for discovery new tech product. Then  answer at least one of the questions below. 
+ Reading PRDs is a useful way to learn to write one. Review the <a href="https://docs.google.com/document/d/1yrU5F6Gxhkfma91wf_IbZfexw8_fahbGQLW3EvwdfQI/edit" target="_blank">PRD</a> for Product Hunt, a platform for discovery new tech products. Then  answer at least one of the questions below. 
  
  <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/hipmsww6er6ko497" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Made with Padlet"></div></a></div></div>
 
