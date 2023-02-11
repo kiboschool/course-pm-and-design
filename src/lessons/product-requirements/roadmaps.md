@@ -28,15 +28,16 @@ In the previous lesson, we learned about the MVP or minimum viable product. The 
 
 As explained in the video:
 - 🚀 An MVP is the version that goes beyond a prototype and helps the team collect validated data from customers with a minimal amount of effort
-- 🫶 An MLP is a version of your product that delights the user and helps you gain a loyal following. It concentrates on _differentiated_ features that are important to users
 - 💰 An MMP or minimum marketable product includes a "baseline" or mimimum set of features required for a product of its class
+- 🫶 An MLP is a version of your product that delights the user and helps you gain a loyal following. It concentrates on _differentiated_ features that are important to users
+
 
 
 
 ## Introduction to product roadmaps
 The document that explains which features your product will include, when, and why is called a product roadmap. 
 
-<aside> A product roadmap visualizes the strategy and vision for the product over time
+<aside> A product roadmap visualizes the strategy for the product over time
   </aside>
 
 
@@ -55,7 +56,7 @@ Product managers create and maintain roadmaps. A good roadmap will:
 - **Communicates** with internal and external stakeholders
 
 
-Planning a product roadmap is tricky, and it takes years of working as a product manager to master this. There is no one size fits all approach/ Figuring out the product roadmap is one of the marks of a senior product manager and truly requires operating at the intersection. You may recall the image below from the lesson on [What is Product Management](/lessons/software-team/what-is-pm):
+Planning a product roadmap is tricky, and it takes years of working as a product manager to master this. You may recall the image below from the lesson on [What is Product Management](/lessons/software-team/what-is-pm):
 
 ![image](https://user-images.githubusercontent.com/1774663/218242642-00fb8dc8-f60f-4ce5-8394-88238bd356b1.png)
 
@@ -66,9 +67,9 @@ Determining the roadmap for the product is an important decision and impacts man
 - The technology resources available 
 
 ### Tips for building a roadmap
-- Focus on why: talk to your early adopters regularly. Find out why they use the product, and how t makes them feel. Use _qualitative_ research methods that help you gain a depth of understanding, not just yes/no surveys
-- Understand what makes you lovable: as a new product, it is unlikely that you will have feature parity with all of the incumbents. So, it's important to discover your unique value proposition, align your team on it, and build from a position of strength. 
-- Iterate and stay lean: every feature you add a product has a compounding cost. As you buid your roadmap, especially in the earliest years, consider what is truly _minimum_ required to delight your users and build as little as possible 
+- **Focus on why:** talk to your early adopters regularly. Find out why they use the product, and how t makes them feel. Use _qualitative_ research methods that help you gain a depth of understanding, not just yes/no surveys
+- **Understand what makes you lovable:** as a new product, it is unlikely that you will have feature parity with all of the incumbents. So, it's important to discover your unique value proposition, align your team on it, and build from a position of strength. 
+- **Iterate and stay lean:** every feature you add a product has a compounding cost. As you buid your roadmap, especially in the earliest years, consider what is truly _minimum_ required to delight your users and build as little as possible 
 
-For early stage products, simple roadmaps without dates that focus on key themes are best. <a href="https://docs.google.com/presentation/d/1e8IXhSMGBr-EMdVvuHOlX6qfgNINvby5_FRDNIMQmZg/edit?usp=sharing" target="_blank"> Here is a simple roadmap template </a> that you may use for your projects. Note that the template has two features per stage for illustrative purposes only! Your roadmap may have more or fewer features in each state of development. 
+For early stage products, simple roadmaps without dates that focus on key themes are best. <a href="https://docs.google.com/presentation/d/1e8IXhSMGBr-EMdVvuHOlX6qfgNINvby5_FRDNIMQmZg/edit?usp=sharing" target="_blank"> Here</a> is a simple roadmap template </a> that you may use for your projects. Note that the template has two features per stage for illustrative purposes only! Your roadmap may have more or fewer features in each state of development. 
 
