@@ -16,7 +16,7 @@ In general, product managers spend a lot of time writing and maintaining product
 - **Product requirements document (PRD):** PRDs help create a shared understanding of the product. PRDs are used by various stakeholders including: 
     - UX designers to understand the product vision and create wireframes and designers
     - Engineers to inform and guide their engineering work. At large companies like Google, software engineers will often use the PRD to create an "Engineering Design document," a more technical document that refers back to the PRD and outlines technical design of the product
-  - QA (quality assurance) team members to write test cases and ensure the finished product meets the requiremetns
+  - QA (quality assurance) team members to write test cases and ensure the finished product meets the requirements
   - Product marketers to understand the vision, and create campaigns or launch plans
 
 ### PRD Overivew
@@ -34,11 +34,11 @@ A PRD attempts to answer 3 critical questions:
 2. What should the product do?
 3. How do we measure the success of the product? 
 
-Some companies or teams have very specific templates they use for PRDs. In other, the exact format varies. Regardless, there are certain sections which are common to most PRDs, such as:
+Some companies or teams have very specific templates they use for PRDs. In others, the exact format varies. Regardless, there are certain sections which are common to most PRDs, such as:
 - Problem the product is trying to solve
 - Summary of the proposed solutions
 - Goals of the solution
-- Key fatures or user flows
+- Key features or user flows
 - Launch release milestones
 - Success Metrics
 
@@ -51,7 +51,7 @@ Here are a few examples of PRDs templates from different companies
 ### Maintaining a PRD
 <aside> 💡 A PRD is a living document
   </aside>
-The best PRDs are "living documents," i.e., they are regularly updated and maintained throughout the lifecycle of a product. As team discuss and build, it's very common for the original idea to morph. Strong PMs update PRDs (on a daily or weekly basis) to ensure it remains a good source of truth for what, why and how of the product. Consequently, PRDs often start out relatively small (perhaps just a bit longer than a 1-pager) then evolve as the team begins to build and clarifies the requirements. 
+The best PRDs are "living documents," i.e., they are regularly updated and maintained throughout the lifecycle of a product. As teams discuss and build, it's very common for the original idea to morph. Strong PMs update PRDs (on a daily or weekly basis) to ensure it remains a good source of truth for the what, why and how of the product. Consequently, PRDs often start out relatively small (perhaps just a bit longer than a 1-pager) then evolve as the team begins to build and clarifies the requirements. 
 
 ## Read it: find information in a PRD
  <aside>
