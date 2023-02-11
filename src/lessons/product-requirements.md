@@ -15,7 +15,7 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Explain why and how MVP framework helps in early product development 
+- Explain why and how the MVP framework helps in early product development 
 - Describe the lifecycle of a software product, and how product managers and designers plan for product evolution over time
 - Understand the structure of and draft a product requirements document that aligns stakeholders 
 
