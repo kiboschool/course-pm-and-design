@@ -6,7 +6,8 @@
 
 <aside>
   
-  🗣 **"The minimum viable product was appealing because it was cheap, and you could get it to market faster. But we’ve advanced past a world where products are ‘the first of X.’ Stiffer competition means that MVPs aren’t going to cut it anymore. If startups truly want to stand out, they need to strive toward creating a minimum lovable product instead.”"** — JZ Zhang, VP of Product at Webflow and formerly Airbnb
+  🗣 **"The minimum viable product was appealing because it was cheap, and you could get it to market faster. But we’ve advanced past a world where products are ‘the first of X.’ Stiffer competition means that MVPs aren’t going to cut it anymore. If startups truly want to stand out, they need to strive toward creating a minimum lovable product instead."** 
+  — JZ Zhang, VP of Product at Webflow and formerly Airbnb
 </aside>
 
 In the previous lesson, we learned about the MVP or minimum viable product. The main goal of an MVP is to enable product teams to launch a first version to test with real users. In this lesson, we'll discuss how to move beyond an MVP and plan versions of you product that users are willing to pay for with their money and time. 
@@ -45,9 +46,8 @@ The document that explains which features your product will include, when, and w
   📺 Watch this video for an overview of product roadmaps
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://youtu.be/cZEV9CLUd2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-></iframe>
-</div>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cZEV9CLUd2Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+  </div>
 
 Product managers create and maintain roadmaps. A good roadmap will:
 - **Describe** the product strategy and vision
