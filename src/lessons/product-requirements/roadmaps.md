@@ -16,14 +16,16 @@ In the previous lesson, we learned about the MVP or minimum viable product. The 
 ## Beyond the MVP 
 
 <aside> 
-  📺 Watch this video to get an overview of different research methods
+  📺 Watch this video for an overview of building products that go beyond MVPs
 </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/7_sFVYfatXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kOl6PA8vqM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
 ></iframe>
 </div>
 
 ### MVP, MMP, MLP....what?!?
+
+![image](https://user-images.githubusercontent.com/1774663/218242236-8620dae7-c7ab-48be-9324-096749cc9783.png)
 
 As explained in the video:
 - 🚀 An MVP is the version that goes beyond a prototype and helps the team collect validated data from customers with a minimal amount of effort
@@ -31,7 +33,6 @@ As explained in the video:
 - 💰 An MMP or minimum marketable product includes a "baseline" or mimimum set of features required for a product of its class
 
 
-![image](https://user-images.githubusercontent.com/1774663/218242236-8620dae7-c7ab-48be-9324-096749cc9783.png)
 
 The image above is a 
 
