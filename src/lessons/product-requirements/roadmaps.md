@@ -1,6 +1,6 @@
 # Product Roadmaps
 
-*Estimated Time: 30 mins*
+*Estimated Time: 30 minutes*
 
 ---
 
