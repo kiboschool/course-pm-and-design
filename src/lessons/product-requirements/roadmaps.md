@@ -25,7 +25,6 @@ In the previous lesson, we learned about the MVP or minimum viable product. The 
 
 ### MVP, MMP, MLP....what?!?
 
-![image](https://user-images.githubusercontent.com/1774663/218242236-8620dae7-c7ab-48be-9324-096749cc9783.png)
 
 As explained in the video:
 - 🚀 An MVP is the version that goes beyond a prototype and helps the team collect validated data from customers with a minimal amount of effort
@@ -33,8 +32,6 @@ As explained in the video:
 - 💰 An MMP or minimum marketable product includes a "baseline" or mimimum set of features required for a product of its class
 
 
-
-The image above is a 
 
 ## Introduction to product roadmaps
 The document that explains which features your product will include, when, and why is called a product roadmap. 
