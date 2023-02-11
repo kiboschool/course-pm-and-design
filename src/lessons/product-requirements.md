@@ -32,11 +32,11 @@ After completing this lesson, you will be able to:
 
 [Crafting the MVP](product-requirements/mvp.md)
 
-[Product roadmaps](lessons/product-requirements/roadmaps.md)
+[Product roadmaps](product-requirements/roadmaps.md)
 
-[Documenting product requirements](lessons/product-requirements/documentation.md)
+[Documenting product requirements](product-requirements/documentation.md)
 
-[Wrap Up](lessons/product-requirements/wrap-up.md)
+[Wrap Up](product-requirements/wrap-up.md)
 
 
 ---
