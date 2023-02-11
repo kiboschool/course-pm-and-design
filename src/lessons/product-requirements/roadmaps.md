@@ -67,9 +67,9 @@ Determining the roadmap for the product is an important decision and impacts man
 - The technology resources available 
 
 ### Tips for building a roadmap
-- **Focus on why:** talk to your early adopters regularly. Find out why they use the product, and how t makes them feel. Use _qualitative_ research methods that help you gain a depth of understanding, not just yes/no surveys
+- **Focus on why:** talk to your early adopters regularly. Find out why they use the product, and how it makes them feel. Use _qualitative_ research methods that help you gain a depth of understanding, not just yes/no surveys
 - **Understand what makes you lovable:** as a new product, it is unlikely that you will have feature parity with all of the incumbents. So, it's important to discover your unique value proposition, align your team on it, and build from a position of strength. 
-- **Iterate and stay lean:** every feature you add a product has a compounding cost. As you buid your roadmap, especially in the earliest years, consider what is truly _minimum_ required to delight your users and build as little as possible 
+- **Iterate and stay lean:** every feature you add a product has a compounding cost. As you build your roadmap, especially in the early years, consider what truly is the _minimum_ required to delight your users and build as little as possible 
 
 For early stage products, simple roadmaps without dates that focus on key themes are best. <a href="https://docs.google.com/presentation/d/1e8IXhSMGBr-EMdVvuHOlX6qfgNINvby5_FRDNIMQmZg/edit?usp=sharing" target="_blank"> Here</a> is a simple roadmap template </a> that you may use for your projects. Note that the template has two features per stage for illustrative purposes only! Your roadmap may have more or fewer features in each state of development. 
 
