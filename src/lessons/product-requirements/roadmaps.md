@@ -1,6 +1,6 @@
 # Product Roadmaps
 
-Estimated Time: XXX hours*
+*Estimated Time: XXX hours*
 
 ---
 
@@ -67,7 +67,7 @@ Determining the roadmap for the product is an important decision and impacts man
 - The business needs, the sustainability of the business, and the competitive environment
 - The technology resources available 
 
-## Tips for building a roadmap
+### Tips for building a roadmap
 - Focus on why: talk to your early adopters regularly. Find out why they use the product, and how t makes them feel. Use _qualitative_ research methods that help you gain a depth of understanding, not just yes/no surveys
 - Understand what makes you lovable: as a new product, it is unlikely that you will have feature parity with all of the incumbents. So, it's important to discover your unique value proposition, align your team on it, and build from a position of strength. 
 - Iterate and stay lean: every feature you add a product has a compounding cost. As you buid your roadmap, especially in the earliest years, consider what is truly _minimum_ required to delight your users and build as little as possible 
