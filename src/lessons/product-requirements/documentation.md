@@ -11,10 +11,11 @@ A key part of a product manager's role is leading the engineering and design tea
   💡 Documentation is fundamentally a tool for collaboration, and driving clarity across the team. 
   </aside>
 In general, product managers spend a lot of time writing and maintaining product documentation. These documents help internal teams understand the product vision, strategy, features, go-to-market approach, and more. PMs write different types of documentation, including:
-- One-pager: these are short documents that explain a product or feature idea. One-pagers are useful to summarize a product. <a href="https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit" target="_blank">Here</a> is a great template of a 1-pager by product leader Lenny Rachitsky. 
-- Product requirements document (PRD): PRDs help create a shared understanding of the product. PRDs are used by various stakeholders including: 
-  - UX designers to understand the product vision and create wireframes and designers
-  - Engineers to inform and guide their engineering work. At large companies like Google, software engineers will often use the PRD to create an "Engineering Design document," a more technical document that refers back to the PRD and outlines technical design of the product
+
+- **One-pager:** these are short documents that explain a product or feature idea. One-pagers are useful to summarize a product. <a href="https://docs.google.com/document/d/1541V32QgSwyCFWxtiMIThn-6n-2s7fVWztEWVa970uo/edit" target="_blank">Here</a> is a great template of a 1-pager by product leader Lenny Rachitsky
+- **Product requirements document (PRD):** PRDs help create a shared understanding of the product. PRDs are used by various stakeholders including: 
+    - UX designers to understand the product vision and create wireframes and designers
+    - Engineers to inform and guide their engineering work. At large companies like Google, software engineers will often use the PRD to create an "Engineering Design document," a more technical document that refers back to the PRD and outlines technical design of the product
   - QA (quality assurance) team members to write test cases and ensure the finished product meets the requiremetns
   - Product marketers to understand the vision, and create campaigns or launch plans
 
