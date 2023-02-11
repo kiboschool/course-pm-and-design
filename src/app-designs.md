@@ -25,7 +25,7 @@ For this project, your squad will design and submit **at least** four pages of y
   - Once you have a design direction, jump into Figma and start designing. 
 - Decide on an approach to split up the work
   - Each member of the squad must design at least one page
-  - The rest of the design may be split up however you wish. For example, one person may be delegated to design the rest of teh pages while others focus on other aspects of the final project. But it is critical that each person design at least one page 
+  - The rest of the design may be split up however you wish. For example, one person may be delegated to design the rest of the pages while others focus on other aspects of the final project. But it is critical that each person design at least one page 
 
 ## Submission
 
