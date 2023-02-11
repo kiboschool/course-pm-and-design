@@ -1,6 +1,6 @@
 # Product Requirements
 
-E*stimated Time: XXX hours*
+E*stimated Time: 2 hours*
 
 ---
 
