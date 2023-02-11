@@ -1,4 +1,4 @@
-# Assignment - Create Initial Designs for your Wesbite or Mobile Application
+# Assignment - Create  Designs for your Project
 -----
 <aside>
   
@@ -8,20 +8,24 @@
 
 
 ## Brief
-By now, together with your squad, you should have completed your concept test report and have a pretty good idea of what solution your squad is working on. You should also have completed the individual design replication assignment and have some decent UI design practice with Figma. 
+By now, your team has:
+- Completed the concept test report, and have a product direction
+- Completed the individual design replication assignment and praticed UI design  with Figma. 
 
-For this assignment, your squad will be expected to design and submit at least four pages of your proposed solution (concept). Your solution can be either a website or mobile application. The solution your squad decides to move forward with should be an iteration of one of your concepts based on the takeaways you got from participants’ feedback.
+For this project, your squad will design and submit **at least** four pages of your proposed solution. Your solution should be either a website **or** mobile application. The solution your squad decides to move forward with should be based on the takeaways you got from participants’ feedback.
 
 
-## Hints and Guidiance
+## Guidance
 
-- Before jumping into visual designs, sketch out the pages you want to design using Figjam or any other whiteboard collaboration tool you prefer.
-- The sketches don't have to look good, they just need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
-- Be sure that as a squad, you all agree on the design direction before you start designing in Figma. This will help reduce disagreements once you're designing the UI.
-- Design direction pieces to agree on are; your solutions name, the brand colors for your solution, the typeface for your brand, what feature/s is/are being designed and how users will interact with these features on your website or mobile application.
-- Once your squad has agreed on a design direction then it's time to jump into Figma and start designing. 
-- How you split up this project is up to you and your squad. All members of a squad may decide to design some pages or one squad member may be delegated to design all the pages while other members take charge of the other “Final Project Milestones”. The main thing is that all squad members are; involved in the design direction, know what the solution looks like and how it works and that work on all “Final project Milestones” is split fairly. 
-
+- Before beginning the visual design
+  - - Sketch the information architecture for your product, so you have a sense of the pages and how they link together. You may do this with pen/paper or on Google Slides or another digital tool
+  - Sketch out the pages you want to design using Figjam or any other whiteboard collaboration tool you prefer. The sketches don't have to look good. They need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
+- Agree on the design direction with your squad before you start designing in Figma. This will help reduce disagreements once you're designing the UI.
+  - Design direction to agree on include your solutions name, the brand colors for your solution, the typeface for your brand, etc.
+  - Once you have a design direction, jump into Figma and start designing. 
+- Decide on an approach to split up the work
+  - Each member of the squad must design at least one page
+  - The rest of the design may be split up however you wish. For example, one person may be delegated to design the rest of teh pages while others focus on other aspects of the final project. But it is critical that each person design at least one page 
 
 ## Submission
 
@@ -36,10 +40,20 @@ To do so:
 
 #### (2) Submit your assignment in Gradescope
 
-Submit the link to your design on Gradescope
+Submit the link to your design on Gradescope. Note that **this is a Gradescope group assignment** and so one person should submit and choose your team members
 
 
-#### (3) Download and submit PDF copies of your designs in Woolf
+#### (3) Submit a collaboration evaluation
+Submit <a href="https://forms.gle/QcYXFq5SysjjaH3RA" target="_blank"> this form </a>to summarize your contribution and that of your team members. The form will ask you to answer the following questions about your collaboration:
+ -  Summarize your individual contribution to this group assignment/project.
+ -  How balanced were the efforts of the group members? Did everyone do his or her fair share of work?
+-  If you had done this by yourself, would the outcome have been better or worse?
+-  Given the choice, would you work with the same group again?
+ -  (Optional) Is there anything else you want to share with instructors about the way your team worked together?
+
+
+
+#### (4) Download and submit PDF copies of your designs in Woolf
 
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/DTk28NTGdkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
