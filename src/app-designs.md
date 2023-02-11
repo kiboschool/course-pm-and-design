@@ -18,7 +18,7 @@ For this project, your squad will design and submit **at least** four pages of y
 ## Guidance
 
 - Before beginning the visual design
-  - - Sketch the information architecture for your product, so you have a sense of the pages and how they link together. You may do this with pen/paper or on Google Slides or another digital tool
+  - Sketch the information architecture for your product, so you have a sense of the pages and how they link together. You may do this with pen/paper or on Google Slides or another digital tool
   - Sketch out the pages you want to design using Figjam or any other whiteboard collaboration tool you prefer. The sketches don't have to look good. They need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
 - Agree on the design direction with your squad before you start designing in Figma. This will help reduce disagreements once you're designing the UI.
   - Design direction to agree on include your solutions name, the brand colors for your solution, the typeface for your brand, etc.
