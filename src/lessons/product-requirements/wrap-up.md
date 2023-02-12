@@ -5,7 +5,7 @@
 
 After finish this lesson, you should:
 - Complete [Final Project Miestone 2: App Design](/app-designs.html)
-- Begin working on Part 1 of the [Final Project](/final-project)
+- Begin working on Part 1 of the [Final Project](/final-project.html)
 
 
 
