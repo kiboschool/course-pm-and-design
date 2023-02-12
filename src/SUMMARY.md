@@ -1,11 +1,11 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
+[Live Classes](live-classes.md)
 [Assessments & Grading](assessments.md)
 [Assignment: create concepts](assignment-create-concepts.md)
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Assignment: design replication](assignment-design-replication.md)
-[Live Classes](live-classes.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
 
