@@ -6,10 +6,9 @@
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
 [Assignment: design replication](assignment-design-replication.md)
 [Live Classes](live-classes.md)
-<!--
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
--->
+
 
 
 ## Lessons
@@ -25,8 +24,7 @@
   - [Ideate: Can We?](lessons/software-team/ideate.md)
   - [Wrap up](lessons/software-team/wrap-up.md)
 
-  
-
+ 
 
 ### Week 2
 
@@ -62,7 +60,7 @@
 ### Week 5
 - [Week 5: Review and guest speakers](lessons/guest-speakers.md)
 
-<!--
+
 ### Week 6
 - [Week 6: Product Requirements](lessons/product-requirements.md)
   - [Build, Measure, Learn](lessons/product-requirements/build-measure-learn.md)
@@ -71,7 +69,7 @@
   - [Documenting product requirements](lessons/product-requirements/documentation.md)
   - [Wrap up](lessons/product-requirements/wrap-up.md)
 
-
+<!--
 ### Week 7
 - [Week 7: User Flows](lessons/user-flows.md)
 
