@@ -1,13 +1,14 @@
 # Product Requirements
 
-E*stimated Time: XXX hours*
+E*stimated Time: 2 hours*
 
 ---
 
 ## Introduction
 
-*[Insert video by the instructor introducing the main topics of the week and giving a short explanation of the week’s assessment.]*
-
+<div style="position: relative; padding-bottom: 56.25%; height: 0;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3Jjz_YNkso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 
 
 
@@ -15,7 +16,7 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Explain why and how MVP framework helps in early product development 
+- Explain why and how building minimum viable products (MVPs) help in software product development 
 - Describe the lifecycle of a software product, and how product managers and designers plan for product evolution over time
 - Understand the structure of and draft a product requirements document that aligns stakeholders 
 
@@ -32,11 +33,11 @@ After completing this lesson, you will be able to:
 
 [Crafting the MVP](product-requirements/mvp.md)
 
-[Product roadmaps](lessons/product-requirements/roadmaps.md)
+[Product roadmaps](product-requirements/roadmaps.md)
 
-[Documenting product requirements](lessons/product-requirements/documentation.md)
+[Documenting product requirements](product-requirements/documentation.md)
 
-[Wrap Up](lessons/product-requirements/wrap-up.md)
+[Wrap Up](product-requirements/wrap-up.md)
 
 
 ---

@@ -1,6 +1,6 @@
 # Crafting the MVP
 
-*Estimated Time: XX hours*
+*Estimated Time: 30 minutes*
 
 ---
 
@@ -12,7 +12,9 @@
 
 
 
-First impressions matter and in many aspects of life, carefully tending to the first impression is critical. Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software developers today follow a lean approach which advocates for releasing a bare-minium version of the product, learning from users, then iterating based on user feedback. In the least lesson, we discussed the danger of big bang delivery and advocated for small iterative releases. In this lesson, we'll explore how to craft an MVP
+First impressions matter and in many aspects of life, carefully tending to the first impression is critical. 
+
+Yet, in software product development, we have to balance our desire for polish with our desire to learn. The only way to truly learn if a product will meet user needs is to give the product to users. So, most software teams today follow a lean approach which advocates for releasing a bare-minimum version of the product, learning from users, then iterating based on user feedback. In the last lesson, we discussed the danger of big bang delivery and advocated for small iterative releases. In this lesson, we'll explore how to craft an MVP. 
 
 
 ## The Skateboard
@@ -32,15 +34,15 @@ The drawing above is adapated from a popular blog by Henrik Kniberg where he exp
   </div>
 
 We learn a few key lessons about MVPs from the video:
-- The MVP is the **earliest testable product**. The main goal at this point is to learn.
+- The MVP is the **earliest testable product**. The main goal at this point is to learn
 - Think big, but deliver in small, functionally valuable increments
-- Iterative approach helps us find the simplest way to solve the customer's problem, and often leads to slightly different but better products than originally envisioned
+- Iterative approach helps us find the simplest way to solve the customer's problem, and often leads to different but better products than originally envisioned
 
 
-## Ideate: what's your skateboard?
+## Ideate: what's the skateboard?
 
 <aside>
-💬 Imagine you are designing a peer-to-peer tutoring service for students at a university. You envision a service that will let anyone go to a web app, input what they need help with, and be nearly instantly matched up with someone available to tutor them in real-time. What's the skateboard for the product? What is the smallest thing you can put in the hands of real users to get real feedback?
+💬 What would have been the MVP of these popular products? What is the smallest thing you think they launched to get user feedback? What features did they leave out?
 </aside>
 
 Post your answer in the padlet below. 
@@ -49,9 +51,13 @@ Post your answer in the padlet below.
 
 <div style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><iframe src="https://padlet.com/embed/p46iyyvblys0wh6k" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></div>
 
-
-
-
+<details>
+<summary>Expand here to see the answers</summary>
+  - Spotify started with just one function: streaming individual songs. There were no playlists or downloads
+  - Airbnb began with the founders renting their living room during a design conference, and setting up a mattress for guests to sleep on
+  - Uber began as a service that allowed users to send a text to book a cab. 
+  In all of these examples, the barebones approached allowed the product team to learn and see if a more fully-fledged idea was worth pursuing
+</details>
 
 
 
