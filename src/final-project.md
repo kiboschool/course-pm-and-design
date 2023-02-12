@@ -28,12 +28,14 @@ As a team, determine a direction for your product. To do so:
 - Copy the <a href="https://docs.google.com/presentation/d/1e8IXhSMGBr-EMdVvuHOlX6qfgNINvby5_FRDNIMQmZg/edit" target="_blank"> roadmap template from lesson 6.3 </a>
   - Use the template to determine what feature(s) will go into your MVP, MMP and MLP and your roadmap
   - You *do not* have to submit the template though you may link to it in your PRD if you wish
-- Copy <a href="https://docs.google.com/document/d/1uYfwNyXAwu-8-uIQaEGmtt6ZkiztkaaCxHe_XUpPu5U/edit?usp=sharing" target="_blank">this PRD template </a> This is the suggested template to use for your final project, but you may also choose to a different format. Whatever format you choose must include the following
-  - Summary of the problem, solution, and roadmap
-  - Background section that briefly describes the problem your product is solving
-  - Links to supporting documents including your Figma designs and concept test report
-  - List of major features with brief descriptions
-  - Roadmap that list what you will release when
+- Copy <a href="https://docs.google.com/document/d/1uYfwNyXAwu-8-uIQaEGmtt6ZkiztkaaCxHe_XUpPu5U/edit?usp=sharing" target="_blank">this PRD template </a> This is the suggested template to use for your final project, but you may also choose to a different format. 
+  - <a href="https://docs.google.com/document/d/1Jn-LthvbfhhXjgFwmBImNeozgXrjalPM28sg7UYhGOo/edit?usp=sharing" target="_blank">Here</a> is an example of a completed PRD using the template 
+  - You may choose to a use different PRD template if you wish. Whatever format you choose must include the following
+    - Summary of the problem, solution, and roadmap
+    - Background section that briefly describes the problem your product is solving
+    - Links to supporting documents including your Figma designs and concept test report
+    - List of major features with brief descriptions
+    - Roadmap that list what you will release when
 - Draft the background section of the PRD 
 
 ### Part 2: Complete design prototype
@@ -42,18 +44,23 @@ You have started working on designs for your final project in the [App Design](/
 - Building an interactive prototype in Figma. The prototype should allow someone to click through your app and mimic its behavior
 
 ### Part 3: Complete the PRD 
-Finish adding content to the PRD. Suggested order is:
+Complete the PRD for the MVP version of your product. Suggested order to work on the PRD is:
 - Background 
-- List of features and brief descriptions
-- Roadmap 
-- Links and summary 
+- Roadmap
+- Detailed requirements 
+  - This is a list of all the features in your MVP as well as descriptions of how each feature should work
+- Technical requirements
+- Summary and Supporting documents -- leave this until the end when you have finished the rest of the parts
 
 ### Part 4: Record a pitch video
 You will be recording a product pitch. The audience for this pitch are potential collaborators or investors. The pitch should clearly demonstrate:
 - The problem your product solves
+- Your team
 - The UI designs and main functionality
 - Why you believe your product will gain traction
 - Your "ask" of the viewer 
+
+When finished, upload your pitch video to YouTube. 
 
 ## Submission
 
