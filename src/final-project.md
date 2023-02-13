@@ -10,14 +10,14 @@ The final project is worth 30% of your final grade for the course. Late submsiss
 
 ## Product Design and Presentation
 
-In collaboration with your team members, you will design a solution to a given user problem.  YOu need to submit three artifacts for your final project:
+In collaboration with your team members, you will design a solution to a given user problem.  You need to submit three artifacts for your final project:
 
 - A complete product requirements document (15% of grade)
 - A prototype, built in Figma, with original UI designs for your product (10% of grade)
 - A recorded presentation (maximum of 7 minutes) explaining the problem, user research and product development process, and final product vision (5% of grade)
 
 ## Collaboration recommendations
-The final project has many moving pieces, so you should plan your strategy and collaboration. Below is a suggested approach which you may feel free to modify to better suit your team 
+The final project has many moving pieces, so you should plan your strategy and collaboration. Below is a suggested approach which you may feel free to modify to better suit your team. 
 
 ### Determine how you will split up the work 
 The final project has three major deliverables (PRD, Design, Video). Decide who will be the owner for each deliverable. The owner does not need to do all the work, but should be in charge of creating a timeline, splitting up the work, ensuring the work is done, and putting together the final artifact. 
@@ -28,7 +28,7 @@ As a team, determine a direction for your product. To do so:
 - Copy the <a href="https://docs.google.com/presentation/d/1e8IXhSMGBr-EMdVvuHOlX6qfgNINvby5_FRDNIMQmZg/edit" target="_blank"> roadmap template from lesson 6.3 </a>
   - Use the template to determine what feature(s) will go into your MVP, MMP and MLP and your roadmap
   - You *do not* have to submit the template though you may link to it in your PRD if you wish
-- Copy <a href="https://docs.google.com/document/d/1uYfwNyXAwu-8-uIQaEGmtt6ZkiztkaaCxHe_XUpPu5U/edit?usp=sharing" target="_blank">this PRD template </a> This is the suggested template to use for your final project, but you may also choose to a different format. 
+- Copy <a href="https://docs.google.com/document/d/1uYfwNyXAwu-8-uIQaEGmtt6ZkiztkaaCxHe_XUpPu5U/edit?usp=sharing" target="_blank">this PRD template </a> . This is the suggested template to use for your final project, but you may also choose to use a different format. 
   - <a href="https://docs.google.com/document/d/1Jn-LthvbfhhXjgFwmBImNeozgXrjalPM28sg7UYhGOo/edit?usp=sharing" target="_blank">Here</a> is an example of a completed PRD using the template 
   - You may choose to a use different PRD template if you wish. Whatever format you choose must include the following
     - Summary of the problem, solution, and roadmap
@@ -40,7 +40,9 @@ As a team, determine a direction for your product. To do so:
 
 ### Part 2: Complete design prototype
 You have started working on designs for your final project in the [App Design](/app-designs) project. You will now finish your designs. The finished product requires:
-- Adding any remaining major UI screens. You do not have to design every single screen and should leave out basics (e.g., account profile, password reset). Instead focus on the primary interactions for your app 
+- Designing the remaining major UI screens for your solution 
+  - The UI screens you design should show how users will interact with/flow through the major features in your product
+  - You do not have to design every single screen and should leave out the basics (e.g account, profile, password reset, etc). Instead focus on the primary features and interactions of your app 
 - Building an interactive prototype in Figma. The prototype should allow someone to click through your app and mimic its behavior
 
 ### Part 3: Complete the PRD 
