@@ -1,5 +1,5 @@
 #  User Flows/User Journeys 
-*Estimated Time: 60 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
