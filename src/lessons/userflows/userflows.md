@@ -55,7 +55,7 @@ Post your answer in the padlet below.
   - Compose message 
   - Click send icon
   
-  or 
+  or
   
   - Open WhatsApp
   - View “Chats” page
@@ -66,9 +66,9 @@ Post your answer in the padlet below.
   - View conversation with contact page 
   - Click on input field/add/camera/voice note
   - Compose message 
-  - Click send icon
+  - Click send icon 
   
-  or 
+  or
   
   - Open WhatsApp
   - View “Chats” page
