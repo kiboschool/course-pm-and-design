@@ -71,6 +71,11 @@ Post your answer in the padlet below.
 
 <details>
 <summary>Expand here to see the answers</summary>
-  - S
+  
+  - Status
+  - Calls
+  - Communities
+  - Chats
+  - Settings
 </details>
 
