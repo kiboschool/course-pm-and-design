@@ -74,6 +74,9 @@
 
 ### Week 7
 - [Week 7: Information Architecture and User Flows](lessons/user-flows.md)
+  - [Information Architecture (IA)](lessons/.md)
+  - User Flows/User Journeys](lessons/.md)
+  - [Wrap up](lessons/.md)
 
 ### Week 8
 - [Week 8: Prototyping and Usability Testing](lessons/prototyping.md)
