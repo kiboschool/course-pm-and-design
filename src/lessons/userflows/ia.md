@@ -60,7 +60,7 @@ Card sorting and tree testing can be done in different ways, for different reaso
 ## IA Practice 
 
 <aside>
-💬 What would the top level IA items for Whatsapp’s mobile app be? Use a bullet point for each top level item. 
+💬 What would the top level IA items for WhatsApp’s mobile app be? Use a bullet point for each top level item. 
 </aside>
 
 Post your answer in the padlet below. 
