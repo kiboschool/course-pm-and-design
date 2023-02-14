@@ -1,5 +1,5 @@
 # Information Architecture (IA)
-*Estimated Time: 60 minutes*
+*Estimated Time: 30 minutes*
 
 ---
 
