@@ -82,7 +82,7 @@
 - [Week 8: Prototyping and Usability Testing](lessons/prototyping.md)
   - [Prototyping](lessons/proto/prototyping.md)
   - [Usability Testing](lessons/proto/ut.md)
-  - [Wrap up](lessons/proto/wrap-up.md)
+  - [Wrap up](lessons/proto/wrapup.md)
 
 
 ### Week 9
