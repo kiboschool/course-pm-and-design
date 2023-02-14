@@ -43,6 +43,7 @@ Post your answer in the padlet below.
 
 <details>
 <summary>Expand here to see the answers</summary>
+  
   - Open WhatsApp
   - View “Chats” page
   - Click search 
