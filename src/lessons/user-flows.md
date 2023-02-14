@@ -1,4 +1,4 @@
-# Users Flows
+# Information Architecture & Users Flows
 
 E*stimated Time: 60 minutes*
 
