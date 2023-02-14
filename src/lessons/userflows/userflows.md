@@ -43,6 +43,39 @@ Post your answer in the padlet below.
 
 <details>
 <summary>Expand here to see the answers</summary>
-  - S
+  - Open WhatsApp
+  - View “Chats” page
+  - Click search 
+  - Type in contacts name and search
+  - View search results 
+  - Click contacts name in search results 
+  - View conversation with contact page 
+  - Click on input field/add/camera/voice note
+  - Compose message 
+  - Click send icon
+  
+  or 
+  
+  - Open WhatsApp
+  - View “Chats” page
+  - Click on compose icon
+  - Scroll to search for contacts name or click search, type in contacts name then view search results 
+  - View search results 
+  - Click contacts name
+  - View conversation with contact page 
+  - Click on input field/add/camera/voice note
+  - Compose message 
+  - Click send icon
+  
+  or 
+  
+  - Open WhatsApp
+  - View “Chats” page
+  - Scroll to search for contacts name 
+  - Click contacts name
+  - View conversation with contact page 
+  - Click on input field/add/camera/voice note
+  - Compose message 
+  - Click send icon   
 </details>
 
