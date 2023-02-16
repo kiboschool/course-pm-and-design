@@ -14,7 +14,7 @@ The table below summarizes how your grades for the course is calculated.
 | Concept Creation                                    | 10%                           | Mon January 23           
 | Final project milestone 1: concept test report      | 20%                           | Mon February 6           
 | Design replication                                  | 5%                            | Mon February 13            
-| Final project milestone 2: app design               | 20%                           | Mon February 27          
+| Final project milestone 2: app design               | 20%                           | Thur March 2        
 | Final project                                       | 30%                           | Mon March 20             
 
 #### Late submissions
