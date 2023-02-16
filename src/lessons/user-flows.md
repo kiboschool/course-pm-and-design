@@ -1,6 +1,6 @@
-# Users Flows
+# Information Architecture & Users Flows
 
-E*stimated Time: XXX hours*
+E*stimated Time: 60 minutes*
 
 ---
 
@@ -13,11 +13,22 @@ E*stimated Time: XXX hours*
 
 After completing this lesson, you will be able to:
 
-- Create a UX information architecture diagram that illustrates a digital product's pages and hierarchy
-- Use various frameworks including user experience maps and critical user journeys to define a user's experience of a product
-- Collect and use qualitative and quantitative measures to track a user's success in a product
+- Be able to create information architecture diagrams that shows how products’; pages, features and functionalities relate to each other and can be accessed by users 
+- Be able to create user flows that show the steps users take to achieve their goals using a product
 
 
+## Sections
 
+<aside>
+
+👩🏿‍🏫 Complete this lesson by exploring each section
+
+</aside>
+
+[Information Architecture (IA)](lessons/userflows/ia.md)
+
+[User Flows/User Journeys](lessons/userflows/userflows.md)
+
+[Wrap Up](lessons/useflows/wrap-up.md)
 
 ---
