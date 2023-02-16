@@ -9,6 +9,7 @@
 
 ## Brief
 By now, your team has:
+
 - Completed the concept test report, and have a product direction
 - Completed the individual design replication assignment and praticed UI design  with Figma. 
 
@@ -18,10 +19,10 @@ For this project, your squad will design and submit **at least** four pages of y
 ## Guidance
 
 - Before beginning the visual design
-  - Sketch out the pages you want to design using Figjam or any other whiteboard collaboration tool you prefer. The sketches don't have to look good. They need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
-- Agree on the design direction with your squad before you start designing in Figma. This will help reduce disagreements once you're designing the UI.
+  - Sketch out the pages you want to design using Figjam or another whiteboard collaboration tool. The sketches don't have to look good. They need to clearly highlight the feature/s you're designing so that as a squad, you all understand how your solution will work.
+- Agree on the design direction with your team before you start designing in Figma. This will reduce disagreements once you're designing the UI.
   - Design direction to agree on include your solutions name, the brand colors for your solution, the typeface for your brand, etc.
-  - Once you have a design direction, jump into Figma and start designing. 
+  - Once you have a design direction, jump into Figma and start designing 
 - Decide on an approach to split up the work
   - Each member of the squad must design at least one page
   - The rest of the design may be split up however you wish. For example, one person may be delegated to design the rest of the pages while others focus on other aspects of the final project. But it is critical that each person design at least one page 
