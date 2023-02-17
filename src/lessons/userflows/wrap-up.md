@@ -14,6 +14,7 @@
 
 ## Assignment
 After finishing this lesson, you should:
-- Complete **Part 3** of the [Final Project Milestone 1: Concept Testing](/concept-testing.html) if you haven't already done so
-- Complete the [design replication assignment](/assignment-design-replication.html) 
+- Complete [Final Project Miestone 2: App Design](/app-designs.html)
+- Continue working on Part 1 of the [Final Project](/final-project.html)
+
 
