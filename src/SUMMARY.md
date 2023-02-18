@@ -75,7 +75,7 @@
 ### Week 7
 - [Week 7: Information Architecture and User Flows](lessons/user-flows.md)
   - [Information Architecture (IA)](lessons/userflows/ia.md)
-  - [User Flows/User Journeys](lessons/userflows/userflows.md)
+  - [User Flows](lessons/userflows/userflows.md)
   - [Wrap up](lessons/userflows/wrap-up.md)
 
 ### Week 8
