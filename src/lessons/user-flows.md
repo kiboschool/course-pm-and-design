@@ -27,7 +27,7 @@ After completing this lesson, you will be able to:
 
 [Information Architecture (IA)](lessons/userflows/ia.md)
 
-[User Flows/User Journeys](lessons/userflows/userflows.md)
+[User Flows](lessons/userflows/userflows.md)
 
 [Wrap Up](lessons/useflows/wrap-up.md)
 
