@@ -3,16 +3,27 @@
 
 ---
 
-Information architecture (IA) diagrams help designers structure and organize content, features and functionalities in an intuitive and meaningful way that makes it easy for users to access and navigate digital products. 
-
-An IA diagram can be a powerful way to clearly map out how a product should be designed so that it's easy for users to find what they are looking for and understand how all the pieces of a digital product fit together. When done correctly a good IA will lead to:
+Information architecture (IA) is a crucial aspect of UX design. It helps to organize and structure content on a website or application in an intuitive and meaningful way that makes it easy for users to access and navigate digital products. At its core, IA is about understanding how users think and how they will interact with a product. When done correctly a good IA may contribute to:
 
 - A good brand and product image 
 - An increase in users 
 - Better click through rates 
 - Increased conversions and in-turn an increase in revenue
 
-## Creating IA Diagrams
+IAs are usually represented using tree like diagrams. PMs, designers and engineers use these diagrams to clearly map out how a product should be designed and built so that it's easy for users to find what they are looking for and understand how all the pieces of a digital product fit together.
+
+
+## IA Diagrams
+
+As stated above IA diagrams a great way to map out how a product should be organized and structured. The image below shows an example of simple and intuitive IA diagram for an online grocery delivery product. Spend a couple minutes going through the image. Pay attention to how the designer grouped and structured the features and functionalities.
+
+
+![Grocery delivery ia](https://user-images.githubusercontent.com/28001435/219878400-424414ff-ffd7-44c7-9751-3783f2d6efa8.png) *Site map designed by Amy Shepheard for a online grocery delivery product in development* 
+
+From the image we can see that; search, account, shopping basket, help and product categories are features which can be accessed from the home page. Within each of these features users can access; related features, carry out a range of functionalities or view products/information by category. This is a good example of how information, features and functionalities can be organized and structured in an intuitive and meaningful way so that it’s easy for users to navigate and find what they are looking for.
+
+
+### Creating IA Diagrams
 
 <aside>
 📺 Watch the video below for more information on what IA’s are and how to create IA’s 
@@ -21,7 +32,7 @@ An IA diagram can be a powerful way to clearly map out how a product should be d
 <div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe width="560" height="315" src="https://www.youtube.com/embed/Ij4WquJaRTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
 
-### Video Summary/Takeaways
+#### Video Summary/Takeaways
 
 - Before creating an IA diagram:
   - Define the company goals with the product
