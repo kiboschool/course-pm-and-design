@@ -69,7 +69,7 @@
   - [Documenting product requirements](lessons/product-requirements/documentation.md)
   - [Wrap up](lessons/product-requirements/wrap-up.md)
 
-<!--
+
 ### Week 7
 - [Week 7: Information Architecture and User Flows](lessons/user-flows.md)
   - [Information Architecture (IA)](lessons/userflows/ia.md)
@@ -88,4 +88,4 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
--->
+
