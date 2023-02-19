@@ -5,12 +5,6 @@
 
 
 Information architecture (IA) is a crucial aspect of UX design. It helps to organize and structure content on a website or application in an intuitive and meaningful way that makes it easy for users to access and navigate digital products. At its core, IA is about understanding how users think and how they will interact with a product. When done correctly a good IA may contribute to:
-=======
-
-## IA diagrams
-Information architecture (IA) diagrams help designers structure and organize content and features in an intuitive way that makes it easy for users to access and navigate digital products. 
-
-An IA diagram mpas out how a product should be designed so that it's easy for users to find what they are looking for and understand how all the pieces of the product fit together. When done correctly a good IA will lead to:
 
 - A good brand and product image 
 - An increase in users 
