@@ -1,12 +1,11 @@
 # Overview
 
 [Course Overview](pm-and-design.md)
+[Live Classes](live-classes.md)
 [Assessments & Grading](assessments.md)
 [Assignment: create concepts](assignment-create-concepts.md)
 [Final Project Milestone 1: Concept Testing](concept-testing.md)
-[Live Classes](live-classes.md)
 [Assignment: design replication](assignment-design-replication.md)
-[Assignment: information architecture](assignment-information-architecture.md)
 [Final Project Milestone 2: App Design](app-designs.md)
 [Final Project](final-project.md)
 
@@ -25,8 +24,7 @@
   - [Ideate: Can We?](lessons/software-team/ideate.md)
   - [Wrap up](lessons/software-team/wrap-up.md)
 
-  
-
+ 
 
 ### Week 2
 
@@ -71,7 +69,7 @@
   - [Documenting product requirements](lessons/product-requirements/documentation.md)
   - [Wrap up](lessons/product-requirements/wrap-up.md)
 
-
+<!--
 ### Week 7
 - [Week 7: Information Architecture and User Flows](lessons/user-flows.md)
   - [Information Architecture (IA)](lessons/userflows/ia.md)
@@ -90,3 +88,4 @@
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
+-->

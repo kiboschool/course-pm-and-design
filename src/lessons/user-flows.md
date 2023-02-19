@@ -14,8 +14,8 @@ E*stimated Time: 60 minutes*
 
 After completing this lesson, you will be able to:
 
-- Be able to create information architecture diagrams that shows how products’; pages, features and functionalities relate to each other and can be accessed by users 
-- Be able to create user flows that show the steps users take to achieve their goals using a product
+- Create information architecture diagrams that shows how products’ pages, features and functionalities relate to each other, and can be accessed by users 
+- Create user flows that show the steps users take to achieve their goals using a product
 
 
 ## Sections
