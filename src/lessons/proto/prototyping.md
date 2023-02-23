@@ -41,6 +41,6 @@ From the video and reading, we learn:
   - Medium fidelity prototypes are best used during the wireframing stage of the design process. They’re great for testing user flows and broad functionalities. 
   - An example of medium fidelity prototypes is clickable wireframes.
   - High fidelity prototypes are best used when you have a good idea of what is going to be built. They're good for fine tuning designs when getting a product ready for launch.
-  - An examples of high fidelity prototypes is clickable visual designs/UI mockups
+  - An example of high fidelity prototypes is clickable visual designs/UI mockups
 
 
