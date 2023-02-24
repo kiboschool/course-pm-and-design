@@ -10,7 +10,7 @@ Usability testing is a research method used to evaluate how well a product perfo
 - Gather feedback that can be used to improve the user experience.
 
 
-## Benefits of usability testing 
+## Benefits of Usability Testing 
 
 Usability testing is beneficial for many reasons, some of which are below.
 
