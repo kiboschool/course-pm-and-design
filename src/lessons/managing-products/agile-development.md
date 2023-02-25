@@ -82,6 +82,3 @@ Stakeholders: Stakeholders are the people who will be using or affected by the s
 ## Conclusion
 
 Agile software development is an iterative and collaborative approach to software development that focuses on delivering a working product incrementally and continuously throughout the development process. It's not the only approach to software development, but it offers many advantages over traditional approaches. By embracing iterative development and collaboration, product managers can deliver better products faster and more efficiently.
-
-
-<
