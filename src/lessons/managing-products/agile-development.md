@@ -4,91 +4,84 @@
 
 ---
 
+<img width="811" alt="image" src="https://user-images.githubusercontent.com/1774663/221367298-d9268e7a-d6ca-4e9d-b417-41076cf65aa4.png">
+
+## What is Agile?
+
+Agile software development is an approach to software development that emphasizes buidling and shipping small pieces of working functionality. It is often used in software development but can also be applied to other types of projects. In this lesson, we'll explore what agile is and why iterative development matters.
+
 <aside>
-  
-  🗣 **"'Build it and they will come,' is not a strategy; it’s a prayer."** <br>
-  — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
-
-</aside>
-
-
-## What is User Experience Research?
-User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
-
-  
-
-## Quantitative vs. qualitative research
-Two main types of UX research methods are quantitative and qualitative. 
-
-<aside> 
-  📺 Watch this video to better understand the differences between qualitative and quantiative research
-</aside>
-
+  📺 Watch the video below for an overview of agile development
+ </aside>
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LmWPygSxMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GzzkpAOxHXs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
 ></iframe>
 </div>
 
 
-### Quantitative research 
-Quantiative UX research collects and analyzes numerical data. This can include surveys, A/B testing, usage logs, or other methods that provide data for statistical analysis. Quantitative research is useful to 
-- Generate data from a large sample size
-- Make generalizations about a large population
-- Test hypotheses and identify trends or patterns in user behavior 
+As the video notes, agile  development is an _iterative_ approach to software development. Agile teams focus on delivering a working product incrementally, and value collaboration, flexibility, and rapid iteration. Agile is so popular that there is an "agile manifestor" which describes its core principles including:
 
-Some questions a researcher might answer with quantiative research include:
-- How many active users does the product have each day or each month?
-- What share of people find the call to action on the page?
-- What is the average satisfaction level of users with the product or service?
+- Individuals and interactions over processes and tools
+- Working software over comprehensive documentation
+- Customer collaboration over contract negotiation
+- Responding to change over following a plan
 
-### Qualitative research
-Qualitative research is less focused on collecting and analyzing numerical data. Instead, the goal of qualitative research is to understand the underlying reasons behind user behavior and preferences, and  explore the subjective experiences of users. This type of research is often used to:
-- Identify trends or patterns that may not be immediately apparent from numerical data
-- Gain a deeper understanding of user motivations and behaviors
-
-Qualitative research typically involves conducting interviews, focus groups, observations, or other activities that allow researchers to probe users' thoughts and experiences in greater detail. Qualitative research often involves smaller sample sizes and is used to generate detailed insights into user behavior and preferences.
+Agile teams typically work in short cycles called sprints or iterations. Each sprint results in a working product, which the team then uses to solicit feedback from stakeholders and to refine and plan the next sprint.
 
 
 
+### Why Iterative Development Matters
 
-## Attitudinal vs. behaviorial research
+Iterative development is at the heart of agile software development, and it matters for several reasons:
 
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe (their attitudes) are often different from what they actually do (their behavior). To _build the right thing_, it's important to understand both what users believe and how they behave. 
+- Faster time-to-market: By delivering working products incrementally, agile teams can release products faster and get feedback from customers sooner.
+- Increased flexibility: Agile teams can respond to changing requirements and customer needs quickly, making it easier to pivot if necessary.
+- Improved collaboration: Agile teams work closely together and with stakeholders throughout the development process, fostering collaboration and communication.
+- Continuous improvement: Agile teams use feedback from stakeholders to continuously improve the product, resulting in a better end product.
 
-![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
+### Alternatives to Agile
+
+While agile is a popular approach to software development, it's not the only option. Some alternatives to agile include:
+
+Waterfall: A traditional project management approach that involves a linear sequence of phases, including planning, design, implementation, testing, and deployment.
+Lean: A methodology focused on eliminating waste and maximizing value.
+
+Each approach has its own advantages and disadvantages, and the best approach for a given project depends on various factors such as project scope, team size, and available resources.
+
+## Agile sprints
+An agile sprint is a short, focused period of development that typically lasts 1-4 weeks. During a sprint, the development team works to deliver a specific set of features or functionality. The sprint begins with a sprint planning meeting, where the team reviews the backlog of user stories and selects the stories that they will work on during the sprint.
+
+User stories are a critical part of the sprint planning process. User stories describe a specific feature or functionality from the perspective of the user or customer. They typically follow a simple format: "As a [user], I want to [do something], so that I can [achieve a goal]." User stories help to define the scope of the work to be done during the sprint and ensure that the team is working on features that are valuable to the customer.
+
+### Steps of an agile sprint
+1. Sprint planning: the team selects user stories to work on during the sprint, estimates the effort required, and determines how much work they can realistically complete.
+
+2. Sprint execution: the team works together to develop and test the features outlined in the user stories. They hold daily stand-up meetings to discuss progress and any obstacles they are facing.
+
+3. Sprint review: the team demonstrates the working software to stakeholders and receives feedback.
+
+4. Sprint retrospective: the team holds a retrospective meeting to review the sprint, identify areas for improvement, and make changes to improve their process for the next sprint.
+
+### Roles in an agile sprint
+
+<aside> 🧑🏿‍🤝‍🧑🏽🧑🏿‍🤝‍🧑🏽 Software is a team sport!
+  </aside>
+  
+  Software is a team sport, and different team members contribute to the success of an agile sprint. Below is a summary of what various team members do during a sprint
+  
+  Product Manager or Owner: defines and prioritizes the backlog of user stories, and makes sure that the team is working on features that deliver value to the users and business 
+  
+  UX designer: create wireframes, prototypes, or other designs to guide development, and works with development team to ensure that the design is implemented correctly and to gather feedback on the usability
+
+Software engineers: build and deliver working software during the sprint, including coding, testing and deployment.
+
+Scrum Master: facilitates sprint planning and retrospective meetings, and helping the team to continuously improve their process. This might be the product manager or a senior engineer
+
+Stakeholders: Stakeholders are the people who will be using or affected by the software being developed. They provide feedback on the working software during the sprint review and may provide input on user stories during the sprint planning process.
+
+## Conclusion
+
+Agile software development is an iterative and collaborative approach to software development that focuses on delivering a working product incrementally and continuously throughout the development process. It's not the only approach to software development, but it offers many advantages over traditional approaches. By embracing iterative development and collaboration, product managers can deliver better products faster and more efficiently.
 
 
-
-### Attitudinal research 
-Attitudinal research aims to understand the attitudes and beliefs of a user. It typically involves conducting surveys, interviews, or other methods that allow researchers to explore people's attitudes and beliefs in greater detail. This type of research is often used to:
-- Identify potential problems or issues with a product or service
-- Gauge the effectiveness of marketing campaigns
-- Understand the underlying reasons behind user attitudes and beliefs
-
-### Behaviorial research
-
-Behavioral research aims to understand the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve using tools like heat maps or click tracking software. This type of research is often used to:
-- Inform the design of specific user flows, e.g., onboarding 
-- Personalize product experience, e.g., by providing user-specific recommendations
-- Identify areas for improvement in a product or service
-
-
-<aside>
-🤔 Which types of research should you use and when?
-</aside>
-
-## UX Design principle: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
-
-
-
-
-## Optional Resources
-
-<details>
-<summary>UX Research at real companies</summary>
-  <a href="https://www.answerlab.com/insights/takeaways-forrester-sf" target="_blank"> How instagram's culture of ux research positively impacts customer experience: takeaways from forrester cxsf</a><br />
-  <a href="https://about.gitlab.com/handbook/product/ux/ux-research/" target="_blank">UX Reseaarch at Gitlab</a>
-</details>
-
-
+<
