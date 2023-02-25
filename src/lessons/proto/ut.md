@@ -48,10 +48,6 @@ Next, we'll explore what usability testing is,  the difference between user test
 From the video and reading, we learn:
 
   - User testing is the process of validating the demand for a product while usability testing is the process of evaluating whether users can achieve certain goals using a product prototype. 
-  - Usability testing involves observing users as they perform a series of tasks with a product prototype and asking them to provide feedback on their experience.
-  - Usability testing focuses on identifying problems in the design and learning about user’s behavior and preferences.   
-  - Observing real users interacting with a design then iterating based on feedback is necessary to designing great products. 
-  - Recruit at least 5 participants for your usability tests so that you have enough feedback to discover most of the potential issues.
   - Usability tests can be carried out in a number of ways. They can be; moderated or unmoderated, remote or in-person and explorative or comparative. 
   - Moderated usability tests are administered by a researcher/facilitator either in person or remotely using a conferencing tool like Zoom or Google Meet. Unmoderated usability tests are carried without a researcher/facilitator.
   - Explorative usability tests are open ended. Participants are asked to give their opinions or express emotional impressions. 
