@@ -84,7 +84,10 @@
 
 
 ### Week 9
-- [Week 9: Continuous Design Life Cycle](lessons/design-lifecycle.md)
+- [Week 9: Continuous Design Life Cycle](lessons/managing-products.md)
+  - [Agile development](#)
+  - [Product Metrics](#)
+  - [Pitching](#)
 
 ### Week 10
 - [Week 10: Final Project](final-project.md)
