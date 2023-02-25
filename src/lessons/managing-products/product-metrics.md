@@ -4,91 +4,95 @@
 
 ---
 
-<aside>
-  
-  🗣 **"'Build it and they will come,' is not a strategy; it’s a prayer."** <br>
-  — Steve Blank, The Four Steps to the Epiphany: Successful Strategies for Startups That Win
-
-</aside>
+![image](https://user-images.githubusercontent.com/1774663/210020049-d4bf0208-eace-4fc1-aa35-2575522fa1f4.png)
 
 
-## What is User Experience Research?
-User experience (UX) research is the process of studying the behaviors, needs, attitudes and motivations of users in order to improve the design of software, services or products. UX researchers conduct various types of research, including interviews, surveys, usability tests in order to gather data from users and identifies opportunites for impact. 
-
-  
-
-## Quantitative vs. qualitative research
-Two main types of UX research methods are quantitative and qualitative. 
-
-<aside> 
-  📺 Watch this video to better understand the differences between qualitative and quantiative research
-</aside>
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/LmWPygSxMms" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-></iframe>
-</div>
+Previously, we discussed crafting MVPS and using the "Build, Measure, Learn" (Learn, Build, Measure) framework to iterate towards a userful product. We've also examined agile development, a methodology that helps product teams implement iterative development.  For iterative development to deliver value, teams have to measure and learn. In this lesson, we explore how to use metrics to improve products. 
 
 
-### Quantitative research 
-Quantiative UX research collects and analyzes numerical data. This can include surveys, A/B testing, usage logs, or other methods that provide data for statistical analysis. Quantitative research is useful to 
-- Generate data from a large sample size
-- Make generalizations about a large population
-- Test hypotheses and identify trends or patterns in user behavior 
+Measuring the right metrics and drawing useful insights can be challenging. Often, product teams make two mistakes when it comes to metrics
 
-Some questions a researcher might answer with quantiative research include:
-- How many active users does the product have each day or each month?
-- What share of people find the call to action on the page?
-- What is the average satisfaction level of users with the product or service?
-
-### Qualitative research
-Qualitative research is less focused on collecting and analyzing numerical data. Instead, the goal of qualitative research is to understand the underlying reasons behind user behavior and preferences, and  explore the subjective experiences of users. This type of research is often used to:
-- Identify trends or patterns that may not be immediately apparent from numerical data
-- Gain a deeper understanding of user motivations and behaviors
-
-Qualitative research typically involves conducting interviews, focus groups, observations, or other activities that allow researchers to probe users' thoughts and experiences in greater detail. Qualitative research often involves smaller sample sizes and is used to generate detailed insights into user behavior and preferences.
+1. They rely on vanity metrics
+2. They are data rich _but_ insight poor
 
 
+## Metrics mistakes
 
-
-## Attitudinal vs. behaviorial research
-
-Another set of research methods is attitudinal vs. behaviorial. The difference in these two approaches draws from the insight that what people say and believe (their attitudes) are often different from what they actually do (their behavior). To _build the right thing_, it's important to understand both what users believe and how they behave. 
-
-![image](https://user-images.githubusercontent.com/1774663/205453222-f7e80444-0b86-4601-89ad-499d4e69334a.png)
-
-
-
-### Attitudinal research 
-Attitudinal research aims to understand the attitudes and beliefs of a user. It typically involves conducting surveys, interviews, or other methods that allow researchers to explore people's attitudes and beliefs in greater detail. This type of research is often used to:
-- Identify potential problems or issues with a product or service
-- Gauge the effectiveness of marketing campaigns
-- Understand the underlying reasons behind user attitudes and beliefs
-
-### Behaviorial research
-
-Behavioral research aims to understand the actions and behaviors of users in relation to a particular product or service. It typically includes studies of how users interact with the product or service, how they navigate through different features or pages, or how they respond to different design elements. Behavioral research might involve using tools like heat maps or click tracking software. This type of research is often used to:
-- Inform the design of specific user flows, e.g., onboarding 
-- Personalize product experience, e.g., by providing user-specific recommendations
-- Identify areas for improvement in a product or service
-
+### Vanity metrics
 
 <aside>
-🤔 Which types of research should you use and when?
+  
+  🗣 **"Vanity metrics are metrics that make you look good to others but do not help you understand your performance in a way that informs future strategies. These metrics are exciting to point to if you want to appear to be improving, but they often aren’t actionable and aren’t related to anything you can control or repeat in a meaningful way."** - Tableau 
 </aside>
 
-## UX Design principle: Mix it up!
-💡 When conducting research, use a mix of both quantitative and qualitiative research, as well as a mix of attitudinal and behavioral approaches. This enables you to get the clearest and most naunced view of a design problem. 
+
+Vanity metrics are metrics that may be impressive on the surface but do not provide meaningful insights into the performance of the software. Some examples are:
+
+- Pageviews: pageviews can be misleading because a website may get a lot of visitors, but it doesn't indicate whether users are actually engaging with the content on the site.
+
+- Downloads: the number of downloads for a mobile app can be a vanity metric if many users download the app but few actually use it.
+
+- Sign-ups: the number of sign-ups for a service can be a vanity metric if many users sign up but few actually become regular users.
+
+- Social media followers: having a large number of social media followers may be impressive, but it doesn't necessarily translate into meaningful engagement or business value.
+
+- Time spent on site: the amount of time users spend on a website can be a vanity metric since it doesn't necessarily indicate whether users are finding what they need or taking desired actions.
+
+These metrics may provide some indication of reach, but what makes them "vanity metrics" is that they don't necessarily tell us if the product is meeting the goals of the user or business. 
+
+### Data rich _but_ insight poor
+Being data-rich but insight-poor means that an organization has access to large amounts of data but is not able to extract meaningful insights or take action based on that data. In other words, the organization may be collecting data but is not able to use it effectively to inform decision-making or drive improvements.
+
+### Actionable metrics
+The two data challenges above have the same solution:
+<aside>
+  Measure what matters
+  </aside>
+  
+Software teams can avoid relying on vanity metrics and draw meaningful insight from data by:
+1. Tracking metrics that are tied to specific business goals or user needs. These "actionable metrics" help teams understand how the software is performing and how it can be improved.
+2. Tracking metrics consistently and accurately. If the data being collected is inaccurate or incomplete, it may be difficult to draw meaningful conclusions or make informed decisions based on that data. So, good teams ensure they collect data well 
+3. Analyzing data regularly: Having access to high-quality data is not enough. Organizations will need to have the skills and make the time to analyze that data effectively
+
+## One Metric that Matters
+One Metric That Matters (OMTM) is a concept that suggests companies should focus on identifying and tracking a single metric that is most closely tied to their core business objective. In the context of software products, identifying an OMTM can be helpful for focusing on specific business goals or user needs, prioritizing work, measuring the impact of efforts, and making data-driven decisions to drive improvements. By tracking a single metric, product teams can better align their efforts and resources around their core business objective and achieve meaningful improvements in product performance.
+
+here are some examples of software products and their One Metric That Matters (OMTM):
+
+Facebook: Daily Active Users (DAUs). The number of users who log into Facebook on a daily basis is Facebook's OMTM, as it is closely tied to the company's core business objective of increasing engagement and advertising revenue.
+
+Spotify: Time Spent Listening (TSL). The amount of time users spend listening to music on Spotify is the company's OMTM, as it is closely tied to the company's core business objective of increasing user engagement and subscription revenue.
+
+Slack: Daily Active Users (DAUs). The number of users who actively use Slack on a daily basis is the company's OMTM, as it is closely tied to the company's core business objective of increasing workplace productivity and collaboration.
+
+Uber: Completed Rides. The number of completed rides on Uber's platform is the company's OMTM, as it is closely tied to the company's core business objective of increasing revenue and market share.
+
+Airbnb: Nights Booked. The number of nights that users book through Airbnb's platform is the company's OMTM, as it is closely tied to the company's core business objective of increasing revenue and market share.
+
+by customers, as it is closely tied to the company's core business objective of increasing user engagement and subscription revenue through video conferencing software.
+
+Atlassian: Time to Resolution (TTR). Atlassian's OMTM is the time it takes to resolve customer support issues, as it is closely tied to the company's core business objective of providing high-quality software products and services to enterprise customers.
+
+Overall, identifying an OMTM can help companies focus on a single metric that is most closely tied to their core business objective and make data-driven decisions to drive improvements in product performance.
+
+there are some risks associated with focusing too heavily on a single metric as the One Metric That Matters (OMTM). Here are a few potential risks:
+
+Tunnel vision: By focusing too heavily on a single metric, product teams can lose sight of other important metrics or user needs that may be critical to the success of the product.
+
+Unintended consequences: Focusing on a single metric can lead to unintended consequences, such as encouraging users to engage in behavior that is not in their best interest or sacrificing long-term growth for short-term gains.
+
+Incomplete picture: Focusing on a single metric can provide an incomplete picture of the product's overall performance or impact, as other important factors may not be captured by the chosen metric.
+
+To avoid these risks, it is important for product teams to consider the context and broader business objectives when identifying an OMTM. They should also regularly review other metrics and user feedback to ensure that they are not inadvertently sacrificing long-term success for short-term gains. Finally, it's important to keep in mind that the OMTM is a tool for driving improvements in product performance, not an end goal in itself. By staying focused on the broader business objectives and user needs, product teams can avoid the risks of focusing too heavily on a single metric.
+
+
+insert padlet:
+You’ve just launched LectureLive, a video streaming service for university students to access and download high-quality video lectures. 
+
+What are your key product success metrics?
 
 
 
 
-## Optional Resources
 
-<details>
-<summary>UX Research at real companies</summary>
-  <a href="https://www.answerlab.com/insights/takeaways-forrester-sf" target="_blank"> How instagram's culture of ux research positively impacts customer experience: takeaways from forrester cxsf</a><br />
-  <a href="https://about.gitlab.com/handbook/product/ux/ux-research/" target="_blank">UX Reseaarch at Gitlab</a>
-</details>
-
-
+  
