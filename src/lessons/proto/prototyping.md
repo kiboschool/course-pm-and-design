@@ -3,16 +3,16 @@
 
 ---
 
-Prototyping is the process of creating scaled down versions of  ideas or products. It provides a low-risk way to test, validate and refine designs before investing significant resources to build them. You may recall that prototyping is the fourth stage of design thinking.
+Prototyping is the process of creating scaled down versions of  ideas or products. It provides a low-risk way to test, validate and refine designs before investing significant resources to build them. You may recall that prototyping is the fourth stage of design thinking as shown in the image below.
 
 ![image](https://user-images.githubusercontent.com/1774663/221359537-993a5708-930e-4075-9399-122d24a97cdb.png)
 
 
-Benefits of prototypes include:
+The benefits of prototypes include:
 
-- **Enable designers to get feedback early from users.** By testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
-- **Align stakeholders around the design.** By creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
-- **Save time and resources.** By identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
+- **Enable designers to get feedback early from users:** by testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
+- **Align stakeholders around the design:** by creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
+- **Save time and resources:** by identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
 
 Now that we understand their benefits, let's look at the different types of prototypes which can be used to test, refine and validate ideas/designs. 
 
@@ -38,12 +38,8 @@ Now that we understand their benefits, let's look at the different types of prot
 From the video and reading, we learn:
 
   - The three types of prototypes are; low fidelity, medium fidelity and high fidelity.
-  - Fidelity is the level of detail/functionality a prototype has. A good way to think about fidelity is how close to a fully developed product a prototype is.
-  - Low fidelity prototypes are best used in the early stages of the design process where a lot of ideas are still up in the air and there’s still a lot of experimentation going on. They allow us to make changes to ideas/designs easily and quickly. 
-  - Examples of low fidelity prototypes are; sketches and paper prototypes.
+  - Low fidelity prototypes are best used in the early stages of the design process where a lot of ideas are still up in the air and there’s still a lot of experimentation going on. They allow us to make changes to ideas/designs easily and quickly.
   - Medium fidelity prototypes are best used during the wireframing stage of the design process. They’re great for testing user flows and broad functionalities. 
-  - An example of medium fidelity prototypes is clickable wireframes.
   - High fidelity prototypes are best used when you have a good idea of what is going to be built. They're good for fine tuning designs when getting a product ready for launch.
-  - An example of high fidelity prototypes is clickable visual designs/UI mockups
 
 
