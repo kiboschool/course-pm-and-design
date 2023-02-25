@@ -3,26 +3,31 @@
 
 ---
 
-Usability testing is a research method used to evaluate how well a product performs for its intended users. It usually involves observing users as they perform a series of tasks with a product prototype and asking them to provide feedback on their experience. During usability tests, designers typically record user's interactions with the prototype, ask follow-up questions to gather feedback, and take notes on any issues or design problems that arise. You may be familiar with usability testing as one of the common research techniques mentioned in the user research lessons covered in week 2. The goals of usability testing are to:
+Usability testing is a research method used to evaluate how well a product performs for its intended users. It usually involves observing users as they perform a series of tasks with a product prototype, and asking them to provide feedback on their experience. During usability tests, designers typically:
+- Record user's interactions with the prototype
+- Ask follow-up questions to gather feedback
+- Take notes on any issues or design problems that arise
 
-- Identify any problems or issues that users may encounter when interacting with a product.
-- Understand if your design is usable and intuitive enough for users to accomplish their goals. 
-- Gather feedback that can be used to improve the user experience.
+You may recall usability testing as one of the common research techniques mentioned in the user research lessons covered in week 2. The goals of usability testing are to:
+
+- Identify any problems or issues that users may encounter when interacting with a product
+- Understand if the design is usable and intuitive enough for users to accomplish their goals 
+- Gather feedback that can be used to improve the user experience
 
 
 ## Benefits of Usability Testing 
 
-Usability testing is beneficial for many reasons, some of which are below.
+Usability testing helps to:
 
-**Helping to identify design problems and issues that users may encounter:** by observing users as they interact with the product, designers can identify areas where the user experience could be improved and make data-driven decisions to improve the product's design.
+**Identify design problems and issues that users may encounter:** by observing users as they interact with the product, designers can identify areas where the user experience could be improved and make data-driven decisions to improve the product's design.
 
-**Gathering feedback from real users:** usability testing allows designers to gather feedback from real users, who can provide valuable insights into how a product will be used and how it can be improved.
+**Gather feedback from real users:** usability testing allows designers to gather feedback from real users, who can provide valuable insights into how a product will be used and how it can be improved.
 
-**Prioritizing design changes:** by identifying the most significant design problems and issues, designers can prioritize changes that will have the greatest impact on the user experience.
+**Priorite design changes:** by identifying the most significant design problems and issues, designers can prioritize changes that will have the greatest impact on the user experience.
 
-**Ensuring that the product is user-centered:** by focusing on the user's experience with the product, designers can ensure that the final product is user-centered and meets the needs of its intended audience.
+**Ensure that the product is user-centered:** by focusing on the user's experience with the product, designers can ensure that the final product is user-centered and meets the needs of its intended audience.
 
-With the goals and benefits of usability testing covered, let's watch the video below to get more information on; what usability testing is, what the difference between user testing and usability testing is, how to carry out usability tests and types of usability testing.
+Next, we'll explore what usability testing is,  the difference between user testing and usability testing, how to conduct usability tests, and types of usability testing.
 
 
 <aside>
