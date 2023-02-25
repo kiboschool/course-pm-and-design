@@ -3,15 +3,18 @@
 
 ---
 
-Prototyping is the process of creating preliminary/scaled down versions of  ideas/products. It provides a low-risk way to test, validate and refine ideas/designs before investing significant resources into building them out. You may recall that prototyping is the fourth stage of the design thinking process. To recap, we start off the design thinking process by understanding users' needs and the problem that needs to be solved _(empathize/research)_. We then define the problem based on information gathered during research _(define)_ after which we generate as many ideas as possible that may solve the problem _(ideate)_. Once we have a good amount of ideas, we create prototypes _(prototype)_ which can be used to test with potential users _(test)_. 
+Prototyping is the process of creating scaled down versions of  ideas or products. It provides a low-risk way to test, validate and refine designs before investing significant resources to build them. You may recall that prototyping is the fourth stage of design thinking.
 
-There are many benefits or prototypes one of which has been mentioned above, other benefits are:
+![image](https://user-images.githubusercontent.com/1774663/221359537-993a5708-930e-4075-9399-122d24a97cdb.png)
 
-- They enable designers to get feedback early from users. By testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
-- The help to align stakeholders around the design. By creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
-- They save time and resources in the long run. By identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
 
-With the benefits covered let's look at the different types of prototypes which can be used to test, refine and validate ideas/designs. 
+Benefits of prototypes include:
+
+- Enable designers to get feedback early from users. By testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
+- Align stakeholders around the design. By creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
+- Save time and resources in the long run. By identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
+
+Now that we understand their benefits, let's look at the different types of prototypes which can be used to test, refine and validate ideas/designs. 
 
 
 ## Low, Medium and High Fidelity Prototypes
