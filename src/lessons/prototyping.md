@@ -1,6 +1,6 @@
 # Prototyping
 
-E*stimated Time: XXX hours*
+E*stimated Time: 60 minutes*
 
 ---
 
