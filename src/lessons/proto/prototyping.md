@@ -10,9 +10,9 @@ Prototyping is the process of creating scaled down versions of  ideas or product
 
 Benefits of prototypes include:
 
-- Enable designers to get feedback early from users. By testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
-- Align stakeholders around the design. By creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
-- Save time and resources in the long run. By identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
+- **Enable designers to get feedback early from users.** By testing prototypes with users, designers can gain valuable insights into how users interact with products and identify areas for improvement.  
+- **Align stakeholders around the design.** By creating tangible prototypes that stakeholders can interact with, designers can better communicate their designs and get buy-in from stakeholders.
+- **Save time and resources.** By identifying and addressing design problems early, designers can avoid costly and time-consuming changes later on.
 
 Now that we understand their benefits, let's look at the different types of prototypes which can be used to test, refine and validate ideas/designs. 
 
