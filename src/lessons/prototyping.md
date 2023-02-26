@@ -16,4 +16,18 @@ After completing this lesson, you will be able to:
 - Create interactive wireframes using Figma 
 - Conduct usability tests to measure the effectiveness of user interfaces 
 
+## Sections
+
+<aside>
+
+👩🏿‍🏫 Complete this lesson by exploring each section
+
+</aside>
+
+[Prototyping](lessons/userflows/ia.md)
+
+[Usability Testing](lessons/userflows/userflows.md)
+
+[Wrap Up](lessons/useflows/wrap-up.md)
+
 ---
