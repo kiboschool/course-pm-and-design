@@ -12,7 +12,7 @@ E*stimated Time: 60 minutes*
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
-- Use various prototyping tools and resources to validate your ideas
+- Use various prototyping techniques and tools to validate your ideas
 - Create interactive wireframes using Figma 
 - Conduct usability tests to measure the effectiveness of user interfaces 
 
