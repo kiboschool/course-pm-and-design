@@ -24,10 +24,10 @@ After completing this lesson, you will be able to:
 
 </aside>
 
-[Prototyping](lessons/userflows/ia.md)
+[Prototyping](lessons/proto/prototyping.md)
 
-[Usability Testing](lessons/userflows/userflows.md)
+[Usability Testing](lessons/proto/ut.md)
 
-[Wrap Up](lessons/useflows/wrap-up.md)
+[Wrap Up](lessons/proto/wrap-up.md)
 
 ---
