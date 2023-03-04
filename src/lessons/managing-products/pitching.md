@@ -4,13 +4,13 @@
 
 ---
 
-Throughout this class, you've learned how to build products, with an emphasis on building the right thing. We finish the class with a brief discussion of pitching product ideas. Pitching is a key skill for product managers and designers. You may find yourself pitching to:
+Throughout this class, you've learned how to build products, with an emphasis on building the right thing. We finish with a brief discussion of pitching product ideas. Pitching is a key skill for product managers and designers. You may find yourself pitching to:
 
-- Attracting investors or stakeholders: if you are seeking funding for your product or idea, you need to be able to pitch it effectively to investors. If you are at a company and seeking permission to work on a new product feature or idea, you may need to pitch to executives to convince them to invest
+- Attract investors or stakeholders: if you are seeking funding for your product or idea, you need to be able to pitch it effectively to investors. If you are at a company and seeking permission to work on a new product feature or idea, you may need to pitch to executives to allow you to invest time in the project.
 
-- Convincing customers: You need to be able to articulate the benefits of your product or idea in a clear and compelling way in order to convince potential customers to buy or use it.
+- Convince customers: You need to be able to articulate the benefits of your product to convince potential customers to buy or use it.
 
-- Recruiting team members: If you are building a team to work on your product or idea, you need to be able to pitch it to potential team members in order to convince them to join you.
+- Recruiting team members: you need to be able to pitch your idea to convince potential team members to work with you 
 
 - Differentiating yourself from competitors: A good pitch can help you stand out from your competitors and position your product or idea as unique and valuable.
 
@@ -21,11 +21,9 @@ For all the reasons above, learning how to create a compelling pitch is critical
 
 Below, you will watch a video from Y Combinator's Startup School describing how to pitch. 
 
-Y Combinator is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It is one of the most well-known and successful accelerators in the world, having launched companies such as Airbnb, Dropbox, and Stripe.
+<a href="https://www.ycombinator.com/" target="_blank">Y Combinator</a>(YC) is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It is one of the most well-known accelerators in the world. Airbnb, Dropbox, and Stripe are among the most well-known YC companies.
 
-Startup School is an online program run by Y Combinator that provides educational resources and mentorship to early-stage startups. The program consists of a series of lectures, office hours with experienced entrepreneurs, and other resources designed to help startups build and grow their businesses. The program is open to startups of all types and stages, and is particularly useful for those who are just starting out and looking for guidance and support from experienced mentors and peers. Additionally, it is free of charge and open to startups from all over the world.
-
-While the video is specifically geared toward pitching investors, it includes great insight on pitching generally
+YC runs <a href="https://www.startupschool.org/" target="_blank"> Startup School, an online program that provides resources to early-stage startups. It is free of charge and open to startups from all over the world. The video below is from a Startup School lecture on how to pitch. The video is geared towards pitching investors and it is long (~ 28 minutes). Still it provides **excellent** insight on pitching, and is well worth the time to watch!
 
 <aside> 
   📺 Watch the video below on pitching from Y Combinator's startup school
@@ -40,19 +38,19 @@ While the video is specifically geared toward pitching investors, it includes gr
 ### Video Notes
 From the video, we learned that a good pitch is clear, concise, and creates a foundation for curiosity. 
 
-A good pitch **answers:**
+**A good pitch answers:**
 - What are you making?
 - What is the problem?
 - Who is the customer?
 
-A good pitch **is:**
+**A good pitch is**
 - **Legible:** a legible idea can be understood by people who know nothing about your business
 - **Problem-focused:** people need to **understand the proble**m you're solving
 - **Conversational:** you should be able ot explain to your mom and have her understand it. It includes no jargon
 
-A good pitch **avoids:**
-- Ambiguity
-- Complexity (don't have multiple braids or trying to mix a lot of things
-- Mystery (jargon)
-- Ignorable (marketing speak, mba speak, buzzwords)
+**A good pitch avoids:**
+- **Ambiguity:** don't use abstract descriptions. Aim to be so clear that your mom can understand it!
+- **Complexity:** don't weave multiple storylines or ideas together in your description
+- **Mystery:** remove jargon, suggestions, or anything that typical users won't undersatnd
+- **Ignorable language:** avoid language that users will ignore, such as marketing speak, mba speak, jargon and buzzwords 
 
