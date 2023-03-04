@@ -12,7 +12,7 @@ E*stimated Time: XXX hours*
 ## **Learning Outcomes**
 
 After completing this lesson, you will be able to:
-- Describe basics of agile software development and understand iterative software development
+- Describe the basics of agile software development and understand iterative software development
 - Understand product metrics, and define actionable metrics
 - Create a clear and concise pitch for a new software product
 
