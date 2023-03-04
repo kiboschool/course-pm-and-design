@@ -4,11 +4,10 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/1774663/210020049-d4bf0208-eace-4fc1-aa35-2575522fa1f4.png)
+  🗣 **"If you can't measure it, you can't improve it"** 
+</aside>
 
-
-Previously, we discussed crafting MVPS and using the "Build, Measure, Learn" (Learn, Build, Measure) framework to iterate towards a userful product. We've also examined agile development, a methodology that helps product teams implement iterative development.  For iterative development to deliver value, teams have to measure and learn. In this lesson, we explore how to determine the right things to measure, i.e., metrics, to deliver value.
-
+We previously discussed crafting MVPS and using the "Build, Measure, Learn" framework to iterate towards a useful product. For iterative development to deliver customer and business value, software teams have to measure the right things, then learn from them. In this lesson, we explore how to determine the right product metrics to measure. 
 
 Measuring the right metrics and drawing useful insights can be challenging. Product teams often make two mistakes when it comes to metrics
 
@@ -18,7 +17,7 @@ Measuring the right metrics and drawing useful insights can be challenging. Prod
 
 ## Metrics mistakes
 
-### Vanity metrics
+## Vanity metrics
 
 <aside>
   
@@ -43,19 +42,19 @@ These metrics may provide some indication of reach, but what makes them "vanity 
 ### Data rich _but_ insight poor
 Being data-rich but insight-poor means that an organization has access to large amounts of data, but is not able to extract meaningful insights. In other words, the organization may be collecting data but cannot use it effectively to inform decision-making or drive improvements.
 
-### Actionable metrics
+## Avoiding mistakes with actionable metrics
 The two metrics mistakes above have the same solution:
 <aside>
   💡 Measure what matters
   </aside>
   
-Software teams can avoid relying on vanity metrics and draw meaningful insight from data by:
-1. Tracking metrics that are tied to specific business goals or user needs. These "actionable metrics" help teams understand how the software is performing and how it can be improved.
-2. Tracking metrics consistently and accurately. If the data being collected is inaccurate or incomplete, it may be difficult to draw meaningful conclusions or make informed decisions based on that data. So, good teams ensure they collect data well 
-3. Analyzing data regularly: Having access to high-quality data is not enough. Organizations will need to have the skills and make the time to analyze that data effectively
+Measuring what matters means:
+1. Tracking metrics that are tied to specific business goals or user needs. These "actionable metrics" help teams understand how the software is performing and how it can be improved.<br>
+2. Tracking metrics consistently and accurately. If the data being collected is inaccurate or incomplete, it may be difficult to draw meaningful conclusions or make informed decisions based on that data. So, good teams ensure they collect data well. <br>
+3. Analyzing data regularly: Having access to high-quality data is not enough. Organizations will need to have the skills and make the time to analyze that data effectively.
 
 
-### Metrics practice
+### 🤔 What Matters for this Product?
 
 <aside> You’ve just launched LectureLive, a video streaming service for university students to access and download high-quality video lectures. What are your key product success metrics?
 </aside>
