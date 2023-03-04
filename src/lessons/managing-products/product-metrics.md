@@ -46,7 +46,7 @@ Being data-rich but insight-poor means that an organization has access to large 
 ### Actionable metrics
 The two metrics mistakes above have the same solution:
 <aside>
-  Measure what matters
+  💡 Measure what matters
   </aside>
   
 Software teams can avoid relying on vanity metrics and draw meaningful insight from data by:
