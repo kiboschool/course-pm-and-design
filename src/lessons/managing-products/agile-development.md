@@ -10,7 +10,6 @@ You may recall that the class began with an assertion that **software is a team 
 
 ## What is Agile?
 
-<img width="811" alt="image" src="https://user-images.githubusercontent.com/1774663/221367298-d9268e7a-d6ca-4e9d-b417-41076cf65aa4.png">
 
 
 Agile software development is an approach to software development that emphasizes **building and shipping small pieces of working functionality.** It is often used in software development but can also be applied to other types of projects.
@@ -33,6 +32,7 @@ As the video notes, agile  development is an _iterative_ approach to software de
 
 Agile teams typically work in short cycles called sprints or iterations. Each sprint results in a working product, which the team uses to solicit feedback from stakeholders and to refine and plan the next sprint.
 
+<img width="811" alt="image" src="https://user-images.githubusercontent.com/1774663/221367298-d9268e7a-d6ca-4e9d-b417-41076cf65aa4.png">
 
 
 ### Why Iterative Development Matters
