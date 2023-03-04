@@ -7,10 +7,10 @@
 ![image](https://user-images.githubusercontent.com/1774663/210020049-d4bf0208-eace-4fc1-aa35-2575522fa1f4.png)
 
 
-Previously, we discussed crafting MVPS and using the "Build, Measure, Learn" (Learn, Build, Measure) framework to iterate towards a userful product. We've also examined agile development, a methodology that helps product teams implement iterative development.  For iterative development to deliver value, teams have to measure and learn. In this lesson, we explore how to use metrics to improve products. 
+Previously, we discussed crafting MVPS and using the "Build, Measure, Learn" (Learn, Build, Measure) framework to iterate towards a userful product. We've also examined agile development, a methodology that helps product teams implement iterative development.  For iterative development to deliver value, teams have to measure and learn. In this lesson, we explore how to determine the right things to measure, i.e., metrics, to deliver value.
 
 
-Measuring the right metrics and drawing useful insights can be challenging. Often, product teams make two mistakes when it comes to metrics
+Measuring the right metrics and drawing useful insights can be challenging. Product teams often make two mistakes when it comes to metrics
 
 1. They rely on vanity metrics
 2. They are data rich _but_ insight poor
@@ -26,25 +26,25 @@ Measuring the right metrics and drawing useful insights can be challenging. Ofte
 </aside>
 
 
-Vanity metrics are metrics that may be impressive on the surface but do not provide meaningful insights into the performance of the software. Some examples are:
+Vanity metrics may be impressive _on the surface_ but do not provide meaningful insights into the performance of the software. Some examples are:
 
 - Pageviews: pageviews can be misleading because a website may get a lot of visitors, but it doesn't indicate whether users are actually engaging with the content on the site.
 
-- Downloads: the number of downloads for a mobile app can be a vanity metric if many users download the app but few actually use it.
+- Downloads: the number of downloads for a mobile app can be a vanity metric if many users download the app but few actually use it
 
-- Sign-ups: the number of sign-ups for a service can be a vanity metric if many users sign up but few actually become regular users.
+- Sign-ups: the number of sign-ups for a service can be a vanity metric if many users sign up but few actually become regular users
 
-- Social media followers: having a large number of social media followers may be impressive, but it doesn't necessarily translate into meaningful engagement or business value.
+- Social media followers: having a large number of social media followers doesn't necessarily translate into meaningful engagement with the product
 
 - Time spent on site: the amount of time users spend on a website can be a vanity metric since it doesn't necessarily indicate whether users are finding what they need or taking desired actions.
 
 These metrics may provide some indication of reach, but what makes them "vanity metrics" is that they don't necessarily tell us if the product is meeting the goals of the user or business. 
 
 ### Data rich _but_ insight poor
-Being data-rich but insight-poor means that an organization has access to large amounts of data but is not able to extract meaningful insights or take action based on that data. In other words, the organization may be collecting data but is not able to use it effectively to inform decision-making or drive improvements.
+Being data-rich but insight-poor means that an organization has access to large amounts of data, but is not able to extract meaningful insights. In other words, the organization may be collecting data but cannot use it effectively to inform decision-making or drive improvements.
 
 ### Actionable metrics
-The two data challenges above have the same solution:
+The two metrics mistakes above have the same solution:
 <aside>
   Measure what matters
   </aside>
@@ -86,11 +86,12 @@ Incomplete picture: Focusing on a single metric can provide an incomplete pictur
 To avoid these risks, it is important for product teams to consider the context and broader business objectives when identifying an OMTM. They should also regularly review other metrics and user feedback to ensure that they are not inadvertently sacrificing long-term success for short-term gains. Finally, it's important to keep in mind that the OMTM is a tool for driving improvements in product performance, not an end goal in itself. By staying focused on the broader business objectives and user needs, product teams can avoid the risks of focusing too heavily on a single metric.
 
 
-insert padlet:
-You’ve just launched LectureLive, a video streaming service for university students to access and download high-quality video lectures. 
+### Metrics practice
 
-What are your key product success metrics?
+<aside> You’ve just launched LectureLive, a video streaming service for university students to access and download high-quality video lectures. What are your key product success metrics?
+</aside>
 
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/3e7g5hcrc5jfgm5" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Made with Padlet"></div></a></div></div>
 
 
 
