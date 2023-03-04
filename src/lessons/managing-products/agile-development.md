@@ -6,13 +6,13 @@
 
 ![image](https://user-images.githubusercontent.com/1774663/222887198-8e954ab9-1953-46eb-8804-e5c7672bcd7e.png)
 
-You may recall that the class began with an assertion that **software is a team sport!** Even though there can be some friction (remember the image above?), building great products requires collaboration and engagement with users and team members. In this lesson, we explore how agile development helps software teams collaborate well. 
+We began this with an assertion that **software is a team sport!** 
+
+Even though there can be some friction (remember the image above?), building great products requires collaboration and engagement with users and team members. In this lesson, we explore how agile development helps software teams collaborate well. 
 
 ## What is Agile?
 
-
-
-Agile software development is an approach to software development that emphasizes **building and shipping small pieces of working functionality.** It is often used in software development but can also be applied to other types of projects.
+Agile software development is an approach to software development that emphasizes **building and shipping small pieces of working functionality.** 
 
 <aside>
   📺 Watch the video below for an overview of agile development
@@ -23,21 +23,25 @@ Agile software development is an approach to software development that emphasize
 </div>
 
 
-As the video notes, agile  development is an _iterative_ approach to software development. Agile teams focus on delivering a working product incrementally. They value collaboration, flexibility, and rapid iteration. Agile is so popular that there is an "agile manifestor" which describes its core principles including:
+### Key Learnings
+
+1. Agile  development is an _iterative_ approach to software development. Agile teams focus on delivering a working product incrementally. They value collaboration, flexibility, and rapid iteration. 
+
+2. Agile is so popular that there is an "agile manifesto" which describes its core principles including:
 
 - Individuals and interactions over processes and tools
 - Working software over comprehensive documentation
 - Customer collaboration over contract negotiation
 - Responding to change over following a plan
 
-Agile teams typically work in short cycles called sprints or iterations. Each sprint results in a working product, which the team uses to solicit feedback from stakeholders and to refine and plan the next sprint.
+3. Agile teams typically work in short cycles called sprints or iterations. Each sprint results in a working product, which the team uses to solicit feedback from stakeholders and to refine and plan the next sprint.
 
 <img width="811" alt="image" src="https://user-images.githubusercontent.com/1774663/221367298-d9268e7a-d6ca-4e9d-b417-41076cf65aa4.png">
 
 
 ### Why Iterative Development Matters
 
-Iterative development is at the heart of agile software development, and it helps to promote:
+Iterative development is at the heart of agile and it helps to promote:
 
 - Faster time-to-market: By delivering working products incrementally, agile teams can release products faster and get customer feedback sooner.
 - Increased flexibility: Agile teams can respond to changing requirements and customer needs quickly, making it easier to pivot if necessary.
@@ -46,7 +50,7 @@ Iterative development is at the heart of agile software development, and it help
 
 ### Alternatives to Agile
 
-While agile is a popular approach to software development, it's not the only option. One alternative to agile is waterfall development. Waterfall is a traditional project management approach that involves a linear sequence of phases, including planning, design, implementation, testing, and deployment. Each approach has its own advantages and disadvantages, and the best approach for a given project depends on various factors such as project scope, team size, and available resources.
+While agile development is extremely popular, it's not the only option. One alternative to agile is waterfall development. Waterfall is a traditional project management approach that involves a linear sequence of phases, including planning, design, implementation, testing, and deployment. Each approach has its own advantages and disadvantages, and the best approach for a given project depends on various factors such as project scope, team size, and available resources.
 
 ## Agile sprints
 An agile sprint is a short, focused period of development that typically lasts 1-4 weeks. During a sprint, the development team works to deliver a specific set of features or functionality. The sprint begins with a sprint planning meeting, where the team reviews the backlog of user stories and selects the stories that they will work on during the sprint.
@@ -69,15 +73,15 @@ User stories are a critical part of the sprint planning process. User stories de
 <aside> 🧑🏿‍🤝‍🧑🏽🧑🏿‍🤝‍🧑🏽 Software is a team sport!
   </aside>
   
-  Software is a team sport, and different team members contribute to the success of an agile sprint. Below is a summary of what various team members do during a sprint
+ Different team members contribute to the success of an agile sprint. Below is a summary of what various team members do during a sprint
   
-  Product Manager or Owner: defines and prioritizes the backlog of user stories, and makes sure that the team is working on features that deliver value to the users and business 
+  Product Manager or Owner: defines and prioritizes the backlog of user stories, and ensures the team is working on features that deliver value
   
-  UX designer: create wireframes, prototypes, or other designs to guide development, and works with development team to ensure that the design is implemented correctly and to gather feedback on the usability
+  UX designer: create wireframes, prototypes, or other designs to guide development, and works with development team to ensure that the design is implemented correctly 
 
-Software engineers: build and deliver working software during the sprint, including coding, testing and deployment.
+Software engineers: build and deliver working software during the sprint, including coding, testing and deployment
 
-Scrum Master: facilitates sprint planning and retrospective meetings, and helping the team to continuously improve their process. This might be the product manager or a senior engineer
+Scrum Master: facilitates sprint planning and retrospective meetings, and helps the team to continuously improve their process. In some teams, the product manager or a senior engineer plays the role of scrum master
 
 Stakeholders: Stakeholders are the people who will be using or affected by the software being developed. They provide feedback on the working software during the sprint review and may provide input on user stories during the sprint planning process.
 
