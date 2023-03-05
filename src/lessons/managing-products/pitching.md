@@ -21,13 +21,14 @@ For all the reasons above, learning how to create a compelling pitch is critical
 
 Below, you will watch a video from Y Combinator's Startup School describing how to pitch. 
 
-<a href="https://www.ycombinator.com/" target="_blank">Y Combinator</a>(YC) is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It is one of the most well-known accelerators in the world. Airbnb, Dropbox, and Stripe are among the most well-known YC companies.
+<a href="https://www.ycombinator.com/" target="_blank">Y Combinator</a> (YC) is a startup accelerator that provides seed funding, mentorship, and resources to early-stage companies. It is one of the most well-known accelerators in the world. Airbnb, Dropbox, and Stripe are among the most well-known YC companies.
 
-YC runs <a href="https://www.startupschool.org/" target="_blank"> Startup School, an online program that provides resources to early-stage startups. It is free of charge and open to startups from all over the world. The video below is from a Startup School lecture on how to pitch. The video is geared towards pitching investors and it is long (~ 28 minutes). Still it provides **excellent** insight on pitching, and is well worth the time to watch!
+YC runs <a href="https://www.startupschool.org/" target="_blank"> Startup School <a>, an online program that provides resources to early-stage startups. It is free of charge and open to startups from all over the world. The video below is from a Startup School lecture on how to pitch. The video is geared towards pitching investors and it is long (~ 28 minutes). Still it provides **excellent** insight on pitching, and is well worth the time to watch!
 
 <aside> 
   📺 Watch the video below on pitching from Y Combinator's startup school
 </aside>
+  
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/17XZGUX_9iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
