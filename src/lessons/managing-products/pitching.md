@@ -28,11 +28,10 @@ YC runs <a href="https://www.startupschool.org/" target="_blank"> Startup School
 <aside> 
   📺 Watch the video below on pitching from Y Combinator's startup school
 </aside>
-
 <div style="position: relative; padding-bottom: 56.25%; height: 0;">
- <iframe width="560" height="315" src="https://www.youtube.com/embed/17XZGUX_9iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
-></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/17XZGUX_9iM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
 </div>
+
 
 
 ### Video Notes
