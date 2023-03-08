@@ -16,7 +16,7 @@ Below is the live class schedule.
 | 6 | Feb 15      | Minimum Viable Product  | <a href="https://youtu.be/2cgZtjeqylk" target="_blank">YouTube</a>       | <a href="https://drive.google.com/file/d/18BEYl1l6VbEg8lNFRDG7CcPVEPJ5z-8u/view?usp=sharing" target="_blank">Slides</a>
 | 7 | Feb 22      | IA & User flows                      |  <a href="https://youtu.be/BXRdLe7wUsU" target="_blank">YouTube</a>  | <a href="https://docs.google.com/presentation/d/16Jpoc5-qD43kuafZUuvvqgUgsfctBp6Q_PZaEydWOeM/edit?usp=sharing" target="_blank">Slides</a>      
 | 8 | Mar 1       | Usability testing                         |   <a href="https://youtu.be/UQiN_iNURV4" target="_blank">YouTube</a>   | <a href="https://docs.google.com/presentation/d/1E_zwAiQ0_tkHG-SOLelBKsnvZuvWhALjltsr66Otnrw/edit?usp=sharing" target="_blank">Slides</a> 
-| 9 | Mar 8       | Product metrics                       |         |
-| 10 | Mar 15     | No Class                                  |   N/A    | N/A 
+| 9 | Mar 8       | Pitching                       |<a href="https://youtu.be/Nwv7HA9pqPs" target="_blank">YouTube</a>         |<a href="https://drive.google.com/file/d/1lSbSBenBBZ7jS9_wUq79zDoeOI6QcW4q/view" target="_blank">Slides</a>
+| 10 | Mar 15     | No class - check Discord for office hours!                                  |   N/A    | N/A 
 
 ---
