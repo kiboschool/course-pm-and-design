@@ -86,6 +86,9 @@ Each team member should submit the following to Woolf:
 - File of your video presentation
 
 
+#### (4) Submit your course evaluation
+We want your candid feedback on the course. We are "iterating toward greatness" can can only do so if we get a bit better each time. Your honest opinion on what worked well and what can be improved is critical. If you have not already done so, plese take 10 minutes to <a href="https://forms.gle/YxqJs3WpG1JQppAn7" target="_blank">submit the course evaluation.</a> Thank you for your time! 🙏🏿
+
 
 
 
