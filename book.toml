@@ -1,0 +1,11 @@
+[book]
+authors = ["Ope Bukola", "Folarin Lawal"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Product Management and Design"
+
+[build]
+build-dir = "output"
+create-missing = false
+use-default-preprocessors = false
